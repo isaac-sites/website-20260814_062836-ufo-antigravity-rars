@@ -1,0 +1,3114 @@
+{
+  "generated_at": "2026-08-14T06:13:13",
+  "passed": true,
+  "baseline": {
+    "article_pages": 261,
+    "amazon_specific_pages": 228,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "UFO_and_antigravity_1a6484": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_inherits_di_bb5bf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_research_li_2f7398": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_records_test_disappe_8368a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_rumor_first_accident_50f01b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_unusual_research_acc_d99c3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_withheld_records_acc_01bf89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_breakthroug_6a5a32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_forensic_te_23baf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_missing_for_35f0fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_nasa_claims_015908": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_prior_warni_55b069": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_intervening_years_ca_a4bb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_earlier_sui_401336": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_2003_2004_tr_f7b10a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_visibility_g_0eac26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_suppression_rumor_ti_f8fc0a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_aawsap_propulsion_my_52c8df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_classified_aircraft_4e569c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_compartmentalization_326565": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_huntsville_secret_pr_e81fdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_reid_sap_request_e74154": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_arpae_lenr_funding_dea49b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_cold_fusion_1989_cri_d441e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_doe_2004_cold_fusion_3955e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_google_2019_cold_fus_56dc54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mallove_suppression_860cfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mit_cold_fusion_disp_aaff02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1967_cia_vi_b64e33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1971_death_f7b4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_archived_pa_9312be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_cia_secrecy_569ba0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_prior_suici_e5f54b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_modern_mcdonald_murd_fd9572": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_common_motive_thresh_83b3a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_communications_commo_05e767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_cross_case_linkage_t_fdb341": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_forensic_operational_34ade1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_recurring_actor_link_c7cb2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_credentials_suppress_9ecde0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_prior_attem_1144aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_stigma_sile_9794c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_antigravity_e4c9c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_army_funding_928683": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_peer_review_a5ee77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2009_witness_9a5f15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2025_disclos_8de488": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_eviction_dis_b85601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_staged_robbe_660d29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_wrong_suspec_257cea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_schaffer_guilty_plea_23d0ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_family_testimony_lim_368143": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_men_ning_li_whereabo_de81c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_china_defect_1d1c9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_classified_s_4eb5ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_antimatter_gravity_t_15fe4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_equivalence_principl_ee579d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_frame_dragging_vs_pr_8175cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_gravity_anomaly_fals_74e165": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_ning_li_gravity_evid_978da7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_brown_retrial_suppre_248512": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_brutality_mo_673f65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_cold_fusion_e69255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_competing_mo_0949fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_research_mot_e5005e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_classified_work_publ_8dcae9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_cummings_contractor_7dbddc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_huntsville_proximity_f76b03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_marshall_nasa_connec_cad935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_redstone_links_consp_aa7362": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_uah_defense_secrecy_f302fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_defense_secrecy_infe_3d50eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_disappearance_rumor_0fcd09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_search_amplified_dis_055cdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_silence_vs_missing_p_dd4590": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_unanswered_contact_s_8f8795": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_condon_reputation_fe_3eb13b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_nasa_uap_stigma_133ee6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_podkletnov_replicati_836273": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_robertson_debunking_d2550e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_superconductor_gravi_27b1e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_uap_reporting_stigma_9ebffe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_april_suici_2ea42f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_final_shoot_55c69d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_personal_cr_de2a2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ridicule_mu_f3ed93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_archive_6de8a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_motive_6938fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_army_funding_antigra_ac21ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_china_rumor_a3c474": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_family_accou_dc60bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_secrecy_clai_8e8987": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_autopsy_rec_58af66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_death_certi_72626c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_police_file_f518b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_suicide_rul_efd7c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_missing_record_statu_276299": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_suicide_public_recor_61e53a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ac_gravity_army_fund_fe4ba1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_george_men_family_ac_ace3bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2003_public_d2613d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_china_claim_9daa52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_eskridge_missing_cau_322678": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mallove_murder_motiv_116b28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mcdonald_obituary_de_f7a6b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_ning_li_disappearanc_1d6afe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_missing_cau_38d85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_praise_scie_14050a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_certificates_v_03eb5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_family_vs_news_obitu_e15d7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_missing_cause_obitua_9907a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_illusory_pattern_per_070bd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_loose_scientist_labe_19ac32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_mixed_death_causes_f47ac9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_posthoc_researcher_c_07c9f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_operation_5651f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_harris_gravitoelectr_9567f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_kowitt_li_torr_criti_bdb9e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_li_torr_claims_vs_re_2301b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_ning_li_1997_gravity_b91352": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_peer_review_ning_li_54ded9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_superconducting_grav_592933": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_congress_circular_co_eb02d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_dying_declaration_li_d0a67d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_eskridge_warning_lim_4548e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_fear_vs_actual_threa_08e5ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_suicide_denial_evide_361c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_explanatio_24c2c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_scientific_991b8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_unidentifi_5a99e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_blue_book_v_03d28d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_suppression_98ffdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_rb47_blue_book_recor_0aa137": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_alabama_death_record_23f99b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_family_caut_86e526": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_warning_mes_c1ed7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_repetition_vs_corrob_127cf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_screenshots_vs_recor_30e660": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_state_of_mind_vs_hom_402c2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_2026_name_tracing_4d8d8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_2026_scientist_list_b3da60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_bridge_labels_resear_d4a41e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_death_category_drift_16ac7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_official_inquiry_not_c304ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_retrospective_ufo_as_c6cd09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_free_energy_lineages_ee53f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_field_drift_246399": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_murder_motiv_116b28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_nasa_propulsion_boun_4c419d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_shared_vocabulary_dr_155588": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_suppression_list_exp_b498aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_death_manner_before_127dc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_identifying_real_mot_0036ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_motive_access_and_op_7fbd92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_research_stakes_and_3fc089": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_testing_researcher_t_7609cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_contemporary_vs_late_f64bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_federal_review_scien_af31f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_missing_autopsy_reco_57fd12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_predicted_suicide_de_0d3d4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_prior_attempts_dispu_43f5d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_staged_suicide_evide_58812f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_condon_report_stigma_2913eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mcdonald_reputation_58ddb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mixed_ufo_evidence_s_1610f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_robertson_panel_stig_2fdd4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_ufo_career_incentive_14cc69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_vallee_public_cautio_e03a7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 254,
+    "amazon_specific_pages": 223,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "UFO_and_antigravity_1a6484": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_inherits_di_bb5bf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_research_li_2f7398": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_records_test_disappe_8368a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_rumor_first_accident_50f01b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_unusual_research_acc_d99c3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_withheld_records_acc_01bf89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_breakthroug_6a5a32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_forensic_te_23baf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_missing_for_35f0fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_nasa_claims_015908": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_prior_warni_55b069": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_intervening_years_ca_a4bb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_earlier_sui_401336": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_2003_2004_tr_f7b10a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_visibility_g_0eac26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_chronology_test_4f29a5_suppression_rumor_ti_f8fc0a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_aawsap_propulsion_my_52c8df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_classified_aircraft_4e569c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_compartmentalization_326565": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_huntsville_secret_pr_e81fdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_classified_program_c_591ee0_reid_sap_request_e74154": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_arpae_lenr_funding_dea49b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_cold_fusion_1989_cri_d441e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_doe_2004_cold_fusion_3955e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_google_2019_cold_fus_56dc54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mallove_suppression_860cfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mit_cold_fusion_disp_aaff02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1967_cia_vi_b64e33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1971_death_f7b4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_archived_pa_9312be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_cia_secrecy_569ba0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_prior_suici_e5f54b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_modern_mcdonald_murd_fd9572": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_common_motive_thresh_83b3a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_communications_commo_05e767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_cross_case_linkage_t_fdb341": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_forensic_operational_34ade1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_recurring_actor_link_c7cb2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_credentials_suppress_9ecde0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_prior_attem_1144aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_stigma_sile_9794c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_antigravity_e4c9c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_army_funding_928683": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_peer_review_a5ee77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2009_witness_9a5f15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2025_disclos_8de488": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_eviction_dis_b85601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_staged_robbe_660d29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_wrong_suspec_257cea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_schaffer_guilty_plea_23d0ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_family_testimony_lim_368143": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_men_ning_li_whereabo_de81c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_china_defect_1d1c9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_classified_s_4eb5ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_antimatter_gravity_t_15fe4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_equivalence_principl_ee579d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_frame_dragging_vs_pr_8175cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_gravity_anomaly_fals_74e165": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_ning_li_gravity_evid_978da7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_brown_retrial_suppre_248512": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_brutality_mo_673f65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_cold_fusion_e69255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_competing_mo_0949fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_research_mot_e5005e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_classified_work_publ_8dcae9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_cummings_contractor_7dbddc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_huntsville_proximity_f76b03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_marshall_nasa_connec_cad935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_redstone_links_consp_aa7362": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_huntsville_context_746ced_uah_defense_secrecy_f302fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_defense_secrecy_infe_3d50eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_disappearance_rumor_0fcd09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_search_amplified_dis_055cdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_silence_vs_missing_p_dd4590": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_unanswered_contact_s_8f8795": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_condon_reputation_fe_3eb13b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_nasa_uap_stigma_133ee6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_podkletnov_replicati_836273": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_robertson_debunking_d2550e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_superconductor_gravi_27b1e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_uap_reporting_stigma_9ebffe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_april_suici_2ea42f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_final_shoot_55c69d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_personal_cr_de2a2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ridicule_mu_f3ed93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_archive_6de8a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_motive_6938fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_army_funding_antigra_ac21ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_china_rumor_a3c474": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_family_accou_dc60bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_secrecy_clai_8e8987": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_autopsy_rec_58af66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_death_certi_72626c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_police_file_f518b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_suicide_rul_efd7c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_missing_record_statu_276299": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_suicide_public_recor_61e53a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ac_gravity_army_fund_fe4ba1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_george_men_family_ac_ace3bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2003_public_d2613d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2014_acciden_e0df29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_china_claim_9daa52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_eskridge_missing_cau_322678": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mallove_murder_motiv_116b28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mcdonald_obituary_de_f7a6b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_ning_li_disappearanc_1d6afe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_missing_cau_38d85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_praise_scie_14050a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_illusory_pattern_per_070bd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_loose_scientist_labe_19ac32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_mixed_death_causes_f47ac9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_posthoc_researcher_c_07c9f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_operation_5651f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_harris_gravitoelectr_9567f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_kowitt_li_torr_criti_bdb9e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_li_torr_claims_vs_re_2301b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_ning_li_1997_gravity_b91352": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_peer_review_ning_li_54ded9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_superconducting_grav_592933": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_congress_circular_co_eb02d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_dying_declaration_li_d0a67d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_eskridge_warning_lim_4548e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_fear_vs_actual_threa_08e5ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_suicide_denial_evide_361c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_explanatio_24c2c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_scientific_991b8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_unidentifi_5a99e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_blue_book_v_03d28d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_suppression_98ffdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_rb47_blue_book_recor_0aa137": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_alabama_death_record_23f99b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_family_caut_86e526": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_warning_mes_c1ed7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_repetition_vs_corrob_127cf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_screenshots_vs_recor_30e660": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_public_private_evide_7145a9_state_of_mind_vs_hom_402c2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_2026_name_tracing_4d8d8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_2026_scientist_list_b3da60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_bridge_labels_resear_d4a41e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_death_category_drift_16ac7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_official_inquiry_not_c304ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_retrospective_ufo_as_c6cd09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_free_energy_lineages_ee53f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_field_drift_246399": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_murder_motiv_116b28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_nasa_propulsion_boun_4c419d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_shared_vocabulary_dr_155588": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_field_drift_4cd429_suppression_list_exp_b498aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_death_manner_before_127dc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_identifying_real_mot_0036ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_motive_access_and_op_7fbd92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_research_stakes_and_3fc089": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_testing_researcher_t_7609cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_contemporary_vs_late_f64bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_federal_review_scien_af31f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_missing_autopsy_reco_57fd12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_predicted_suicide_de_0d3d4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_prior_attempts_dispu_43f5d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_staged_suicide_evide_58812f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_condon_report_stigma_2913eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mcdonald_reputation_58ddb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mixed_ufo_evidence_s_1610f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_robertson_panel_stig_2fdd4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_ufo_career_incentive_14cc69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_vallee_public_cautio_e03a7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 254,
+  "regressions": []
+}

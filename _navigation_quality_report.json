@@ -1,0 +1,2556 @@
+{
+  "generated_at_utc": "2026-08-14T05:13:09.618657Z",
+  "summary": {
+    "total_pages_with_permalink": 254,
+    "visible_pages": 223,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1311,
+    "inline_internal_target_page_count": 216,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 7,
+    "visible_pages_with_inline_outbound_links": 223,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 5.88,
+    "unresolved_inline_internal_target_count": 7,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 223,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+        "title": "Family Timeline",
+        "permalink": "/family-timeline/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+        "title": "2014 Accident",
+        "permalink": "/2014-accident-793b5c/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a",
+        "title": "Death Records Vs Obi",
+        "permalink": "/death-records-vs-obi/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38",
+        "title": "Eskridge Obituary",
+        "permalink": "/eskridge-obituary/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0",
+        "title": "Mcdonald Obituary",
+        "permalink": "/mcdonald-obituary/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401",
+        "title": "Obituary Types Evide",
+        "permalink": "/obituary-types-evide/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_alabama_death_record_23f99b",
+        "title": "Death Records",
+        "permalink": "/death-records/"
+      }
+    ],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "UFO_and_antigravity_1a6484",
+        "title": "UFO and antigravity",
+        "permalink": "/ufo-and-antigravity/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "title": "Accidents",
+        "permalink": "/accidents/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_inherits_di_bb5bf3",
+        "title": "Narrative Timing",
+        "permalink": "/narrative-timing/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_research_li_2f7398",
+        "title": "Linking Evidence",
+        "permalink": "/linking-evidence/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_records_test_disappe_8368a4",
+        "title": "Record Checks",
+        "permalink": "/record-checks/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_rumor_first_accident_50f01b",
+        "title": "Rumor First",
+        "permalink": "/rumor-first/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_unusual_research_acc_d99c3f",
+        "title": "Extraordinary Work",
+        "permalink": "/extraordinary-work/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_withheld_records_acc_01bf89",
+        "title": "Withheld Records",
+        "permalink": "/withheld-records/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "title": "Eskridge",
+        "permalink": "/eskridge/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_breakthroug_6a5a32",
+        "title": "Motive Gap",
+        "permalink": "/motive-gap/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0",
+        "title": "Energy Claims",
+        "permalink": "/energy-claims/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_forensic_te_23baf2",
+        "title": "Key Tests",
+        "permalink": "/key-tests/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_missing_for_35f0fe",
+        "title": "Missing Records",
+        "permalink": "/missing-records-8c86d7/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_nasa_claims_015908",
+        "title": "Research Role",
+        "permalink": "/research-role/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_prior_warni_55b069",
+        "title": "Prior Warnings",
+        "permalink": "/prior-warnings/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "title": "Timeline Test",
+        "permalink": "/timeline-test/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_intervening_years_ca_a4bb09",
+        "title": "Intervening Years",
+        "permalink": "/intervening-years/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_earlier_sui_401336",
+        "title": "Earlier Attempt",
+        "permalink": "/earlier-attempt/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3",
+        "title": "Final Months",
+        "permalink": "/final-months/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_2003_2004_tr_f7b10a",
+        "title": "2003 2004 Trail",
+        "permalink": "/2003-2004-trail/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_visibility_g_0eac26",
+        "title": "Silence vs Missing",
+        "permalink": "/silence-vs-missing/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_suppression_rumor_ti_f8fc0a",
+        "title": "Rumor Timing",
+        "permalink": "/rumor-timing/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "title": "Secret Programs",
+        "permalink": "/secret-programs/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_aawsap_propulsion_my_52c8df",
+        "title": "AAWSAP Papers",
+        "permalink": "/aawsap-papers/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_classified_aircraft_4e569c",
+        "title": "Secret Aircraft",
+        "permalink": "/secret-aircraft/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_compartmentalization_326565",
+        "title": "Compartment Gaps",
+        "permalink": "/compartment-gaps/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_huntsville_secret_pr_e81fdc",
+        "title": "Huntsville",
+        "permalink": "/huntsville-c2e431/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f",
+        "title": "KONA BLUE",
+        "permalink": "/kona-blue/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_reid_sap_request_e74154",
+        "title": "Reid SAP Bid",
+        "permalink": "/reid-sap-bid/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "title": "Cold Fusion",
+        "permalink": "/cold-fusion/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_arpae_lenr_funding_dea49b",
+        "title": "ARPA E Return",
+        "permalink": "/arpa-e-return/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_cold_fusion_1989_cri_d441e8",
+        "title": "1989 Crisis",
+        "permalink": "/1989-crisis/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_doe_2004_cold_fusion_3955e5",
+        "title": "DOE Review",
+        "permalink": "/doe-review/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_google_2019_cold_fus_56dc54",
+        "title": "Google Retest",
+        "permalink": "/google-retest/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mallove_suppression_860cfe",
+        "title": "Mallove Claims",
+        "permalink": "/mallove-claims/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mit_cold_fusion_disp_aaff02",
+        "title": "MIT Dispute",
+        "permalink": "/mit-dispute/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "title": "Contemporary Records",
+        "permalink": "/contemporary-records/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1967_cia_vi_b64e33",
+        "title": "1967 Views",
+        "permalink": "/1967-views/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1971_death_f7b4f9",
+        "title": "Mcdonald 1971 Death",
+        "permalink": "/mcdonald-1971-death/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_archived_pa_9312be",
+        "title": "Archived Papers",
+        "permalink": "/archived-papers/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_cia_secrecy_569ba0",
+        "title": "CIA Secrecy",
+        "permalink": "/cia-secrecy/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_prior_suici_e5f54b",
+        "title": "Earlier Attempt",
+        "permalink": "/earlier-attempt-9ba5a1/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_modern_mcdonald_murd_fd9572",
+        "title": "Modern Claims",
+        "permalink": "/modern-claims/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "title": "Coordination",
+        "permalink": "/coordination/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_common_motive_thresh_83b3a3",
+        "title": "Common Motive",
+        "permalink": "/common-motive/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_communications_commo_05e767",
+        "title": "Proof of Intent",
+        "permalink": "/proof-of-intent/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "title": "Competing Explanations",
+        "permalink": "/competing-explanations/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_cross_case_linkage_t_fdb341",
+        "title": "Cross Case Links",
+        "permalink": "/cross-case-links/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_forensic_operational_34ade1",
+        "title": "Forensic Links",
+        "permalink": "/forensic-links/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_recurring_actor_link_c7cb2b",
+        "title": "Recurring Actors",
+        "permalink": "/recurring-actors/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "title": "Credentials",
+        "permalink": "/credentials/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_credentials_suppress_9ecde0",
+        "title": "Credentials Gap",
+        "permalink": "/credentials-gap/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_prior_attem_1144aa",
+        "title": "Prior Attempt",
+        "permalink": "/prior-attempt/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_stigma_sile_9794c2",
+        "title": "Stigma vs Silencing",
+        "permalink": "/stigma-vs-silencing/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_antigravity_e4c9c7",
+        "title": "Li s Experiments",
+        "permalink": "/li-s-experiments/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_army_funding_928683",
+        "title": "Army Funding",
+        "permalink": "/army-funding/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_peer_review_a5ee77",
+        "title": "Peer Review",
+        "permalink": "/peer-review-07ba46/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "title": "Mallove",
+        "permalink": "/mallove/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2009_witness_9a5f15",
+        "title": "2009 Breakthrough",
+        "permalink": "/2009-breakthrough/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2025_disclos_8de488",
+        "title": "2025 Ruling",
+        "permalink": "/2025-ruling/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_eviction_dis_b85601",
+        "title": "Eviction Dispute",
+        "permalink": "/eviction-dispute/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_staged_robbe_660d29",
+        "title": "Staged Robbery",
+        "permalink": "/staged-robbery/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_wrong_suspec_257cea",
+        "title": "Wrong Suspects",
+        "permalink": "/wrong-suspects/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_schaffer_guilty_plea_23d0ce",
+        "title": "Schaffer Plea",
+        "permalink": "/schaffer-plea/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "title": "Family Accounts",
+        "permalink": "/family-accounts/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_family_testimony_lim_368143",
+        "title": "Limits of Testimony",
+        "permalink": "/limits-of-testimony/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_men_ning_li_whereabo_de81c9",
+        "title": "Men s Account",
+        "permalink": "/men-s-account/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_2014_acciden_e0df29",
+        "title": "2014 Accident",
+        "permalink": "/2014-accident/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_china_defect_1d1c9a",
+        "title": "China Rumor",
+        "permalink": "/china-rumor/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_classified_s_4eb5ee",
+        "title": "Defense Silence",
+        "permalink": "/defense-silence/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7",
+        "title": "Death Record",
+        "permalink": "/death-record/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+        "title": "Family Testimony 569 522999 Li Defense Work...",
+        "permalink": "/family-testimony-569-522999-li-defense/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+        "title": "Family Timeline",
+        "permalink": "/family-timeline/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+        "title": "2014 Accident",
+        "permalink": "/2014-accident-793b5c/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+        "title": "Family Testimony 569 522999 Ning Li China...",
+        "permalink": "/family-testimony-569-522999-ning-li/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437",
+        "title": "Death Records",
+        "permalink": "/death-records/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+        "title": "Family Testimony 569 522999 Ning Li Rumor...",
+        "permalink": "/family-testimony-569-522999-ning-li-03512e/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "title": "Antigravity",
+        "permalink": "/antigravity/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_antimatter_gravity_t_15fe4f",
+        "title": "Antimatter",
+        "permalink": "/antimatter/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_equivalence_principl_ee579d",
+        "title": "Equivalence Tests",
+        "permalink": "/equivalence-tests/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_frame_dragging_vs_pr_8175cb",
+        "title": "Frame Dragging",
+        "permalink": "/frame-dragging/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_gravity_anomaly_fals_74e165",
+        "title": "False Signals",
+        "permalink": "/false-signals/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_ning_li_gravity_evid_978da7",
+        "title": "Ning Li",
+        "permalink": "/ning-li-5efa69/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "title": "Podkletnov",
+        "permalink": "/podkletnov/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+        "title": "Motive Test",
+        "permalink": "/motive-test/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_brown_retrial_suppre_248512",
+        "title": "Retrial and Motive",
+        "permalink": "/retrial-and-motive/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_brutality_mo_673f65",
+        "title": "Brutality and Motive",
+        "permalink": "/brutality-and-motive/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_cold_fusion_e69255",
+        "title": "Cold Fusion Timing",
+        "permalink": "/cold-fusion-timing/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_competing_mo_0949fd",
+        "title": "Competing Motives",
+        "permalink": "/competing-motives/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b",
+        "title": "Homicide vs Motive",
+        "permalink": "/homicide-vs-motive/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_research_mot_e5005e",
+        "title": "Proof of Motive",
+        "permalink": "/proof-of-motive/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "title": "Huntsville",
+        "permalink": "/huntsville/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_classified_work_publ_8dcae9",
+        "title": "Classified Silence",
+        "permalink": "/classified-silence/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_cummings_contractor_7dbddc",
+        "title": "Contractor Density",
+        "permalink": "/contractor-density/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_huntsville_proximity_f76b03",
+        "title": "Proximity Bias",
+        "permalink": "/proximity-bias/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_marshall_nasa_connec_cad935",
+        "title": "Marshall Ties",
+        "permalink": "/marshall-ties/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_redstone_links_consp_aa7362",
+        "title": "Redstone Links",
+        "permalink": "/redstone-links/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_uah_defense_secrecy_f302fd",
+        "title": "UAH Defense",
+        "permalink": "/uah-defense/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "title": "Info Vacuums",
+        "permalink": "/info-vacuums/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_defense_secrecy_infe_3d50eb",
+        "title": "Secrecy Leap",
+        "permalink": "/secrecy-leap/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_disappearance_rumor_0fcd09",
+        "title": "Rumor Loop",
+        "permalink": "/rumor-loop/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79",
+        "title": "Local Records",
+        "permalink": "/local-records/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_search_amplified_dis_055cdb",
+        "title": "Search Amplification",
+        "permalink": "/search-amplification/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_silence_vs_missing_p_dd4590",
+        "title": "Silence vs Missing",
+        "permalink": "/silence-vs-missing-cb4ca9/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_unanswered_contact_s_8f8795",
+        "title": "Lost Contact",
+        "permalink": "/lost-contact/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "title": "Hostility",
+        "permalink": "/hostility/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_condon_reputation_fe_3eb13b",
+        "title": "Condon Project",
+        "permalink": "/condon-project/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_nasa_uap_stigma_133ee6",
+        "title": "NASA Stigma",
+        "permalink": "/nasa-stigma/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_podkletnov_replicati_836273",
+        "title": "Podkletnov Test",
+        "permalink": "/podkletnov-test/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_robertson_debunking_d2550e",
+        "title": "Robertson Panel",
+        "permalink": "/robertson-panel/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_superconductor_gravi_27b1e2",
+        "title": "Gravity Tests",
+        "permalink": "/gravity-tests/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_uap_reporting_stigma_9ebffe",
+        "title": "Reporting Stigma",
+        "permalink": "/reporting-stigma/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+        "title": "Mc Donald",
+        "permalink": "/mc-donald/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_april_suici_2ea42f",
+        "title": "April Attempt",
+        "permalink": "/april-attempt/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_final_shoot_55c69d",
+        "title": "Final Shooting",
+        "permalink": "/final-shooting/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_personal_cr_de2a2c",
+        "title": "Personal Crisis",
+        "permalink": "/personal-crisis/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ridicule_mu_f3ed93",
+        "title": "Public Ridicule",
+        "permalink": "/public-ridicule/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_archive_6de8a0",
+        "title": "UFO Archive",
+        "permalink": "/ufo-archive/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_motive_6938fa",
+        "title": "Motive Claim",
+        "permalink": "/motive-claim/"
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43",
+        "title": "Myth Reversals",
+        "permalink": "/myth-reversals/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "title": "Antigravity",
+        "permalink": "/antigravity/",
+        "inline_inbound_count": 175
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484",
+        "title": "UFO and antigravity",
+        "permalink": "/ufo-and-antigravity/",
+        "inline_inbound_count": 86
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "title": "Missing Scientist",
+        "permalink": "/missing-scientist/",
+        "inline_inbound_count": 62
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "title": "Podkletnov",
+        "permalink": "/podkletnov/",
+        "inline_inbound_count": 52
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "title": "Classified Work",
+        "permalink": "/classified-work/",
+        "inline_inbound_count": 51
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "title": "Cold Fusion",
+        "permalink": "/cold-fusion/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "title": "Obituaries",
+        "permalink": "/obituaries/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "title": "Missing Denominator",
+        "permalink": "/missing-denominator/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "title": "Blue Book",
+        "permalink": "/blue-book/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+        "title": "Corroboration",
+        "permalink": "/corroboration/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "title": "Hostility",
+        "permalink": "/hostility/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "title": "Warnings",
+        "permalink": "/warnings/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "title": "Info Vacuums",
+        "permalink": "/info-vacuums/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "title": "Credentials",
+        "permalink": "/credentials/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_death_certi_72626c",
+        "title": "Death Certificate",
+        "permalink": "/death-certificate/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "title": "Accidents",
+        "permalink": "/accidents/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "title": "Competing Explanations",
+        "permalink": "/competing-explanations/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_suicide_rul_efd7c3",
+        "title": "Suicide Ruling",
+        "permalink": "/suicide-ruling/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_unusual_research_acc_d99c3f",
+        "title": "Extraordinary Work",
+        "permalink": "/extraordinary-work/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "title": "Coordination",
+        "permalink": "/coordination/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd",
+        "title": "Death Lists",
+        "permalink": "/death-lists/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_fear_vs_actual_threa_08e5ad",
+        "title": "State of Mind",
+        "permalink": "/state-of-mind/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_screenshots_vs_recor_30e660",
+        "title": "Screenshots",
+        "permalink": "/screenshots/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_condon_report_stigma_2913eb",
+        "title": "Condon Report",
+        "permalink": "/condon-report/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_antigravity_e4c9c7",
+        "title": "Li s Experiments",
+        "permalink": "/li-s-experiments/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7",
+        "title": "Death Record",
+        "permalink": "/death-record/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3",
+        "title": "Final Months",
+        "permalink": "/final-months/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_congress_circular_co_eb02d5",
+        "title": "Congressional Record",
+        "permalink": "/congressional-record/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "title": "Eskridge",
+        "permalink": "/eskridge/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0",
+        "title": "Energy Claims",
+        "permalink": "/energy-claims/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_personal_cr_de2a2c",
+        "title": "Personal Crisis",
+        "permalink": "/personal-crisis/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b",
+        "title": "Mallove Case",
+        "permalink": "/mallove-case/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f",
+        "title": "KONA BLUE",
+        "permalink": "/kona-blue/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_prior_attem_1144aa",
+        "title": "Prior Attempt",
+        "permalink": "/prior-attempt/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79",
+        "title": "Local Records",
+        "permalink": "/local-records/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_april_suici_2ea42f",
+        "title": "April Attempt",
+        "permalink": "/april-attempt/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+        "title": "Field Drift",
+        "permalink": "/field-drift/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b",
+        "title": "Homicide vs Motive",
+        "permalink": "/homicide-vs-motive/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "title": "UFO Stigma",
+        "permalink": "/ufo-stigma/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "title": "Secret Programs",
+        "permalink": "/secret-programs/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/family-testimony-569-522999-li-family/"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/family-testimony-569-522999-ning-li-2014/"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/family-testimony-569-522999-ning-li-dade70/"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/obituary-evidence-4-a-b6-a356-death/"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/obituary-evidence-4-a-b6-a356-eskridge/"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/obituary-evidence-4-a-b6-a356-mcdonald/"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_index",
+        "target": "/obituary-evidence-4-a-b6-a356-obituary-a2f1d9/"
+      }
+    ],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_intervening_years_ca_a4bb09",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_earlier_sui_401336",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_2003_2004_tr_f7b10a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_visibility_g_0eac26",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_suppression_rumor_ti_f8fc0a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_family_testimony_lim_368143",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_men_ning_li_whereabo_de81c9",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_2014_acciden_e0df29",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_china_defect_1d1c9a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_classified_s_4eb5ee",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_illusory_pattern_per_070bd7",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_loose_scientist_labe_19ac32",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_mixed_death_causes_f47ac9",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_posthoc_researcher_c_07c9f9",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_operation_5651f5",
+        "type": "child"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_cold_fusion_e69255",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mcdonald_obituary_de_f7a6b2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_prior_warni_55b069",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_death_certi_72626c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_praise_scie_14050a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_dying_declaration_li_d0a67d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_fear_vs_actual_threa_08e5ad",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_antigravity_e4c9c7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_secrecy_clai_8e8987",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "to": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "to": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_condon_reputation_fe_3eb13b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "to": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_condon_report_stigma_2913eb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mcdonald_obituary_de_f7a6b2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+        "to": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_vallee_public_cautio_e03a7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "to": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_unusual_research_acc_d99c3f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+        "to": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "to": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "to": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_common_motive_thresh_83b3a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+        "to": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_unanswered_contact_s_8f8795",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_official_inquiry_not_c304ab",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_prior_attem_1144aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "to": "UFO_and_antigravity_1a6484",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "to": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "to": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "to": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+        "to": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_antimatter_gravity_t_15fe4f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "to": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "to": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+        "to": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_frame_dragging_vs_pr_8175cb",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

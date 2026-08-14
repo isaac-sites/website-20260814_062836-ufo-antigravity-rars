@@ -1,0 +1,9 @@
+{
+  "audience_mode": "production",
+  "qa_mode_enabled": false,
+  "test_view_switcher_enabled": false,
+  "copy_policy": "polished",
+  "hero_title": "Research Map",
+  "hero_description": "Browse the main routes through the research across major topics and focused guides.",
+  "weak_landing_copy": []
+}

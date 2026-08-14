@@ -1,0 +1,5367 @@
+{
+  "generated_at_utc": "2026-08-14T05:13:09.008218Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 223,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_family_caut_86e526",
+      "title": "Why Eskridge's Family Urged Caution About the Pattern",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Interpretations of Amy Eskridge's Death",
+        "Evidence Categories in the Eskridge Case",
+        "Perspectives on the Eskridge Narrative"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.167,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484",
+      "title": "UFO and antigravity",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 2026 Researcher Wave",
+        "Interpretations of Researcher Deaths",
+        "Errors in Researcher Death Lists"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+      "title": "How Can an Accident Become a Suppression Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Research and Life Key Stages",
+        "Interpretations of Public Absence",
+        "Evidence Against Suppression Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_inherits_di_bb5bf3",
+      "title": "When an Accident Inherits a Disappearance Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Scientific Key Stages",
+        "Interpretations of Public Absence",
+        "Evidence of Scientific Silence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_research_li_2f7398",
+      "title": "What Would Actually Link an Accident to Research?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Accident Key Stages",
+        "Evidence Thresholds for Suppression Claims",
+        "Records Establishing Research Links"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_records_test_disappe_8368a4",
+      "title": "Which Records Can Test a Researcher Disappearance Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Alabama Life Time line",
+        "Testing the Disappearance Claims",
+        "Alabama Record Verification Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_rumor_first_accident_50f01b",
+      "title": "How Earlier Rumors Change the Meaning of Accidents",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Ning Li Case",
+        "Narrative vs. Evidence Analysis",
+        "Fact Distinction in the Li Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_unusual_research_acc_d99c3f",
+      "title": "Why Unusual Research Makes Accidents Look Suspicious",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Career and Accident Key Stages",
+        "Motive vs. Evidence in Suppression Claims",
+        "Psychological Drivers of Conspiracy Belief"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_withheld_records_acc_01bf89",
+      "title": "Do Withheld Records Make an Accident Suspicious?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Research and Funding Time line",
+        "Interpretations of the Records Gap",
+        "Factors Influencing Research Secrecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+      "title": "Why Amy Eskridge's Death Remains the Hardest Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Amy Eskridge Research and Death Time line",
+        "Interpretations of Eskridge's Death",
+        "Eskridge's Professional and Research Profile"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_breakthroug_6a5a32",
+      "title": "Did Eskridge Possess Technology Worth Killing For?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Amy Eskridge Research Progression",
+        "Eskridge Research vs. Breakthrough Claims",
+        "Eskridge's Gravity Modification Survey"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0",
+      "title": "Were Directed Energy Weapons Used Against Eskridge?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eskridge's Reported Directed Energy Experience",
+        "Evidence vs. Interpretation Gap",
+        "RF Energy and Biological Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_forensic_te_23baf2",
+      "title": "Which Tests Could Clarify Eskridge's Death?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Forensic Reconstruction of Shooting Incident",
+        "Evidence for Suicide vs. Homicide Claims",
+        "Forensic Data Points for Independent Review"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_missing_for_35f0fe",
+      "title": "What Evidence Supports Eskridge's Suicide Ruling?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Amy Eskridge Death Record Time line",
+        "Eskridge Case Evidence Gaps",
+        "Alabama Death Record Restrictions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_nasa_claims_015908",
+      "title": "Was Amy Eskridge Really a NASA Scientist?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Amy Eskridge Academic and Career Path",
+        "Credential Claims vs. Documented Records",
+        "Institute for Exotic Science Research Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_prior_warni_55b069",
+      "title": "How Much Weight Should Eskridge's Warnings Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Amy Eskridge Pre Death Warning Time line",
+        "Eskridge Death Evidence Analysis",
+        "Eskridge Warning Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+      "title": "Can the Timeline Survive the Suppression Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ning Li Research and Life Time line",
+        "James E. Mc Donald Case Interpretations",
+        "Key Stages Test Methodology Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_intervening_years_ca_a4bb09",
+      "title": "What Happened Between the Research and the Outcome?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Research and Life Key Stages",
+        "Suppression Theory vs. Intervening Evidence",
+        "Evidence Weakening Suppression Narratives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_earlier_sui_401336",
+      "title": "Why Mc Donald's Earlier Suicide Attempt Changes the Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "James E. Mc Donald 1971 Key Stages",
+        "Causal Explanations for Mc Donald's Death",
+        "Evidence Categories in Mc Donald Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3",
+      "title": "What Mc Donald's Final Months Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of James E. Mc Donald's Final Months",
+        "Assassination vs. Personal Crisis Narratives",
+        "Evidence of Institutional Pressure on Mc Donald"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_2003_2004_tr_f7b10a",
+      "title": "The Evidence Ning Li Was Still There",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Research Chronology",
+        "Interpretations of Li's Absence",
+        "MITRE Conference Evidence Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_visibility_g_0eac26",
+      "title": "When Did Ning Li Actually Disappear From View?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Scientific and Personal Key Stages",
+        "Public Visibility vs. Physical Presence",
+        "Layers of the Ning Li Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_suppression_rumor_ti_f8fc0a",
+      "title": "Did the Suppression Story Exist at the Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Disappearance Narrative",
+        "Evidence Weight by Allegation Timing",
+        "Distinguishing Scientific Suppression Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+      "title": "Why Classified Programs Become the Default Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Escalation of Classified Program Narratives",
+        "Interpretations of Research Silence",
+        "Categories of Aerospace Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_aawsap_propulsion_my_52c8df",
+      "title": "Did AAWSAP Really Develop Exotic Propulsion?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "AAWSAP Document Production Pipeline",
+        "AAWSAP Research vs. Breakthrough Claims",
+        "AAWSAP Technology Forecasting Portfolio"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_classified_aircraft_4e569c",
+      "title": "When Secret Aircraft Get Mistaken for UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Mechanism of Secret Aircraft Misidentification",
+        "U 2 and OXCART Case Analysis",
+        "Knowledge Gaps in Classified Aerospace"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_compartmentalization_326565",
+      "title": "How Classified Compartments Turn Gaps Into UFO Lore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of UFO Folklore Formation",
+        "KONA BLUE Program Status Analysis",
+        "Historical Examples of Secrecy Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_huntsville_secret_pr_e81fdc",
+      "title": "Why Huntsville Attracts Secret Propulsion Theories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ning Li Research and Career Path",
+        "Huntsville Secrecy Interpretations",
+        "Huntsville Propulsion Research Ecosystem"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f",
+      "title": "Was KONA BLUE Ever a Real UFO Program?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "KONA BLUE Administrative Lifecycle",
+        "KONA BLUE Interpretive Frameworks",
+        "KONA BLUE Proposed Research Areas"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_reid_sap_request_e74154",
+      "title": "What Harry Reid's Secret Program Request Actually Shows",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Harry Reid's 2009 SAP Request Key Stages",
+        "Interpretations of the Reid Request",
+        "DIA Classification Review Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+      "title": "Why Cold Fusion Entered the UFO Researcher Death Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cold Fusion Institutional Time line",
+        "Cold Fusion vs Antigravity Claims",
+        "Eugene Mallove's Narrative Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_arpae_lenr_funding_dea49b",
+      "title": "Why the US Government Funded LENR Again",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "LENR Research Evolution Time line",
+        "ARPA E Funding Interpretations",
+        "ARPA E Project Portfolio Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_cold_fusion_1989_cri_d441e8",
+      "title": "Why Cold Fusion Collapsed After Its 1989 Debut",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cold Fusion 1989 Scientific Time line",
+        "Discrepancies in Nuclear Evidence",
+        "Experimental Variables in Replication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_doe_2004_cold_fusion_3955e5",
+      "title": "What the 2004 Cold Fusion Review Actually Found",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "DOE 2004 Cold Fusion Review Process",
+        "Reviewer Perspectives on Cold Fusion",
+        "DOE Institutional Gatekeeping Mechanisms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_google_2019_cold_fus_56dc54",
+      "title": "What Happened When Google Retested Cold Fusion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Google Research Cold Fusion Time line",
+        "Cold Fusion Stigma vs Suppression",
+        "Google Research Experimental Targets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mallove_suppression_860cfe",
+      "title": "What Mallove Meant by Cold Fusion Suppression",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eugene Mallove's Institutional Critique Time line",
+        "Mallove's Theory of Institutional Suppression",
+        "Dimensions of Scientific Marginalization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mit_cold_fusion_disp_aaff02",
+      "title": "Did MIT's Cold Fusion Test Hide Excess Heat?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "MIT Cold Fusion Replication Process",
+        "Mallove vs. Parker Data Dispute",
+        "Cold Fusion Replication Context"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b",
+      "title": "Why Early Records Matter More Than Later Retellings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "James E. Mc Donald Chronology 1966 1971",
+        "Mc Donald Death Interpretations Comparison",
+        "Primary Source Evidential Safeguards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1967_cia_vi_b64e33",
+      "title": "What Mc Donald Actually Said About a CIA Cover Up",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mc Donald's 1967 UFO Policy Critique",
+        "Mc Donald's 1967 Position vs. Later Narratives",
+        "Levels of UFO Secrecy and Policy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.3,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1971_death_f7b4f9",
+      "title": "Mcdonald 1971 Death",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "James E. Mc Donald Death Key Stages",
+        "Interpretations of Mc Donald's Death",
+        "Evidence Required for Reassessment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_archived_pa_9312be",
+      "title": "Do Mc Donald's Papers Support a Suppressed Research Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Contents of the Mc Donald Archive",
+        "Interpreting the Unpublished Book Outline",
+        "Key Stages in the RB 47 Case Study"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_cia_secrecy_569ba0",
+      "title": "Did CIA Secrecy Put Mc Donald in Danger?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's UFO Secrecy Conflict",
+        "Evidence Chains for Mc Donald's Death",
+        "Verified Facts of the Mc Donald Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_prior_suici_e5f54b",
+      "title": "The Missing Event in Mc Donald's Conspiracy Timeline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's Final Months",
+        "Interpretations of Mc Donald's Death",
+        "Evidence of Government Scrutiny"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_modern_mcdonald_murd_fd9572",
+      "title": "Why Modern Mc Donald Murder Claims Need New Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "James E. Mc Donald's 1971 Time line",
+        "Interpretations of Mc Donald's Death",
+        "Evidence Baseline for Mc Donald Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+      "title": "What Would Prove a Coordinated Campaign Against Researchers?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Requirements for Coordinated Campaigns",
+        "Competing Explanations for Researcher Outcomes",
+        "Case Profiles of Central Researchers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_common_motive_thresh_83b3a3",
+      "title": "Did These Researchers Threaten the Same Secret?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Evidence Standards for Common Motive",
+        "Researcher Case Analysis Comparison",
+        "Ning Li Research and Record Key Stages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_communications_commo_05e767",
+      "title": "What Kind of Message Could Prove a Plot?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Authentication of Digital Evidence",
+        "Evidence Types in Researcher Cases",
+        "Probative Communications for Plot Proof"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+      "title": "When Does a Suspicious Pattern Stop Being Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "versus",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Competing Explanations for Researcher Stories",
+        "Case Studies of Scientific Disappearance",
+        "Diagnostic Evidence for Targeting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_cross_case_linkage_t_fdb341",
+      "title": "What Would Actually Link Separate Researcher Deaths?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evidence Hierarchy for Coordinated Killings",
+        "Researcher Deaths: Association vs. Operation",
+        "Forensic Bridges in Researcher Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_forensic_operational_34ade1",
+      "title": "Could Forensics Reveal a Common Operation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Forensic Linkage Investigation Workflow",
+        "Thematic Patterns vs Forensic Signatures",
+        "Digital Traces of Coordinated Operations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_recurring_actor_link_c7cb2b",
+      "title": "Would the Same Actors Change the Case?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "hub",
+        "quadrant"
+      ],
+      "roles": [
+        "taxonomy",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Hierarchy of Research Linkages",
+        "Public Records for Verifying Recurrence",
+        "The Recurring Actor Test"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+      "title": "Do Strong Scientific Credentials Make Suppression Claims Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "tug_of_war",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Research and Disappearance Time line",
+        "Evidence Layers for Suppression Claims",
+        "Weak vs Strong Suppression Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_credentials_suppress_9ecde0",
+      "title": "Why Strong Credentials Cannot Prove Suppression",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Career Time line",
+        "Evidence Types in Suppression Claims",
+        "Requirements for Suppression Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_prior_attem_1144aa",
+      "title": "What Mc Donald's Prior Suicide Attempt Changes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "James E. Mc Donald's Final Months",
+        "Mc Donald Death Interpretations Comparison",
+        "Evidence for Suicide Conclusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_mcdonald_stigma_sile_9794c2",
+      "title": "Was Mc Donald Marginalised or Physically Silenced?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's Professional Time line",
+        "Mc Donald Death: Stigma vs. Homicide",
+        "Dimensions of Mc Donald's Marginalization"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_antigravity_e4c9c7",
+      "title": "Did Ning Li Actually Prove Antigravity?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Scientific Publication Time line",
+        "Superconductor Gravity Claims vs. Evidence",
+        "Core Components of Li's Research"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_army_funding_928683",
+      "title": "What Ning Li's Army Funding Really Establishes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Research and Funding Time line",
+        "Interpretations of the Army Contract",
+        "Components of the AC Gravity Project"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_peer_review_a5ee77",
+      "title": "What Peer Review Did to Ning Li's Theory",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Li and Torr Publication History",
+        "Scientific Critiques of Li Torr Model",
+        "Evidence of Scientific Scrutiny"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+      "title": "Why Eugene Mallove's Murder Points Away From Suppression",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mallove Homicide Investigation Time line",
+        "Mallove Death Interpretations",
+        "Mallove's Professional Credentials"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2009_witness_9a5f15",
+      "title": "How the 2009 Witness Breakthrough Changed the Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mallove Homicide Investigation Time line",
+        "Shift in Evidential Focus",
+        "Hierarchy of the 2009 Breakthrough"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_2025_disclos_8de488",
+      "title": "Did the 2025 Court Ruling Change Mallove's Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mozzelle Brown Conviction Vacated Key Stages",
+        "Interpretations of the 2025 Ruling",
+        "Components of the Brady Violation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_eviction_dis_b85601",
+      "title": "How the Eviction Dispute Led Back to Mallove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Mallove Eviction and Homicide Sequence",
+        "Mallove Motive Theory Comparison",
+        "Evidence Chain of the Assault"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_staged_robbe_660d29",
+      "title": "Was Mallove's Robbery Scene Deliberately Staged?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mallove Crime Scene Evolution",
+        "Competing Theories of Mallove's Death",
+        "Evidence in the Connecticut Appellate Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_wrong_suspec_257cea",
+      "title": "Why the First Mallove Murder Case Fell Apart",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mallove Homicide Investigation Time line",
+        "Interpretations of the Case Reversal",
+        "Evidence Used Against Mc Avoy and Reilly"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_schaffer_guilty_plea_23d0ce",
+      "title": "What Does Schaffer's Guilty Plea Actually Establish?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chad Schaffer Legal Time line",
+        "Mallove Death Motive Analysis",
+        "Evidence Linking Schaffer to Mallove"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+      "title": "How Family Testimony Can Collapse a Disappearance Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Life and Research Key Stages",
+        "Debunking the Ning Li Disappearance",
+        "Factors Explaining Public Silence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_family_testimony_lim_368143",
+      "title": "What Ning Li's Family Story Does Not Prove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Biography and Final Years",
+        "Biographical vs. Experimental Evidence",
+        "Scientific Constraints on Antigravity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_men_ning_li_whereabo_de81c9",
+      "title": "What Ning Li's Son Said Really Happened",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li's Life Key Stages in Huntsville",
+        "Contradicting the Disappearance Narratives",
+        "Factors Creating the Information Vacuum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_2014_acciden_e0df29",
+      "title": "Why Ning Li Vanished From Public Life After 2014",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li's Life and Career Key Stages",
+        "Public Narrative vs. Family Evidence",
+        "Two Distinct Periods of Silence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_china_defect_1d1c9a",
+      "title": "How Ning Li's China Defection Story Unraveled",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Ning Li's Public Record",
+        "Contrasting Narratives of Ning Li's Location",
+        "Factors Fueling the Defection Rumor"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_classified_s_4eb5ee",
+      "title": "Did Classified Work Explain Ning Li's Silence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Ning Li Research and Silence Key Stages",
+        "Interpretations of Ning Li's Silence",
+        "Evidence of Restricted Research Access"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_obituary_che_85f5e7",
+      "title": "The Public Record That Ends Ning Li's Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li's Life and Death Key Stages",
+        "Contrasting Claims of Li's Disappearance",
+        "Berryhill Funeral Home Record Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+      "title": "Family Testimony 569 522999 Li Defense Work...",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Academic and Defense Transition",
+        "Interpretations of Li's Publication Gap",
+        "AC Gravity Project Specifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_family_timeline_fd8f6e",
+      "title": "The Six Years Ning Li Was Not Missing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Life Chronology 2003 2021",
+        "Interpretations of Ning Li's Absence",
+        "Evidence Anchors for Ning Li's Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_2014_acciden_e0df29",
+      "title": "What Ended Ning Li's Working Life?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Ning Li's Scientific and Personal Key Stages",
+        "Interpretations of Li's Scientific Silence",
+        "Evidence of Li's Alabama Residency"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+      "title": "Family Testimony 569 522999 Ning Li China...",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Scientific and Public Time line",
+        "Contrasting Narratives of Ning Li's Location",
+        "Components of the Ning Li Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_death_record_608437",
+      "title": "The Records That Anchor Ning Li's Timeline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Ning Li's Final Public Key Stages",
+        "Disappearance Claims vs. Local Records",
+        "Berryhill Funeral Home Obituary Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+      "title": "Family Testimony 569 522999 Ning Li Rumor...",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Scientific Publication Time line",
+        "Interpretations of Ning Li's Absence",
+        "Types of Information Absence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+      "title": "When Does Gravity Research Become an Antigravity Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Scientific Path to Gravity Control",
+        "Gravity Research vs. Antigravity Claims",
+        "Precision Gravity Test Results"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_antimatter_gravity_t_15fe4f",
+      "title": "Does Antimatter Fall Up or Down?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ALPHA g Antihydrogen Experiment Workflow",
+        "Antimatter Gravity Hypothesis Testing",
+        "CERN Antimatter Research Facilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_equivalence_principl_ee579d",
+      "title": "How Much Room Is Left for Exotic Gravity?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "MICROSCOPE Satellite Mission Workflow",
+        "Equivalence Principle vs. Antigravity Claims",
+        "MICROSCOPE Experimental Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_frame_dragging_vs_pr_8175cb",
+      "title": "Why Frame Dragging Is Not an Antigravity Drive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Frame Dragging Measurements",
+        "Frame Dragging vs. Propulsion Claims",
+        "Distinguishing Gravitomagnetic Signals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_gravity_anomaly_fals_74e165",
+      "title": "When a Weight Change Is Not Gravity",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Forces Imitating Gravity Shielding",
+        "Superconducting Weight Loss Interpretations",
+        "Standard Controls for Gravity Experiments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_ning_li_gravity_evid_978da7",
+      "title": "Did Ning Li Ever Demonstrate Gravity Shielding?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Superconductor Research Time line",
+        "Gravity Shielding Claim vs. Experimental Data",
+        "Hierarchy of Gravity Control Propositions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_podkletnov_gravity_s_a9e6c4",
+      "title": "Did Podkletnov Really Detect Gravity Shielding?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Podkletnov Superconductor Experiment Time line",
+        "Gravity Shielding vs. Experimental Anomalies",
+        "Podkletnov Experiment Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+      "title": "Does a Scientist's Murder Prove a Research Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Eugene Mallove Investigation Time line",
+        "Mallove Death Motive Analysis",
+        "Evidence for Research Motives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_brown_retrial_suppre_248512",
+      "title": "Does an Unreliable Conviction Revive the Suppression Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mozzelle Brown Conviction Vacated Path",
+        "Mallove Murder Motive Interpretations",
+        "Evidence Gaps in Mallove Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_brutality_mo_673f65",
+      "title": "Does the Brutality of Mallove's Killing Reveal Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Escalation of the Mallove Assault",
+        "Interpretations of Mallove's Brutality",
+        "Documented Medical Findings at 119 Salem Turnpike"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_cold_fusion_e69255",
+      "title": "Did Cold Fusion's Revival Make Mallove a Target?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "2004 DOE Cold Fusion Review Time line",
+        "Mallove Murder Motive Interpretations",
+        "Mallove's Roles in LENR Movement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_competing_mo_0949fd",
+      "title": "Which Mallove Motive Has the Stronger Evidence Trail?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Mallove Investigation",
+        "Mallove Death Motive Comparison",
+        "Evidence Trail for Property Dispute"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b",
+      "title": "What Mallove's Homicide Ruling Actually Proves",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Eugene Mallove Homicide Investigation Time line",
+        "Mallove Death Motive Interpretations",
+        "Evidence Types in Mallove Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_research_mot_e5005e",
+      "title": "What Would Actually Prove a Research Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evidence Chain for Research Motive",
+        "Mallove Case: Evidence Comparison",
+        "Factors Lacking Research Link"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+      "title": "Why Huntsville Looms So Large in Antigravity Lore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Career Path",
+        "Interpretations of Huntsville Secrecy",
+        "Huntsville Aerospace Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_classified_work_publ_8dcae9",
+      "title": "How Classified Work Can Mimic a Disappearance",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "lighthouse"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ning Li Research Visibility Time line",
+        "Interpreting Scientific Silence",
+        "Mechanisms of Information Restriction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_cummings_contractor_7dbddc",
+      "title": "Why Aerospace Contractor Links Are So Common Here",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "rank_podium",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "data",
+        "comparison"
+      ],
+      "titles": [
+        "Huntsville Professional Connection Hierarchy",
+        "Cummings Research Park Statistics",
+        "Huntsville Context vs. National Baseline"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_huntsville_proximity_f76b03",
+      "title": "When Huntsville's Real Secrecy Produces False Signals",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "venn",
+        "process_pipeline"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Huntsville Aerospace Research Ecosystem",
+        "Interpreting Huntsville Research Connections",
+        "Evaluating Evidence in Huntsville"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_marshall_nasa_connec_cad935",
+      "title": "Why NASA Connections Mean Less in Huntsville",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Huntsville Aerospace Research Ecosystem",
+        "Interpreting the Ning Li Record",
+        "NASA Marshall Operational Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_redstone_links_consp_aa7362",
+      "title": "Do Redstone Connections Really Signal a Secret Program?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Huntsville Aerospace Research Evolution",
+        "Redstone Connection Evidence Quality",
+        "Redstone Arsenal Tenant Ecosystem"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_huntsville_context_746ced_uah_defense_secrecy_f302fd",
+      "title": "How UAH Makes Secretive Research Look Ordinary",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAH Research Security Layers",
+        "Interpreting Secrecy at UAH",
+        "UAH Federal Research Scale"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+      "title": "When Does Public Silence Become a Disappearance Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Professional Time line",
+        "Public Narrative vs. Private Reality",
+        "Layers of the Information Vacuum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_defense_secrecy_infe_3d50eb",
+      "title": "Why Military Secrecy Makes Silence Look Sinister",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Scientific Career Key Stages",
+        "Interpretations of Scientific Silence",
+        "Categories of Research Secrecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_disappearance_rumor_0fcd09",
+      "title": "How Repetition Makes a Disappearance Rumor Feel Proven",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Research and Disappearance Time line",
+        "Disappearance Claims vs. Documented Facts",
+        "Mechanisms of Rumor Persistence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79",
+      "title": "The Ordinary Records That Can End a Disappearance Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Life and Research Time line",
+        "Ning Li Disappearance Interpretations",
+        "Local Records for Identity Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_search_amplified_dis_055cdb",
+      "title": "Why Search Engines Can Make a Scientist Seem Missing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Information Vacuum Cycle",
+        "Ning Li Narrative vs. Life Records",
+        "Evidence Types in Data Voids"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_silence_vs_missing_p_dd4590",
+      "title": "When Does Scientific Silence Become a Disappearance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Scientific Publication Time line",
+        "Publication Silence vs. Missing Person Claims",
+        "Layers of Scientific Visibility Loss"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_unanswered_contact_s_8f8795",
+      "title": "Do Unanswered Messages Prove a Scientist Disappeared?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Disappearance Time line",
+        "Information Barrier vs. Physical Disappearance",
+        "Types of Scientific Absence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+      "title": "When Does Scientific Hostility Become a Suppression Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Evidential Ladder of Suppression",
+        "Hostility vs. Physical Suppression Claims",
+        "Historical Evidence of Institutional Stigma"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_condon_reputation_fe_3eb13b",
+      "title": "Did Reputation Fears Distort the Condon UFO Study?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Condon Project",
+        "Interpretations of the Low Memo",
+        "Evidence of Institutional Pressure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_nasa_uap_stigma_133ee6",
+      "title": "NASA Found UAP Stigma Without Endorsing UFO Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "NASA UAP Study Data Quality Path",
+        "NASA Stigma vs. Physical Suppression",
+        "Academic Survey on UAP Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_podkletnov_replicati_836273",
+      "title": "Did Podkletnov's Antigravity Claim Fail or Get Suppressed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Podkletnov Experiment Key Stages",
+        "Suppression vs. Technical Failure",
+        "NASA Superconductor Test Results"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_robertson_debunking_d2550e",
+      "title": "What Did the Robertson Panel Mean by Debunking?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Robertson Panel Information Management Strategy",
+        "Robertson Panel: Evidence vs. Speculation",
+        "Robertson Panel Debunking Channels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_superconductor_gravi_27b1e2",
+      "title": "When Failed Antigravity Tests Look Like Suppression",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in Superconducting Gravity Tests",
+        "Podkletnov Claims vs. Experimental Results",
+        "Key Factors in Superconducting Gravity Research"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_uap_reporting_stigma_9ebffe",
+      "title": "How Ridicule Can Quiet UAP Research Without Violence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Scientific Stigma Feedback Loop",
+        "Stigma vs Physical Coercion Mechanisms",
+        "NASA UAP Data Quality Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+      "title": "Does James Mc Donald's Death Support a UFO Murder Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "James Mc Donald's 1971 Time line",
+        "Mc Donald Death Interpretations",
+        "Mc Donald's Scientific Legacy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_april_suici_2ea42f",
+      "title": "Why Mc Donald's April Shooting Changes the Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "James E. Mc Donald's 1971 Time line",
+        "Interpretations of Mc Donald's Death",
+        "Evidence Against Foul Play Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_final_shoot_55c69d",
+      "title": "What Is Actually Known About Mc Donald's Death?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's 1971 Time line",
+        "Evidence Tiers for June 1971",
+        "Mc Donald's Research & Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_personal_cr_de2a2c",
+      "title": "What Was Happening in Mc Donald's Life Before His Death?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's Final Time line",
+        "Mc Donald Death Explanations Comparison",
+        "Factors in Mc Donald's Distress"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ridicule_mu_f3ed93",
+      "title": "How Did Ridicule Feed the Mc Donald Murder Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's Professional Time line",
+        "Mc Donald's Fate: Evidence vs. Narrative",
+        "Factors of Mc Donald's Professional Stigma"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_archive_6de8a0",
+      "title": "What Do Mc Donald's Surviving UFO Files Reveal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "James E. Mc Donald's Research Time line",
+        "Mc Donald's Claims vs. Archive Evidence",
+        "Mc Donald's Archive Collection Contents"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_motive_6938fa",
+      "title": "Did Mc Donald's UFO Battles Give Anyone a Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mc Donald's Institutional Conflict Time line",
+        "Mc Donald Murder Theory vs. Historical Record",
+        "Mc Donald's Institutional Friction Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43",
+      "title": "When New Evidence Rewrites a Long Running UFO Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Personal Key Stages",
+        "Speculative Folklore vs. Documented Facts",
+        "Layers of the Ning Li Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_army_funding_antigra_ac21ee",
+      "title": "Why Army Funding Did Not Prove Antigravity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research Key Stages",
+        "Interpretations of Army Funding",
+        "Components of the AC Gravity Project"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_2014_acciden_e0df29",
+      "title": "The Accident That Reframed Ning Li's Disappearance",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Personal Key Stages 2014 2021",
+        "Public Legend vs. Family Testimony",
+        "Factors Creating the Disappearance Myth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_china_rumor_a3c474",
+      "title": "Did Ning Li Really Defect to China?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Ning Li's Disappearance",
+        "Competing Narratives of Ning Li",
+        "Factors Fueling the China Rumor"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_family_accou_dc60bf",
+      "title": "What Ning Li's Son Said Really Happened",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's Life Key Stages",
+        "Ning Li Disappearance Myths vs Facts",
+        "Evidence Sources for Ning Li"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+      "title": "How Public Silence Became a Disappearance Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Ning Li Mystery",
+        "Interpretations of Li's Silence",
+        "Evidence of Ning Li's Activity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_secrecy_clai_8e8987",
+      "title": "What Ning Li's Classified Work Can Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ning Li Research and Secrecy Time line",
+        "Interpreting the Information Gap",
+        "Evidence of Research Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571",
+      "title": "What Can We Conclude When Key Records Are Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alabama Death Investigation Procedures",
+        "Interpretations of the Eskridge Case",
+        "Evidence Hierarchy in Eskridge Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_autopsy_rec_58af66",
+      "title": "What Eskridge's Autopsy Report Could Actually Settle",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Alabama Forensic Investigation Workflow",
+        "Testing Eskridge Death Claims",
+        "Alabama Record Access Rules"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_death_certi_72626c",
+      "title": "Why Amy Eskridge's Death Certificate Is Not Public",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Alabama Death Certificate Access Time line",
+        "Eskridge Record Access Interpretations",
+        "Authorized Access to Alabama Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_police_file_f518b0",
+      "title": "What Eskridge's Police File Could Clarify",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Amy Eskridge Death Public Visibility",
+        "Huntsville Police File Data Categories",
+        "Alabama Law Access Barriers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_suicide_rul_efd7c3",
+      "title": "How Much Weight Should Eskridge's Suicide Ruling Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Amy Eskridge Death Record Time line",
+        "Eskridge Case Evidentiary Tension",
+        "Alabama Forensic Record Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_missing_record_statu_276299",
+      "title": "Missing Record or Hidden Record? How to Tell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying Missing Death Records",
+        "Interpreting Search Failures",
+        "Types of Death Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_suicide_public_recor_61e53a",
+      "title": "Why Suicide Cases Can Leave So Little Public Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "geode"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Pathways of Criminal Prosecution Records",
+        "Suicide vs. Homicide Record Visibility",
+        "Alabama Forensic Record Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c",
+      "title": "Why Ning Li's Famous Disappearance Wasn't a Disappearance",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ning Li's Professional and Personal Time line",
+        "Ning Li Disappearance Narratives vs. Facts",
+        "Components of the Ning Li Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ac_gravity_army_fund_fe4ba1",
+      "title": "What Did the Army Actually Fund Ning Li to Test?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Research and Funding Time line",
+        "Interpretations of the AC Gravity Award",
+        "Components of the AC Gravity Award"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_george_men_family_ac_ace3bf",
+      "title": "How Ning Li's Family Changed the Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Ning Li's Life Key Stages in Alabama",
+        "Disappearance Myths vs. Family Account",
+        "Evidence Anchoring Ning Li's Status"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2003_public_d2613d",
+      "title": "How Long Was Ning Li Publicly Active?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li's 2003 Research Time line",
+        "Evidence Quality of 2003 Claims",
+        "Ning Li's Professional Network 2003"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2014_acciden_e0df29",
+      "title": "What Really Ended Ning Li's Working Life?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Career and Life Key Stages",
+        "Ning Li Disappearance Narratives vs Facts",
+        "Evidence Layers of Ning Li's Career End"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_china_claim_9daa52",
+      "title": "Where Did the Ning Li China Story Come From?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Disappearance Narrative Evolution",
+        "Conflicting Accounts of Ning Li's 2008 Status",
+        "Factors Fueling the Ning Li Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_classified_w_97fdf0",
+      "title": "Did Classified Work Make Ning Li Seem Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Research Career Time line",
+        "Interpretations of Li's Silence",
+        "AC Gravity LLC Project Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65",
+      "title": "What Can an Obituary Prove in a Suspicious Death Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying Disputed Researcher Deaths",
+        "Obituary vs. Forensic Evidence",
+        "Evidence Layers for Researcher Deaths"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_eskridge_missing_cau_322678",
+      "title": "Does Amy Eskridge's Obituary Hide a Cause?",
+      "infographic_count": 3,
+      "templates": [
+        "bio_profile_central",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Amy Catherine Eskridge Biography",
+        "Eskridge Death Record Analysis",
+        "Documentary Evidence Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mallove_murder_motiv_116b28",
+      "title": "Mallove Was Murdered, But Was Research the Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eugene Mallove Investigation Time line",
+        "Mallove Death Motive Theories",
+        "Evidence of Property Related Crime"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_mcdonald_obituary_de_f7a6b2",
+      "title": "What Mc Donald's Obituary Proves About His Death",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald Academic Time line",
+        "Mc Donald Death Evidence Analysis",
+        "Mc Donald's Scientific Contributions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_ning_li_disappearanc_1d6afe",
+      "title": "How Ning Li's Obituary Changed the Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Ning Li's Career",
+        "Interpretations of Li's Disappearance",
+        "Evidence from the Berryhill Obituary"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_missing_cau_38d85e",
+      "title": "When No Cause of Death Is Listed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigating Researcher Death Records",
+        "Interpreting Obituary Silence",
+        "Records for Death Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_praise_scie_14050a",
+      "title": "Can an Obituary Prove a Researcher's Scientific Standing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li Scientific Evidence Chain",
+        "Obituary Praise vs Scientific Evidence",
+        "Criteria for Scientific Credibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_death_records_vs_obi_6bff6a",
+      "title": "Death Records Vs Obi",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Medical Certification of Death Process",
+        "Obituary vs. Death Certificate Evidence",
+        "Hierarchy of Death Investigation Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_eskridge_obituary_de_2a4a38",
+      "title": "Eskridge Obituary",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Amy Eskridge Life and Death Time line",
+        "Eskridge Death Evidence Layers",
+        "Alabama Death Record Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6",
+      "title": "Obituary Evidence 4 A B6 A356 Mallove Murder...",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eugene Mallove Homicide Investigation Time line",
+        "Mallove Death Interpretations vs Records",
+        "Evidence Hierarchy for Researcher Deaths"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mcdonald_obituary_uf_a69ee0",
+      "title": "Mcdonald Obituary",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's Professional Time line",
+        "Evidence Scope: Obituary vs. Death Claims",
+        "Mc Donald's Archival Research Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+      "title": "Obituary Evidence 4 A B6 A356 Obituary...",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Suspicious Death Speculation",
+        "Obituary Silence vs. Forensic Evidence",
+        "Reasons for Omitting Medical Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_types_evide_46f401",
+      "title": "Obituary Types Evide",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "tree_map",
+        "orbital_rings"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Paid Notice vs. Professional Obituary",
+        "Ning Li Case Evidence Analysis",
+        "James Mc Donald Scientific Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+      "title": "Why Do Unrelated Researcher Deaths Look Like a Pattern?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "tug_of_war",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Perceived Patterns vs. Statistical Reality",
+        "Case Studies in Research Tragedies",
+        "Requirements for a Genuine Pattern"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_illusory_pattern_per_070bd7",
+      "title": "Why Coincidences Start Looking Like a Hidden Plot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Feedback Loop of Pattern Perception",
+        "Uncertainty vs. Evidence of Coordination",
+        "Factors Driving Illusory Pattern Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_loose_scientist_labe_19ac32",
+      "title": "Who Actually Counts as a Mysterious Researcher?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Narrative Expansion of Death Clusters",
+        "Connection Types at Los Alamos",
+        "Nested Populations in Marconi Narratives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_mixed_death_causes_f47ac9",
+      "title": "Can Very Different Deaths Really Prove One Cause?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "CDC Cause of Death Categories",
+        "Scientist Death Theory Analysis",
+        "Case Studies in Research Deaths"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_posthoc_researcher_c_07c9f9",
+      "title": "When a Researcher Death List Creates Its Own Pattern",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Post Hoc Selection Methodology",
+        "Cluster Detection vs. Post Hoc Selection",
+        "Variables in Researcher Death Lists"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+      "title": "A Death Count Is Not a Death Rate",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Establishing a Defensible Mortality Analysis",
+        "Numerator vs. Denominator Evidential Problems",
+        "Variables Influencing Mortality Interpretation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_operation_5651f5",
+      "title": "What Would Actually Link Separate Researcher Deaths?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Operational Signatures for Linkage",
+        "Thematic Similarity vs Operational Linkage",
+        "Evidence Constraints in 2026 Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5",
+      "title": "What Did Peer Review Actually Validate in Gravity Research?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ning Li's Superconductor Research Time line",
+        "Interpretations of Li's Published Work",
+        "Evidence Categories in Gravity Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_harris_gravitoelectr_9567f9",
+      "title": "How Harris Recut the Gravitoelectric Effect Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Superconductor Gravity Research Time line",
+        "Torr Li vs. Harris Magnitude Claims",
+        "Components of the Harris Critique"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_kowitt_li_torr_criti_bdb9e7",
+      "title": "Why Kowitt Challenged Li and Torr's Prediction",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Kowitt Critique",
+        "Permeability Interpretation Dispute",
+        "Scientific Context of the Dispute"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_li_torr_claims_vs_re_2301b8",
+      "title": "Did Li and Torr Really Publish Antigravity?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Li and Torr Research Key Stages",
+        "Theoretical Claims vs. Experimental Reality",
+        "Non Demonstrated Claims in Li Papers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_ning_li_1997_gravity_b91352",
+      "title": "What Ning Li's 1997 Gravity Test Actually Found",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ning Li 1997 Experimental Workflow",
+        "Static Gravity Claims vs. Li Limit",
+        "Experimental Controls for Gravimetry"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_peer_review_ning_li_54ded9",
+      "title": "What Peer Review Did and Did Not Validate",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Research Publication Time line",
+        "Levels of Scientific Standing",
+        "Scientific Quality Control Filters"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_superconducting_grav_592933",
+      "title": "Could Superconductors Amplify Tiny Gravity Effects?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Li and Torr Superconductivity Research Path",
+        "Gravitomagnetic Scale Discrepancies",
+        "Superconductor Gravity Research Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+      "title": "How Much Weight Should Pre Death Warnings Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eskridge Research and Death Time line",
+        "Eskridge Warning Evidential Reach",
+        "Corroboration Requirements for Warnings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_congress_circular_co_eb02d5",
+      "title": "Does Being Submitted to Congress Confirm a Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eskridge Allegation Provenance Chain",
+        "Congressional Record vs. Fact Verification",
+        "Layers of the Eskridge Allegation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_dying_declaration_li_d0a67d",
+      "title": "When Is a Warning Really a Dying Declaration?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Dying Declaration vs. Pre Death Warning",
+        "Verifying Amy Eskridge Communications",
+        "Legal Standards for Hearsay Exceptions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_eskridge_warning_lim_4548e3",
+      "title": "What Does Amy Eskridge's Warning Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Amy Eskridge Pre Death Communication Time line",
+        "Interpretations of Eskridge's Warning",
+        "Evidence Requirements for Homicide"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_fear_vs_actual_threa_08e5ad",
+      "title": "Fear Is Evidence, But Evidence of What?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evidence Chain for Researcher Fear",
+        "Fear vs. External Threat Evidence",
+        "Corroboration Types for Warnings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_suicide_denial_evide_361c9d",
+      "title": "Does a Pre Death Suicide Denial Prove Foul Play?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Amy Eskridge Pre Death Time line",
+        "Evidence Weight Analysis",
+        "Scrutiny Triggers for Investigators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+      "title": "What Evidence Would Turn a Warning Into Corroboration?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Digital Evidence Authentication Workflow",
+        "Corroboration vs. Content Reproduction",
+        "Evidential Hierarchy for Pre Death Warnings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41",
+      "title": "What Do Project Blue Book Records Add to Mc Donald's Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Institutional Evolution",
+        "Mc Donald vs. Official Air Force Narrative",
+        "Project Blue Book Archive Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_explanatio_24c2c6",
+      "title": "Did Blue Book Explain UFO Reports Away?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mc Donald's Methodology for Case Analysis",
+        "Mc Donald vs. Blue Book Interpretations",
+        "Factors Influencing Investigation Bias"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_scientific_991b8d",
+      "title": "Was Project Blue Book Built for Serious Science?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Administrative Evolution",
+        "Mc Donald vs. Blue Book Institutional Scope",
+        "Blue Book Resource Distribution Network"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_unidentifi_5a99e6",
+      "title": "What Did Blue Book's Unidentified Cases Really Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "rank_podium",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "data",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Blue Book Statistical Totals",
+        "Interpretations of Unidentified Cases",
+        "Blue Book Identification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_blue_book_v_03d28d",
+      "title": "What Mc Donald Found Inside Project Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mc Donald's 1966 Wright Patterson Visits",
+        "Mc Donald's Interpretations of Blue Book Files",
+        "Key Case Files Analyzed by Mc Donald"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_suppression_98ffdc",
+      "title": "Do Blue Book Records Show Mc Donald Was Targeted?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "James Mc Donald's Blue Book Investigation",
+        "Mc Donald's Explanations for Blue Book",
+        "Project Blue Book Archive Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.571,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_rb47_blue_book_recor_0aa137",
+      "title": "Why the RB 47 UFO File Became So Contested",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RB 47 Encounter Documentation Path",
+        "RB 47 Signal Interpretation Models",
+        "RB 47 Case Archival Complications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+      "title": "How Should We Treat Evidence the Public Cannot Inspect?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Eskridge Evidence Chain Analysis",
+        "Public vs Private Evidence Gaps",
+        "Case Studies in Evidence Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_alabama_death_record_23f99b",
+      "title": "Why Amy Eskridge's Death Certificate Is Not Public",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Alabama Death Certificate Confidentiality Time line",
+        "Interpretations of Eskridge Record Absence",
+        "Alabama Vital Records Access Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_warning_mes_c1ed7d",
+      "title": "What Would Amy Eskridge's Warning Message Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Amy Eskridge Pre Death Communications",
+        "Eskridge Warning Evidentiary Limits",
+        "Requirements for Homicide Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_repetition_vs_corrob_127cf1",
+      "title": "Do More Articles Really Mean More Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Amy Eskridge Source Chain Expansion",
+        "Publication Count vs Evidential Origin",
+        "Hierarchy of Evidence Quality"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_screenshots_vs_recor_30e660",
+      "title": "When Is a Screenshot Strong Enough to Trust?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Digital Forensic Acquisition Hierarchy",
+        "Screen shot vs. Forensic Data",
+        "Amy Eskridge Case Evidence Tiers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_state_of_mind_vs_hom_402c2f",
+      "title": "Does Fear Before Death Count as Homicide Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidential Ladder for Homicide",
+        "State of Mind vs. Physical Evidence",
+        "Amy Eskridge Investigation Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+      "title": "Why Do Suppression Lists Keep Absorbing Other Sciences?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Research Field Drift",
+        "Distinctions in Unconventional Energy Research",
+        "Eugene Mallove Case Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_free_energy_lineages_ee53f2",
+      "title": "How Free Energy Narratives Merge Very Different Inventors",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Technological Discontinuities in Energy Research",
+        "Interpretations of the Wardenclyffe Project",
+        "Mallove's New Energy Umbrella Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_field_drift_246399",
+      "title": "How Eugene Mallove Became an Antigravity Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Eugene Mallove Career Progression",
+        "Mallove Identity Category Drift",
+        "Mallove Research Field Expansion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_murder_motiv_116b28",
+      "title": "Did Mallove's Research Have Anything to Do With His Murder?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Norwich Rental Property Conflict Key Stages",
+        "Mallove Death Motive Interpretations",
+        "Evidence in the Mallove Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_nasa_propulsion_boun_4c419d",
+      "title": "What NASA's Exotic Propulsion Research Actually Shows",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Breakthrough Propulsion Physics Lifecycle",
+        "Interpretations of NASA Propulsion Records",
+        "BPP Research Subject Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_shared_vocabulary_dr_155588",
+      "title": "Why UFO and Free Energy Fields Start to Blur",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Semantic Drift in Alternative Technology",
+        "NASA Breakthrough Propulsion vs. Alternative Claims",
+        "Vocabulary of Technological Promise"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_suppression_list_exp_b498aa",
+      "title": "Why Suppressed Scientist Lists Keep Getting Bigger",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Expansion of Suppressed Scientist Lists",
+        "Analysis of Eugene Mallove's Case",
+        "Categories of Suppressed Technology Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+      "title": "What Would Actually Prove a Research Related Motive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Validating Research Related Death Claims",
+        "Research Suppression vs. Mundane Motives",
+        "Evidence Types for Threat Assessment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_death_manner_before_127dc8",
+      "title": "Was It a Homicide Before Motive Is Considered?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Medicolegal Death Investigation Key Stages",
+        "Interpreting Undetermined Death Findings",
+        "Forensic Evidence Categories for Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_identifying_real_mot_0036ca",
+      "title": "Who Actually Had a Reason to Silence Them?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Chain for Suppression Claims",
+        "Ning Li Case: Secrecy vs. Violence",
+        "US Patent Secrecy Mechanisms"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b",
+      "title": "Does Mallove's Murder Support a Suppression Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the Mallove Investigation",
+        "Competing Motives for Mallove's Death",
+        "Evidence Chain in the Norwich Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_motive_access_and_op_7fbd92",
+      "title": "What Connects a Suspected Actor to the Death?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence Progression for Suppression Claims",
+        "Motive vs. Access in Research Deaths",
+        "Evidence Types for Operational Access"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_research_stakes_and_3fc089",
+      "title": "Was the Research Important Enough to Threaten Anyone?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ning Li Research Progression",
+        "Evidence Levels for Suppression Motive",
+        "Formal Information Control Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_testing_researcher_t_7609cb",
+      "title": "Which Threats Count as Strong Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Amy Eskridge Case Chronology",
+        "Eskridge Threat Evidence Hierarchy",
+        "Corroboration Requirements for Threats"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd",
+      "title": "How Suppressed Scientist Death Lists Grow Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Researcher Death Lists",
+        "Analysis of Death Cluster Validity",
+        "Bridge Terminology in Research Fields"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_2026_name_tracing_4d8d8a",
+      "title": "What Happened When the Names Were Checked",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Traced Researcher Deaths",
+        "Viral Claims vs. Politi Fact Findings",
+        "Diversity of Traced Occupations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_2026_scientist_list_b3da60",
+      "title": "How One Scientist List Grew So Fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 2026 Scientist List Expansion",
+        "Narrow vs. Broad List Inclusion Criteria",
+        "Diverse Routes to List Inclusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_bridge_labels_resear_d4a41e",
+      "title": "Why Unrelated Researchers Start Looking Connected",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "hub"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanism of Broad Label Expansion",
+        "Levels of Researcher Connection",
+        "Broad Aerospace Research Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_death_category_drift_16ac7d",
+      "title": "When Very Different Deaths Become One Pattern",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Categorized Outcomes in Researcher Death Lists",
+        "Aggregated vs. Disaggregated Evidence Patterns",
+        "Factors Driving Category Drift in UFO Narratives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_official_inquiry_not_c304ab",
+      "title": "Does a Government Inquiry Make the Pattern Real?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "2026 Congressional Inquiry Progression",
+        "Inquiry vs. Validation Distinction",
+        "Discrepancies in Researcher Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_retrospective_ufo_as_c6cd09",
+      "title": "How UFO Connections Get Added After the Fact",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Retrospective UFO Narrative Construction",
+        "Ning Li Case Interpretations",
+        "Fields Linked to UFO Narratives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01",
+      "title": "What Evidence Separates Suicide From a Staged Death Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "James E. Mc Donald Death Key Stages",
+        "Staged Death Evidence Requirements",
+        "Amy Eskridge Evidential Structure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_contemporary_vs_late_f64bf0",
+      "title": "Which Evidence Came First in a Suspicious Death?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "James E. Mc Donald Key Stages",
+        "Evidence Weighting in Research Deaths",
+        "Hierarchy of Evidential Value"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_federal_review_scien_af31f1",
+      "title": "Does Federal Scrutiny Make a Death More Suspicious?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Federal Scientist Review Workflow",
+        "Federal Review Evidential Limits",
+        "Scientist Case Study Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_missing_autopsy_reco_57fd12",
+      "title": "What Can We Know Without the Autopsy Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alabama Forensic Record Access Path",
+        "Interpretations of Missing Records",
+        "Primary Forensic Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_predicted_suicide_de_0d3d4c",
+      "title": "Can a Pre Death Suicide Denial Prove Murder?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Forensic Verification of Pre Death Warnings",
+        "Eskridge Warning vs. Forensic Findings",
+        "Evidence Categories in Death Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_prior_attempts_dispu_43f5d4",
+      "title": "How Much Does a Prior Suicide Attempt Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "James E. Mc Donald Death Key Stages",
+        "Suicide vs. Assassination Evidence Logic",
+        "Hierarchy of Death Investigation Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_staged_suicide_evide_58812f",
+      "title": "What Would Actually Show a Suicide Was Staged?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Forensic Verification of Staged Suicides",
+        "Suicide vs. Staged Homicide Indicators",
+        "Forensic Evidence Categories for Staging"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+      "title": "How Scientific UFO Research Became Professionally Risky",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald's Scientific Career",
+        "Interpretations of Researcher Risk",
+        "Factors Creating Scientific Stigma"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_condon_report_stigma_2913eb",
+      "title": "How the Condon Report Raised the Cost of UFO Research",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the Condon Report Study",
+        "Scientific Interpretations of Unexplained Cases",
+        "Research Categories Post Condon Report"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mcdonald_reputation_58ddb1",
+      "title": "What UFO Research Cost James Mc Donald's Reputation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "James E. Mc Donald Professional Time line",
+        "Condon Report vs. Mc Donald Claims",
+        "Dimensions of Mc Donald's Professional Stigma"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mixed_ufo_evidence_s_1610f0",
+      "title": "How Bad UFO Evidence Made Serious Research Harder",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA UAP Data Collection Methodology",
+        "Project Blue Book Evidence Categories",
+        "Barriers to Scientific UAP Discovery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_robertson_panel_stig_2fdd4f",
+      "title": "When UFO Reporting Became a Cold War Problem",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Robertson Panel Policy Implementation",
+        "Robertson Panel Security Logic",
+        "Robertson Panel Training Targets"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_ufo_career_incentive_14cc69",
+      "title": "UFO Career Incentive",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visible vs Hidden Career Risks",
+        "The Condon Report Incentive Loop",
+        "Barriers to UAP Scientific Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_vallee_public_cautio_e03a7b",
+      "title": "Why Jacques Vallee Kept UFO Work at Arm's Length",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Jacques Vallée's Academic and Professional Path",
+        "Public vs Private Research Identity",
+        "The Invisible College Structure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

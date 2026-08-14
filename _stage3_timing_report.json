@@ -1,0 +1,2684 @@
+{
+  "version": 1,
+  "page_count": 127,
+  "total_page_seconds": 2004.6335,
+  "average_page_seconds": 15.7845,
+  "phase_totals_seconds": {
+    "media_svg": 1458.2563,
+    "internal_links": 345.7877,
+    "content_assembly": 132.162,
+    "monetization": 33.5784,
+    "youtube": 13.0504,
+    "quality_write": 9.8332,
+    "content_cleanup_final": 7.4655,
+    "preparation": 4.3442,
+    "content_cleanup_initial": 0.1547
+  },
+  "slowest_pages": [
+    {
+      "base_name": "UFO_and_antigravity_1a6484",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 23.687,
+      "phases": {
+        "preparation": 0.0374,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.2434,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 15.4489,
+        "youtube": 3.5888,
+        "content_assembly": 0.9997,
+        "monetization": 1.2506,
+        "quality_write": 0.0853
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.5733,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4451,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 13.858,
+        "youtube": 3.495,
+        "content_assembly": 1.4238,
+        "monetization": 1.1518,
+        "quality_write": 0.1331
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.2883,
+      "phases": {
+        "preparation": 0.0859,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6475,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 13.4221,
+        "youtube": 3.5116,
+        "content_assembly": 1.0527,
+        "monetization": 1.4529,
+        "quality_write": 0.0833
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.1149,
+      "phases": {
+        "preparation": 0.0495,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4413,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 15.2845,
+        "youtube": 0.0135,
+        "content_assembly": 1.0722,
+        "monetization": 0.1358,
+        "quality_write": 0.0818
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.8844,
+      "phases": {
+        "preparation": 0.0504,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7463,
+        "content_cleanup_final": 0.0601,
+        "media_svg": 14.5788,
+        "youtube": 0.0153,
+        "content_assembly": 1.1812,
+        "monetization": 0.1617,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.7033,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 3.1964,
+        "content_cleanup_final": 0.0477,
+        "media_svg": 14.0211,
+        "youtube": 0.0188,
+        "content_assembly": 1.1604,
+        "monetization": 0.1228,
+        "quality_write": 0.0905
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5919,
+      "phases": {
+        "preparation": 0.0423,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.1518,
+        "content_cleanup_final": 0.0838,
+        "media_svg": 13.7974,
+        "youtube": 0.0152,
+        "content_assembly": 1.2614,
+        "monetization": 0.1379,
+        "quality_write": 0.1008
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_blue_book_v_03d28d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5407,
+      "phases": {
+        "preparation": 0.0385,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.3894,
+        "content_cleanup_final": 0.0644,
+        "media_svg": 12.418,
+        "youtube": 0.0117,
+        "content_assembly": 1.1879,
+        "monetization": 1.3614,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.4281,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5473,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 14.5296,
+        "youtube": 0.0235,
+        "content_assembly": 1.0473,
+        "monetization": 0.1351,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.3229,
+      "phases": {
+        "preparation": 0.0508,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5539,
+        "content_cleanup_final": 0.047,
+        "media_svg": 14.25,
+        "youtube": 0.016,
+        "content_assembly": 1.1843,
+        "monetization": 0.1431,
+        "quality_write": 0.0773
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.2521,
+      "phases": {
+        "preparation": 0.0556,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 3.2298,
+        "content_cleanup_final": 0.0702,
+        "media_svg": 13.3639,
+        "youtube": 0.021,
+        "content_assembly": 1.2471,
+        "monetization": 0.1727,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.1604,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7355,
+        "content_cleanup_final": 0.0752,
+        "media_svg": 13.8447,
+        "youtube": 0.0246,
+        "content_assembly": 1.2003,
+        "monetization": 0.1299,
+        "quality_write": 0.1044
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0406,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5024,
+        "content_cleanup_final": 0.0558,
+        "media_svg": 11.2169,
+        "youtube": 0.0192,
+        "content_assembly": 0.8858,
+        "monetization": 3.2529,
+        "quality_write": 0.0799
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8308,
+      "phases": {
+        "preparation": 0.0477,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.9894,
+        "content_cleanup_final": 0.0646,
+        "media_svg": 13.3094,
+        "youtube": 0.032,
+        "content_assembly": 1.2063,
+        "monetization": 0.0886,
+        "quality_write": 0.0916
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8008,
+      "phases": {
+        "preparation": 0.0577,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 2.8127,
+        "content_cleanup_final": 0.063,
+        "media_svg": 13.3201,
+        "youtube": 0.0143,
+        "content_assembly": 1.1578,
+        "monetization": 0.2735,
+        "quality_write": 0.0997
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6657,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8873,
+        "content_cleanup_final": 0.073,
+        "media_svg": 13.1423,
+        "youtube": 0.0138,
+        "content_assembly": 1.2904,
+        "monetization": 0.1124,
+        "quality_write": 0.0998
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6002,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6626,
+        "content_cleanup_final": 0.053,
+        "media_svg": 13.4305,
+        "youtube": 0.0184,
+        "content_assembly": 1.1679,
+        "monetization": 0.1329,
+        "quality_write": 0.0884
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.5814,
+      "phases": {
+        "preparation": 0.0481,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.4656,
+        "content_cleanup_final": 0.0517,
+        "media_svg": 13.5606,
+        "youtube": 0.021,
+        "content_assembly": 1.227,
+        "monetization": 0.1358,
+        "quality_write": 0.0703
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4294,
+      "phases": {
+        "preparation": 0.0485,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8752,
+        "content_cleanup_final": 0.0837,
+        "media_svg": 12.8251,
+        "youtube": 0.0133,
+        "content_assembly": 1.326,
+        "monetization": 0.1475,
+        "quality_write": 0.1091
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.3159,
+      "phases": {
+        "preparation": 0.0385,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.8346,
+        "content_cleanup_final": 0.0835,
+        "media_svg": 12.8346,
+        "youtube": 0.0261,
+        "content_assembly": 1.3147,
+        "monetization": 0.0773,
+        "quality_write": 0.1048
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "UFO_and_antigravity_1a6484",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 23.687,
+      "phases": {
+        "preparation": 0.0374,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.2434,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 15.4489,
+        "youtube": 3.5888,
+        "content_assembly": 0.9997,
+        "monetization": 1.2506,
+        "quality_write": 0.0853
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.2883,
+      "phases": {
+        "preparation": 0.0859,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6475,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 13.4221,
+        "youtube": 3.5116,
+        "content_assembly": 1.0527,
+        "monetization": 1.4529,
+        "quality_write": 0.0833
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 22.5733,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4451,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 13.858,
+        "youtube": 3.495,
+        "content_assembly": 1.4238,
+        "monetization": 1.1518,
+        "quality_write": 0.1331
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.8844,
+      "phases": {
+        "preparation": 0.0504,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7463,
+        "content_cleanup_final": 0.0601,
+        "media_svg": 14.5788,
+        "youtube": 0.0153,
+        "content_assembly": 1.1812,
+        "monetization": 0.1617,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.7033,
+      "phases": {
+        "preparation": 0.0447,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 3.1964,
+        "content_cleanup_final": 0.0477,
+        "media_svg": 14.0211,
+        "youtube": 0.0188,
+        "content_assembly": 1.1604,
+        "monetization": 0.1228,
+        "quality_write": 0.0905
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_predeath_warnings_003816",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8008,
+      "phases": {
+        "preparation": 0.0577,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 2.8127,
+        "content_cleanup_final": 0.063,
+        "media_svg": 13.3201,
+        "youtube": 0.0143,
+        "content_assembly": 1.1578,
+        "monetization": 0.2735,
+        "quality_write": 0.0997
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_huntsville_context_746ced",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.0984,
+      "phases": {
+        "preparation": 0.0484,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.2963,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 13.5764,
+        "youtube": 0.0278,
+        "content_assembly": 0.9471,
+        "monetization": 0.1103,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.4281,
+      "phases": {
+        "preparation": 0.0457,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.5473,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 14.5296,
+        "youtube": 0.0235,
+        "content_assembly": 1.0473,
+        "monetization": 0.1351,
+        "quality_write": 0.0692
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.2521,
+      "phases": {
+        "preparation": 0.0556,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 3.2298,
+        "content_cleanup_final": 0.0702,
+        "media_svg": 13.3639,
+        "youtube": 0.021,
+        "content_assembly": 1.2471,
+        "monetization": 0.1727,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6002,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6626,
+        "content_cleanup_final": 0.053,
+        "media_svg": 13.4305,
+        "youtube": 0.0184,
+        "content_assembly": 1.1679,
+        "monetization": 0.1329,
+        "quality_write": 0.0884
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.863,
+      "phases": {
+        "preparation": 0.041,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.446,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 13.1236,
+        "youtube": 0.0145,
+        "content_assembly": 1.0055,
+        "monetization": 0.1194,
+        "quality_write": 0.085
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5919,
+      "phases": {
+        "preparation": 0.0423,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.1518,
+        "content_cleanup_final": 0.0838,
+        "media_svg": 13.7974,
+        "youtube": 0.0152,
+        "content_assembly": 1.2614,
+        "monetization": 0.1379,
+        "quality_write": 0.1008
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.5814,
+      "phases": {
+        "preparation": 0.0481,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.4656,
+        "content_cleanup_final": 0.0517,
+        "media_svg": 13.5606,
+        "youtube": 0.021,
+        "content_assembly": 1.227,
+        "monetization": 0.1358,
+        "quality_write": 0.0703
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1941,
+      "phases": {
+        "preparation": 0.0433,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.7094,
+        "content_cleanup_final": 0.0454,
+        "media_svg": 13.0984,
+        "youtube": 0.0142,
+        "content_assembly": 1.0546,
+        "monetization": 0.1441,
+        "quality_write": 0.0837
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 19.1149,
+      "phases": {
+        "preparation": 0.0495,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.4413,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 15.2845,
+        "youtube": 0.0135,
+        "content_assembly": 1.0722,
+        "monetization": 0.1358,
+        "quality_write": 0.0818
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.4294,
+      "phases": {
+        "preparation": 0.0485,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8752,
+        "content_cleanup_final": 0.0837,
+        "media_svg": 12.8251,
+        "youtube": 0.0133,
+        "content_assembly": 1.326,
+        "monetization": 0.1475,
+        "quality_write": 0.1091
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.3229,
+      "phases": {
+        "preparation": 0.0508,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5539,
+        "content_cleanup_final": 0.047,
+        "media_svg": 14.25,
+        "youtube": 0.016,
+        "content_assembly": 1.1843,
+        "monetization": 0.1431,
+        "quality_write": 0.0773
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.6657,
+      "phases": {
+        "preparation": 0.0456,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.8873,
+        "content_cleanup_final": 0.073,
+        "media_svg": 13.1423,
+        "youtube": 0.0138,
+        "content_assembly": 1.2904,
+        "monetization": 0.1124,
+        "quality_write": 0.0998
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3722,
+      "phases": {
+        "preparation": 0.0481,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5777,
+        "content_cleanup_final": 0.0548,
+        "media_svg": 11.3268,
+        "youtube": 0.015,
+        "content_assembly": 1.134,
+        "monetization": 0.1393,
+        "quality_write": 0.0758
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.1828,
+      "phases": {
+        "preparation": 0.0455,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3495,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 13.5842,
+        "youtube": 0.0195,
+        "content_assembly": 0.9487,
+        "monetization": 0.1334,
+        "quality_write": 0.088
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.8308,
+      "phases": {
+        "preparation": 0.0477,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.9894,
+        "content_cleanup_final": 0.0646,
+        "media_svg": 13.3094,
+        "youtube": 0.032,
+        "content_assembly": 1.2063,
+        "monetization": 0.0886,
+        "quality_write": 0.0916
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_field_drift_4cd429",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9336,
+      "phases": {
+        "preparation": 0.1934,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.5804,
+        "content_cleanup_final": 0.0616,
+        "media_svg": 12.7263,
+        "youtube": 0.0131,
+        "content_assembly": 1.1174,
+        "monetization": 0.1521,
+        "quality_write": 0.0885
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 18.1604,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7355,
+        "content_cleanup_final": 0.0752,
+        "media_svg": 13.8447,
+        "youtube": 0.0246,
+        "content_assembly": 1.2003,
+        "monetization": 0.1299,
+        "quality_write": 0.1044
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_mixed_death_causes_f47ac9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.091,
+      "phases": {
+        "preparation": 0.0357,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.7893,
+        "content_cleanup_final": 0.0558,
+        "media_svg": 10.8303,
+        "youtube": 0.0111,
+        "content_assembly": 1.1418,
+        "monetization": 0.1503,
+        "quality_write": 0.0755
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_intervening_years_ca_a4bb09",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0457,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4206,
+        "content_cleanup_final": 0.0616,
+        "media_svg": 11.2521,
+        "youtube": 0.0349,
+        "content_assembly": 1.0434,
+        "monetization": 0.1466,
+        "quality_write": 0.0626
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_mcdonald_final_month_3d77c3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8943,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.5183,
+        "content_cleanup_final": 0.0491,
+        "media_svg": 11.037,
+        "youtube": 0.0169,
+        "content_assembly": 1.0349,
+        "monetization": 0.146,
+        "quality_write": 0.0694
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_2003_2004_tr_f7b10a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7706,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.606,
+        "content_cleanup_final": 0.0384,
+        "media_svg": 10.9832,
+        "youtube": 0.025,
+        "content_assembly": 0.8667,
+        "monetization": 0.1532,
+        "quality_write": 0.0607
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5_ning_li_visibility_g_0eac26",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6152,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4798,
+        "content_cleanup_final": 0.038,
+        "media_svg": 10.9426,
+        "youtube": 0.0174,
+        "content_assembly": 0.8793,
+        "monetization": 0.1538,
+        "quality_write": 0.0714
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_56933a_family_testimony_lim_368143",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0648,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.601,
+        "content_cleanup_final": 0.0448,
+        "media_svg": 11.2228,
+        "youtube": 0.0225,
+        "content_assembly": 0.96,
+        "monetization": 0.1267,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_2014_acciden_e0df29",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5891,
+      "phases": {
+        "preparation": 0.0418,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.461,
+        "content_cleanup_final": 0.0379,
+        "media_svg": 11.0492,
+        "youtube": 0.0193,
+        "content_assembly": 0.7977,
+        "monetization": 0.1162,
+        "quality_write": 0.0651
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_56933a_ning_li_china_defect_1d1c9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4316,
+      "phases": {
+        "preparation": 0.0292,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4004,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 10.9466,
+        "youtube": 0.0203,
+        "content_assembly": 0.8347,
+        "monetization": 0.1079,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_illusory_pattern_per_070bd7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8224,
+      "phases": {
+        "preparation": 0.031,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.8197,
+        "content_cleanup_final": 0.054,
+        "media_svg": 10.6117,
+        "youtube": 0.0166,
+        "content_assembly": 1.0741,
+        "monetization": 0.149,
+        "quality_write": 0.0649
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_loose_scientist_labe_19ac32",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6464,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0028,
+        "internal_links": 3.2601,
+        "content_cleanup_final": 0.1159,
+        "media_svg": 10.7788,
+        "youtube": 0.0165,
+        "content_assembly": 1.1995,
+        "monetization": 0.1476,
+        "quality_write": 0.0987
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231_researcher_death_den_252946",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6491,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.002,
+        "internal_links": 3.7717,
+        "content_cleanup_final": 0.1451,
+        "media_svg": 11.0034,
+        "youtube": 0.0159,
+        "content_assembly": 1.4198,
+        "monetization": 0.143,
+        "quality_write": 0.118
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_energy_weap_1c6df0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6182,
+      "phases": {
+        "preparation": 0.0307,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5963,
+        "content_cleanup_final": 0.0552,
+        "media_svg": 10.733,
+        "youtube": 0.0162,
+        "content_assembly": 0.9865,
+        "monetization": 0.1298,
+        "quality_write": 0.0697
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_forensic_te_23baf2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.798,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.2536,
+        "content_cleanup_final": 0.086,
+        "media_svg": 10.8838,
+        "youtube": 0.0182,
+        "content_assembly": 1.2834,
+        "monetization": 0.1574,
+        "quality_write": 0.0855
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_missing_for_35f0fe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6268,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.5518,
+        "content_cleanup_final": 0.0417,
+        "media_svg": 10.8271,
+        "youtube": 0.0175,
+        "content_assembly": 0.9603,
+        "monetization": 0.1322,
+        "quality_write": 0.0666
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_arpae_lenr_funding_dea49b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1622,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.691,
+        "content_cleanup_final": 0.0584,
+        "media_svg": 11.1384,
+        "youtube": 0.0127,
+        "content_assembly": 1.031,
+        "monetization": 0.1291,
+        "quality_write": 0.0753
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_huntsville_context_746ced_cummings_contractor_7dbddc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1884,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7303,
+        "content_cleanup_final": 0.0656,
+        "media_svg": 11.1323,
+        "youtube": 0.0176,
+        "content_assembly": 0.9791,
+        "monetization": 0.1559,
+        "quality_write": 0.0755
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_huntsville_context_746ced_uah_defense_secrecy_f302fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.3217,
+      "phases": {
+        "preparation": 0.033,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 3.4476,
+        "content_cleanup_final": 0.1063,
+        "media_svg": 11.2736,
+        "youtube": 0.0313,
+        "content_assembly": 1.1809,
+        "monetization": 0.1489,
+        "quality_write": 0.0984
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_disappearance_rumor_0fcd09",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8068,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.4756,
+        "content_cleanup_final": 0.066,
+        "media_svg": 11.0992,
+        "youtube": 0.0203,
+        "content_assembly": 0.9073,
+        "monetization": 0.1344,
+        "quality_write": 0.0755
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_ning_li_disappearanc_1d6afe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.9155,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5087,
+        "content_cleanup_final": 0.0417,
+        "media_svg": 11.3059,
+        "youtube": 0.0304,
+        "content_assembly": 0.9542,
+        "monetization": 1.9841,
+        "quality_write": 0.0611
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_obituary_evidence_4a5b65_obituary_missing_cau_38d85e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9131,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7233,
+        "content_cleanup_final": 0.059,
+        "media_svg": 10.7794,
+        "youtube": 0.021,
+        "content_assembly": 1.0658,
+        "monetization": 0.1573,
+        "quality_write": 0.0748
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_predeath_warnings_003816_congress_circular_co_eb02d5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.916,
+      "phases": {
+        "preparation": 0.0325,
+        "content_cleanup_initial": 0.0023,
+        "internal_links": 2.7821,
+        "content_cleanup_final": 0.0753,
+        "media_svg": 10.747,
+        "youtube": 0.0188,
+        "content_assembly": 1.0044,
+        "monetization": 0.1719,
+        "quality_write": 0.0818
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_predeath_warnings_003816_fear_vs_actual_threa_08e5ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2697,
+      "phases": {
+        "preparation": 0.0376,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.7874,
+        "content_cleanup_final": 0.0549,
+        "media_svg": 11.1767,
+        "youtube": 0.0217,
+        "content_assembly": 0.9893,
+        "monetization": 0.1323,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_predeath_warnings_003816_warning_corroboratio_793251",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8224,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 3.1721,
+        "content_cleanup_final": 0.0939,
+        "media_svg": 11.0796,
+        "youtube": 0.0298,
+        "content_assembly": 1.1667,
+        "monetization": 0.1502,
+        "quality_write": 0.0983
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_kona_blue_proposal_bfa16f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6744,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5671,
+        "content_cleanup_final": 0.0443,
+        "media_svg": 10.8843,
+        "youtube": 0.0113,
+        "content_assembly": 0.9485,
+        "monetization": 0.1154,
+        "quality_write": 0.0693
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mallove_suppression_860cfe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8036,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.585,
+        "content_cleanup_final": 0.0396,
+        "media_svg": 11.3063,
+        "youtube": 0.0104,
+        "content_assembly": 0.9548,
+        "monetization": 0.825,
+        "quality_write": 0.0551
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_huntsville_context_746ced_huntsville_proximity_f76b03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9941,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0019,
+        "internal_links": 2.6996,
+        "content_cleanup_final": 0.0649,
+        "media_svg": 10.7967,
+        "youtube": 0.0299,
+        "content_assembly": 1.1501,
+        "monetization": 0.1419,
+        "quality_write": 0.0827
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_huntsville_context_746ced_marshall_nasa_connec_cad935",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2585,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.9216,
+        "content_cleanup_final": 0.0696,
+        "media_svg": 10.9505,
+        "youtube": 0.0267,
+        "content_assembly": 1.0448,
+        "monetization": 0.1481,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_huntsville_context_746ced_redstone_links_consp_aa7362",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1652,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.9906,
+        "content_cleanup_final": 0.092,
+        "media_svg": 10.6957,
+        "youtube": 0.0291,
+        "content_assembly": 1.096,
+        "monetization": 0.1527,
+        "quality_write": 0.0786
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_defense_secrecy_infe_3d50eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2109,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.0025,
+        "internal_links": 2.7773,
+        "content_cleanup_final": 0.0611,
+        "media_svg": 11.104,
+        "youtube": 0.0227,
+        "content_assembly": 1.0039,
+        "monetization": 0.1327,
+        "quality_write": 0.0726
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_local_records_resolv_bf8a79",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8295,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5422,
+        "content_cleanup_final": 0.0451,
+        "media_svg": 11.0531,
+        "youtube": 0.0303,
+        "content_assembly": 0.9066,
+        "monetization": 0.1599,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_silence_vs_missing_p_dd4590",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0088,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.657,
+        "content_cleanup_final": 0.0577,
+        "media_svg": 11.1252,
+        "youtube": 0.0239,
+        "content_assembly": 0.9169,
+        "monetization": 0.1332,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e_unanswered_contact_s_8f8795",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5778,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.496,
+        "content_cleanup_final": 0.0618,
+        "media_svg": 10.836,
+        "youtube": 0.0214,
+        "content_assembly": 0.923,
+        "monetization": 0.1392,
+        "quality_write": 0.0719
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_peer_review_ning_li_54ded9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9872,
+      "phases": {
+        "preparation": 0.0336,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.6587,
+        "content_cleanup_final": 0.0672,
+        "media_svg": 10.9014,
+        "youtube": 0.0197,
+        "content_assembly": 1.0009,
+        "monetization": 0.1918,
+        "quality_write": 0.1129
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mcdonald_reputation_58ddb1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7518,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5647,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 10.8927,
+        "youtube": 0.0237,
+        "content_assembly": 1.0448,
+        "monetization": 0.0777,
+        "quality_write": 0.0816
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_doe_2004_cold_fusion_3955e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.537,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5362,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 10.8365,
+        "youtube": 0.0251,
+        "content_assembly": 0.8917,
+        "monetization": 0.121,
+        "quality_write": 0.0638
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_google_2019_cold_fus_56dc54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9388,
+      "phases": {
+        "preparation": 0.0369,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.5947,
+        "content_cleanup_final": 0.0563,
+        "media_svg": 11.0418,
+        "youtube": 0.015,
+        "content_assembly": 0.9869,
+        "monetization": 0.1301,
+        "quality_write": 0.0754
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6_mit_cold_fusion_disp_aaff02",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7608,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6718,
+        "content_cleanup_final": 0.0493,
+        "media_svg": 10.7915,
+        "youtube": 0.0169,
+        "content_assembly": 1.005,
+        "monetization": 0.1263,
+        "quality_write": 0.0777
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_1971_death_f7b4f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.4846,
+      "phases": {
+        "preparation": 0.0274,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.459,
+        "content_cleanup_final": 0.0348,
+        "media_svg": 10.8218,
+        "youtube": 0.0118,
+        "content_assembly": 0.932,
+        "monetization": 0.139,
+        "quality_write": 0.0579
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_china_claim_9daa52",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9108,
+      "phases": {
+        "preparation": 0.0418,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.433,
+        "content_cleanup_final": 0.0325,
+        "media_svg": 11.0876,
+        "youtube": 0.0231,
+        "content_assembly": 1.0898,
+        "monetization": 0.1276,
+        "quality_write": 0.0746
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_569_522999_ning_li_rumor_cycle_a88013",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6164,
+      "phases": {
+        "preparation": 0.0467,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4864,
+        "content_cleanup_final": 0.0474,
+        "media_svg": 10.7729,
+        "youtube": 0.0232,
+        "content_assembly": 1.1485,
+        "monetization": 0.9984,
+        "quality_write": 0.0918
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c_mallove_homicide_vs_67b15b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5372,
+      "phases": {
+        "preparation": 0.0477,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.498,
+        "content_cleanup_final": 0.0367,
+        "media_svg": 10.8225,
+        "youtube": 0.0364,
+        "content_assembly": 0.8907,
+        "monetization": 0.1387,
+        "quality_write": 0.0652
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_ufo_motive_6938fa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8549,
+      "phases": {
+        "preparation": 0.0347,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4326,
+        "content_cleanup_final": 0.0497,
+        "media_svg": 11.1501,
+        "youtube": 0.0126,
+        "content_assembly": 0.9672,
+        "monetization": 0.1334,
+        "quality_write": 0.074
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_china_rumor_a3c474",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5731,
+      "phases": {
+        "preparation": 0.0274,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.5884,
+        "content_cleanup_final": 0.0404,
+        "media_svg": 10.7242,
+        "youtube": 0.0202,
+        "content_assembly": 0.9731,
+        "monetization": 0.121,
+        "quality_write": 0.0779
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ning_li_2003_public_d2613d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.3228,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.3706,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 10.7439,
+        "youtube": 0.0181,
+        "content_assembly": 0.9421,
+        "monetization": 0.1228,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_peer_review_gravity_cab9a5_harris_gravitoelectr_9567f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9265,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.591,
+        "content_cleanup_final": 0.0514,
+        "media_svg": 11.0534,
+        "youtube": 0.019,
+        "content_assembly": 0.9834,
+        "monetization": 0.129,
+        "quality_write": 0.0698
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_field_drift_246399",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.0299,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7144,
+        "content_cleanup_final": 0.0789,
+        "media_svg": 10.8696,
+        "youtube": 0.0174,
+        "content_assembly": 0.9787,
+        "monetization": 2.2739,
+        "quality_write": 0.0738
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_death_manner_before_127dc8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3663,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0041,
+        "internal_links": 3.0758,
+        "content_cleanup_final": 0.1165,
+        "media_svg": 10.9312,
+        "youtube": 0.0153,
+        "content_assembly": 0.9644,
+        "monetization": 0.1325,
+        "quality_write": 0.0984
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_research_stakes_and_3fc089",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.4831,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0031,
+        "internal_links": 3.0028,
+        "content_cleanup_final": 0.0942,
+        "media_svg": 10.746,
+        "youtube": 0.019,
+        "content_assembly": 1.3347,
+        "monetization": 0.1517,
+        "quality_write": 0.1071
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_mixed_ufo_evidence_s_1610f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2724,
+      "phases": {
+        "preparation": 0.0227,
+        "content_cleanup_initial": 0.0021,
+        "internal_links": 2.9892,
+        "content_cleanup_final": 0.0929,
+        "media_svg": 10.9077,
+        "youtube": 0.015,
+        "content_assembly": 1.0854,
+        "monetization": 0.0774,
+        "quality_write": 0.0799
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_condon_report_stigma_2913eb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6769,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8485,
+        "content_cleanup_final": 0.0669,
+        "media_svg": 10.9432,
+        "youtube": 0.0194,
+        "content_assembly": 1.016,
+        "monetization": 1.6859,
+        "quality_write": 0.0702
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_robertson_panel_stig_2fdd4f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8394,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.7405,
+        "content_cleanup_final": 0.0784,
+        "media_svg": 10.8315,
+        "youtube": 0.016,
+        "content_assembly": 0.9855,
+        "monetization": 0.0813,
+        "quality_write": 0.0686
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_ufo_career_incentive_14cc69",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9851,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6554,
+        "content_cleanup_final": 0.057,
+        "media_svg": 11.0946,
+        "youtube": 0.0167,
+        "content_assembly": 0.9816,
+        "monetization": 0.0798,
+        "quality_write": 0.0792
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ufo_research_stigma_772237_vallee_public_cautio_e03a7b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0076,
+      "phases": {
+        "preparation": 0.0304,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.8,
+        "content_cleanup_final": 0.0639,
+        "media_svg": 10.9924,
+        "youtube": 0.0166,
+        "content_assembly": 0.9565,
+        "monetization": 0.0812,
+        "quality_write": 0.0648
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc_accident_research_li_2f7398",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1478,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.8665,
+        "content_cleanup_final": 0.0657,
+        "media_svg": 10.9369,
+        "youtube": 0.0227,
+        "content_assembly": 1.0268,
+        "monetization": 0.1257,
+        "quality_write": 0.0751
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_compartmentalization_326565",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9111,
+      "phases": {
+        "preparation": 0.0321,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.7149,
+        "content_cleanup_final": 0.0692,
+        "media_svg": 10.9086,
+        "youtube": 0.0158,
+        "content_assembly": 0.9671,
+        "monetization": 0.1285,
+        "quality_write": 0.073
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_classified_program_c_591ee0_huntsville_secret_pr_e81fdc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.6307,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 3.8314,
+        "content_cleanup_final": 0.1477,
+        "media_svg": 10.857,
+        "youtube": 0.0222,
+        "content_assembly": 1.4763,
+        "monetization": 0.1542,
+        "quality_write": 0.1134
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_mcdonald_prior_suici_e5f54b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1235,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.5817,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 11.1545,
+        "youtube": 0.0123,
+        "content_assembly": 1.1103,
+        "monetization": 0.1265,
+        "quality_write": 0.0612
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_contemporary_vs_late_69fa7b_modern_mcdonald_murd_fd9572",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0343,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 2.6546,
+        "content_cleanup_final": 0.0537,
+        "media_svg": 11.0247,
+        "youtube": 0.0157,
+        "content_assembly": 1.0189,
+        "monetization": 0.1586,
+        "quality_write": 0.0779
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_common_motive_thresh_83b3a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9463,
+      "phases": {
+        "preparation": 0.0346,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5632,
+        "content_cleanup_final": 0.0415,
+        "media_svg": 10.9576,
+        "youtube": 0.0272,
+        "content_assembly": 1.1086,
+        "monetization": 0.1487,
+        "quality_write": 0.0637
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_communications_commo_05e767",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1446,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6055,
+        "content_cleanup_final": 0.0657,
+        "media_svg": 11.0583,
+        "youtube": 0.0205,
+        "content_assembly": 1.07,
+        "monetization": 0.2229,
+        "quality_write": 0.0732
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_competing_explanatio_a59ff9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0626,
+      "phases": {
+        "preparation": 0.0317,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.7406,
+        "content_cleanup_final": 0.0638,
+        "media_svg": 11.0183,
+        "youtube": 0.0211,
+        "content_assembly": 0.9677,
+        "monetization": 0.15,
+        "quality_write": 0.0683
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_cross_case_linkage_t_fdb341",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1082,
+      "phases": {
+        "preparation": 0.0309,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.9073,
+        "content_cleanup_final": 0.0645,
+        "media_svg": 10.8509,
+        "youtube": 0.0202,
+        "content_assembly": 0.9962,
+        "monetization": 0.1572,
+        "quality_write": 0.0799
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_forensic_operational_34ade1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.6824,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 3.164,
+        "content_cleanup_final": 0.0968,
+        "media_svg": 10.9975,
+        "youtube": 0.0227,
+        "content_assembly": 1.1231,
+        "monetization": 0.1642,
+        "quality_write": 0.0851
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_coordinated_campaign_a9a726_recurring_actor_link_c7cb2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.8165,
+      "phases": {
+        "preparation": 0.0255,
+        "content_cleanup_initial": 0.0028,
+        "internal_links": 3.4002,
+        "content_cleanup_final": 0.1233,
+        "media_svg": 10.8581,
+        "youtube": 0.0233,
+        "content_assembly": 1.1284,
+        "monetization": 0.1584,
+        "quality_write": 0.0965
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_credentials_suppress_9ecde0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5407,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4561,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 10.8917,
+        "youtube": 0.0177,
+        "content_assembly": 0.9806,
+        "monetization": 0.0804,
+        "quality_write": 0.0623
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_credentials_vs_claim_032e02_ning_li_army_funding_928683",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.997,
+      "phases": {
+        "preparation": 0.0372,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.6085,
+        "content_cleanup_final": 0.062,
+        "media_svg": 11.1332,
+        "youtube": 0.0258,
+        "content_assembly": 0.9647,
+        "monetization": 0.0909,
+        "quality_write": 0.0731
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_staged_robbe_660d29",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6781,
+      "phases": {
+        "preparation": 0.0329,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4345,
+        "content_cleanup_final": 0.0359,
+        "media_svg": 11.0129,
+        "youtube": 0.0167,
+        "content_assembly": 0.9529,
+        "monetization": 0.1348,
+        "quality_write": 0.0568
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9_mallove_wrong_suspec_257cea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8968,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.7321,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 11.0319,
+        "youtube": 0.0259,
+        "content_assembly": 0.8411,
+        "monetization": 0.1466,
+        "quality_write": 0.0607
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_family_testimony_569_522999_li_defense_work_sile_391478",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9553,
+      "phases": {
+        "preparation": 0.0403,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.4906,
+        "content_cleanup_final": 0.0394,
+        "media_svg": 11.0834,
+        "youtube": 0.027,
+        "content_assembly": 1.0272,
+        "monetization": 0.1651,
+        "quality_write": 0.0817
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_frame_dragging_vs_pr_8175cb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.2504,
+      "phases": {
+        "preparation": 0.0348,
+        "content_cleanup_initial": 0.003,
+        "internal_links": 2.8378,
+        "content_cleanup_final": 0.0799,
+        "media_svg": 11.0591,
+        "youtube": 0.0235,
+        "content_assembly": 0.9881,
+        "monetization": 0.1555,
+        "quality_write": 0.0687
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_gravity_vs_antigravi_ed0d15_ning_li_gravity_evid_978da7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0316,
+      "phases": {
+        "preparation": 0.0314,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.6682,
+        "content_cleanup_final": 0.0619,
+        "media_svg": 11.0117,
+        "youtube": 0.0177,
+        "content_assembly": 1.0207,
+        "monetization": 0.141,
+        "quality_write": 0.0776
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_condon_reputation_fe_3eb13b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8308,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.6341,
+        "content_cleanup_final": 0.0473,
+        "media_svg": 10.9889,
+        "youtube": 0.0173,
+        "content_assembly": 0.9311,
+        "monetization": 0.1203,
+        "quality_write": 0.0599
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_podkletnov_replicati_836273",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.1887,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3042,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 10.8453,
+        "youtube": 0.0134,
+        "content_assembly": 0.7776,
+        "monetization": 0.1377,
+        "quality_write": 0.059
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_superconductor_gravi_27b1e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0275,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.7289,
+        "content_cleanup_final": 0.0647,
+        "media_svg": 11.0428,
+        "youtube": 0.0257,
+        "content_assembly": 0.9217,
+        "monetization": 0.1278,
+        "quality_write": 0.0833
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_institutional_hostil_7c0847_uap_reporting_stigma_9ebffe",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8673,
+      "phases": {
+        "preparation": 0.0304,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.6064,
+        "content_cleanup_final": 0.0521,
+        "media_svg": 10.9794,
+        "youtube": 0.0161,
+        "content_assembly": 0.9795,
+        "monetization": 0.1348,
+        "quality_write": 0.0678
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_james_mcdonald_death_833d42_mcdonald_april_suici_2ea42f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6302,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.4316,
+        "content_cleanup_final": 0.0413,
+        "media_svg": 10.93,
+        "youtube": 0.0109,
+        "content_assembly": 0.9629,
+        "monetization": 0.1624,
+        "quality_write": 0.0657
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_family_accou_dc60bf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.5953,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.4616,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 11.0397,
+        "youtube": 0.024,
+        "content_assembly": 0.86,
+        "monetization": 0.0805,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_missing_scie_c3a957",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.8675,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.6635,
+        "content_cleanup_final": 0.0582,
+        "media_svg": 10.9783,
+        "youtube": 0.02,
+        "content_assembly": 0.9765,
+        "monetization": 0.0856,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43_ning_li_secrecy_clai_8e8987",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.2515,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4111,
+        "content_cleanup_final": 0.0388,
+        "media_svg": 10.7035,
+        "youtube": 0.0112,
+        "content_assembly": 0.9172,
+        "monetization": 0.0831,
+        "quality_write": 0.0567
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_police_file_f518b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7272,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.9275,
+        "content_cleanup_final": 0.0547,
+        "media_svg": 10.4324,
+        "youtube": 0.0265,
+        "content_assembly": 1.0604,
+        "monetization": 0.1308,
+        "quality_write": 0.0699
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_eskridge_suicide_rul_efd7c3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0362,
+      "phases": {
+        "preparation": 0.0328,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.7469,
+        "content_cleanup_final": 0.0578,
+        "media_svg": 10.9358,
+        "youtube": 0.016,
+        "content_assembly": 1.0006,
+        "monetization": 0.163,
+        "quality_write": 0.0825
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_missing_official_rec_eb2571_suicide_public_recor_61e53a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.5942,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.0024,
+        "internal_links": 3.2084,
+        "content_cleanup_final": 0.1136,
+        "media_svg": 10.7737,
+        "youtube": 0.0167,
+        "content_assembly": 1.1833,
+        "monetization": 0.1613,
+        "quality_write": 0.1031
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_ning_li_disappearanc_abd73c_ac_gravity_army_fund_fe4ba1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9521,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6923,
+        "content_cleanup_final": 0.0442,
+        "media_svg": 11.0142,
+        "youtube": 0.0205,
+        "content_assembly": 0.9444,
+        "monetization": 0.1469,
+        "quality_write": 0.06
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_mallove_murder_recor_3160e6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 15.3636,
+      "phases": {
+        "preparation": 0.0395,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5896,
+        "content_cleanup_final": 0.0491,
+        "media_svg": 11.3677,
+        "youtube": 0.0319,
+        "content_assembly": 1.0519,
+        "monetization": 0.1578,
+        "quality_write": 0.0751
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_obituary_evidence_4a_b6a356_obituary_silence_sus_4e028a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 17.3159,
+      "phases": {
+        "preparation": 0.0385,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.8346,
+        "content_cleanup_final": 0.0835,
+        "media_svg": 12.8346,
+        "youtube": 0.0261,
+        "content_assembly": 1.3147,
+        "monetization": 0.0773,
+        "quality_write": 0.1048
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_blue_book_scientific_991b8d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 17.2876,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.6854,
+        "content_cleanup_final": 0.0481,
+        "media_svg": 13.4045,
+        "youtube": 0.0174,
+        "content_assembly": 0.9239,
+        "monetization": 0.121,
+        "quality_write": 0.063
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_blue_book_v_03d28d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 18.5407,
+      "phases": {
+        "preparation": 0.0385,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.3894,
+        "content_cleanup_final": 0.0644,
+        "media_svg": 12.418,
+        "youtube": 0.0117,
+        "content_assembly": 1.1879,
+        "monetization": 1.3614,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_suppression_98ffdc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 16.2577,
+      "phases": {
+        "preparation": 0.0246,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.8788,
+        "content_cleanup_final": 0.0865,
+        "media_svg": 11.2453,
+        "youtube": 0.0246,
+        "content_assembly": 1.0869,
+        "monetization": 0.8319,
+        "quality_write": 0.0774
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_rb47_blue_book_recor_0aa137",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.7421,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.622,
+        "content_cleanup_final": 0.0369,
+        "media_svg": 11.2797,
+        "youtube": 0.016,
+        "content_assembly": 0.8616,
+        "monetization": 0.8416,
+        "quality_write": 0.0579
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_family_caut_86e526",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.5059,
+      "phases": {
+        "preparation": 0.0325,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5164,
+        "content_cleanup_final": 0.044,
+        "media_svg": 11.6261,
+        "youtube": 0.0182,
+        "content_assembly": 1.0613,
+        "monetization": 0.1399,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_eskridge_warning_mes_c1ed7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.7163,
+      "phases": {
+        "preparation": 0.033,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.6215,
+        "content_cleanup_final": 0.0571,
+        "media_svg": 10.7267,
+        "youtube": 0.0148,
+        "content_assembly": 1.054,
+        "monetization": 0.1294,
+        "quality_write": 0.0788
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_repetition_vs_corrob_127cf1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.6298,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.6271,
+        "content_cleanup_final": 0.0552,
+        "media_svg": 10.7599,
+        "youtube": 0.0179,
+        "content_assembly": 0.9543,
+        "monetization": 0.0964,
+        "quality_write": 0.0855
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_screenshots_vs_recor_30e660",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.59,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 3.1215,
+        "content_cleanup_final": 0.081,
+        "media_svg": 10.9598,
+        "youtube": 0.0128,
+        "content_assembly": 1.1943,
+        "monetization": 0.0953,
+        "quality_write": 0.0993
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_public_private_evide_7145a9_state_of_mind_vs_hom_402c2f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9434,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8238,
+        "content_cleanup_final": 0.0654,
+        "media_svg": 10.782,
+        "youtube": 0.0212,
+        "content_assembly": 0.9942,
+        "monetization": 0.162,
+        "quality_write": 0.0685
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_mallove_murder_motiv_116b28",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.866,
+      "phases": {
+        "preparation": 0.0334,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5575,
+        "content_cleanup_final": 0.0466,
+        "media_svg": 11.014,
+        "youtube": 0.0203,
+        "content_assembly": 0.97,
+        "monetization": 0.1547,
+        "quality_write": 0.0689
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_nasa_propulsion_boun_4c419d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.9883,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.8227,
+        "content_cleanup_final": 0.0526,
+        "media_svg": 10.7194,
+        "youtube": 0.0342,
+        "content_assembly": 1.0911,
+        "monetization": 0.1657,
+        "quality_write": 0.0787
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_field_drift_4cd429_shared_vocabulary_dr_155588",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.95,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.7352,
+        "content_cleanup_final": 0.0623,
+        "media_svg": 10.8917,
+        "youtube": 0.0249,
+        "content_assembly": 0.9793,
+        "monetization": 0.1401,
+        "quality_write": 0.0854
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_identifying_real_mot_0036ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0882,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.7774,
+        "content_cleanup_final": 0.0667,
+        "media_svg": 10.9624,
+        "youtube": 0.0125,
+        "content_assembly": 0.9993,
+        "monetization": 0.1532,
+        "quality_write": 0.085
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_research_motive_evid_6bff5d_mallove_murder_suppr_25921b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 18.0406,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.5024,
+        "content_cleanup_final": 0.0558,
+        "media_svg": 11.2169,
+        "youtube": 0.0192,
+        "content_assembly": 0.8858,
+        "monetization": 3.2529,
+        "quality_write": 0.0799
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd_bridge_labels_resear_d4a41e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 14.13,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.3785,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 10.7656,
+        "youtube": 0.0124,
+        "content_assembly": 0.7471,
+        "monetization": 0.121,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_contemporary_vs_late_f64bf0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0479,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 3.0601,
+        "content_cleanup_final": 0.0754,
+        "media_svg": 10.6016,
+        "youtube": 0.0278,
+        "content_assembly": 1.0234,
+        "monetization": 0.1561,
+        "quality_write": 0.0761
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_federal_review_scien_af31f1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.1374,
+      "phases": {
+        "preparation": 0.0319,
+        "content_cleanup_initial": 0.0037,
+        "internal_links": 2.6389,
+        "content_cleanup_final": 0.0463,
+        "media_svg": 11.0224,
+        "youtube": 0.0149,
+        "content_assembly": 1.1622,
+        "monetization": 0.1443,
+        "quality_write": 0.0727
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_predicted_suicide_de_0d3d4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0377,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.8995,
+        "content_cleanup_final": 0.0606,
+        "media_svg": 10.8504,
+        "youtube": 0.0248,
+        "content_assembly": 0.9755,
+        "monetization": 0.1298,
+        "quality_write": 0.0677
+      }
+    },
+    {
+      "base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_staged_suicide_evide_58812f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 15.0046,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0035,
+        "internal_links": 3.245,
+        "content_cleanup_final": 0.0976,
+        "media_svg": 10.3326,
+        "youtube": 0.0125,
+        "content_assembly": 1.082,
+        "monetization": 0.1272,
+        "quality_write": 0.0784
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 127,
+    "reused_pages": 96,
+    "rebuilt_pages": 127,
+    "error_pages": 0,
+    "page_work_wall_seconds": 700.3265,
+    "rebuilt_pages_per_minute": 10.8806,
+    "queued_rebuild_pages_per_minute": 10.8806,
+    "apparent_page_work_speedup": 2.8624,
+    "youtube_cache_prepare": {
+      "entries": 41487,
+      "updated": true,
+      "elapsed_seconds": 4.8556
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 127,
+      "successful_pages": 127,
+      "failed_pages": 0,
+      "worker_summary": {
+        "29680": {
+          "pages": 43,
+          "successes": 43,
+          "failures": 0,
+          "total_worker_seconds": 674.4076,
+          "max_worker_seconds": 23.7484,
+          "last_base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_predicted_suicide_de_0d3d4c"
+        },
+        "27432": {
+          "pages": 42,
+          "successes": 42,
+          "failures": 0,
+          "total_worker_seconds": 667.2051,
+          "max_worker_seconds": 22.3465,
+          "last_base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_federal_review_scien_af31f1"
+        },
+        "29612": {
+          "pages": 42,
+          "successes": 42,
+          "failures": 0,
+          "total_worker_seconds": 669.8906,
+          "max_worker_seconds": 22.6345,
+          "last_base_name": "UFO_and_antigravity_1a6484_suicide_vs_staged_de_060b01_staged_suicide_evide_58812f"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "UFO_and_antigravity_1a6484",
+          "level": 1,
+          "success": true,
+          "worker_pid": 29680,
+          "worker_duration_seconds": 23.7484,
+          "total_seconds": 23.687,
+          "worker_started_at_utc": "2026-08-14T04:59:40.168123Z",
+          "worker_finished_at_utc": "2026-08-14T05:00:03.855228Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_family_testimony_56933a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29612,
+          "worker_duration_seconds": 22.6345,
+          "total_seconds": 22.5733,
+          "worker_started_at_utc": "2026-08-14T04:59:47.457894Z",
+          "worker_finished_at_utc": "2026-08-14T05:00:10.031317Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_chronology_test_4f29a5",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27432,
+          "worker_duration_seconds": 22.3465,
+          "total_seconds": 22.2883,
+          "worker_started_at_utc": "2026-08-14T04:59:43.708024Z",
+          "worker_finished_at_utc": "2026-08-14T05:00:05.996393Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_eugene_mallove_murde_f02aa9",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29612,
+          "worker_duration_seconds": 19.1696,
+          "total_seconds": 19.1149,
+          "worker_started_at_utc": "2026-08-14T05:01:04.916899Z",
+          "worker_finished_at_utc": "2026-08-14T05:01:24.031832Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_pattern_illusion_aaf231",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29680,
+          "worker_duration_seconds": 18.9428,
+          "total_seconds": 18.8844,
+          "worker_started_at_utc": "2026-08-14T05:00:03.917877Z",
+          "worker_finished_at_utc": "2026-08-14T05:00:22.802348Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27432,
+          "worker_duration_seconds": 18.7561,
+          "total_seconds": 18.7033,
+          "worker_started_at_utc": "2026-08-14T05:00:06.055931Z",
+          "worker_finished_at_utc": "2026-08-14T05:00:24.759343Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_classified_program_c_591ee0",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29612,
+          "worker_duration_seconds": 18.6481,
+          "total_seconds": 18.5919,
+          "worker_started_at_utc": "2026-08-14T05:00:46.266579Z",
+          "worker_finished_at_utc": "2026-08-14T05:01:04.858566Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_project_blue_book_re_ad1d41_mcdonald_blue_book_v_03d28d",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27432,
+          "worker_duration_seconds": 18.5868,
+          "total_seconds": 18.5407,
+          "worker_started_at_utc": "2026-08-14T05:09:12.878865Z",
+          "worker_finished_at_utc": "2026-08-14T05:09:31.419631Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_information_vacuum_7c8e8e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27432,
+          "worker_duration_seconds": 18.4738,
+          "total_seconds": 18.4281,
+          "worker_started_at_utc": "2026-08-14T05:00:24.813441Z",
+          "worker_finished_at_utc": "2026-08-14T05:00:43.241621Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_and_antigravity_1a6484_homicide_motive_test_9bb50c",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27432,
+          "worker_duration_seconds": 18.3718,
+          "total_seconds": 18.3229,
+          "worker_started_at_utc": "2026-08-14T05:01:17.451343Z",
+          "worker_finished_at_utc": "2026-08-14T05:01:35.774325Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
