@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Branchoria
+title: Isaac Koi
 permalink: /
 home: true
 homepage_audience_mode: production
