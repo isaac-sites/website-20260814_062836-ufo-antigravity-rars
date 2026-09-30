@@ -248,6 +248,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-11 14:37:20'
+last_modified_at: '2026-08-11 14:37:20'
 parent_title: UFO Research Deaths
 parent_permalink: /ufo-and-antigravity/
 parent_nav_short_title: UFO Research Deaths

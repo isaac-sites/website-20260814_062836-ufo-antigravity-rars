@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-information/
 description: Focused pages that expand on Info Vacuums.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_information_vacuum_7c8e8e
 parent_title: Info Vacuums | UFO and antigravity

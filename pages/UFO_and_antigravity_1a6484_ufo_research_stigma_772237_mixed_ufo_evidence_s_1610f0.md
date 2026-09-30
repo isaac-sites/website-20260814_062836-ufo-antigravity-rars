@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 01:23:27'
+last_modified_at: '2026-08-14 01:23:27'
 parent_title: How Scientific UFO Research Became Professionally Risky | UFO Research Deaths
 parent_permalink: /ufo-stigma/
 parent_nav_short_title: UFO Stigma

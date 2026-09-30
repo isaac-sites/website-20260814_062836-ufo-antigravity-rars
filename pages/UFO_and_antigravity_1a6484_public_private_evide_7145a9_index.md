@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-public/
 description: Focused pages that expand on Private Evidence.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_public_private_evide_7145a9
 parent_title: Private Evidence | UFO and antigravity

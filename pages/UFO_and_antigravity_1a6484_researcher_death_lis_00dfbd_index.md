@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-researcher/
 description: Focused pages that expand on Death Lists.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_researcher_death_lis_00dfbd
 parent_title: Death Lists | UFO and antigravity

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-index/
 description: Focused pages that expand on UFO and antigravity.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484
 parent_title: UFO and antigravity

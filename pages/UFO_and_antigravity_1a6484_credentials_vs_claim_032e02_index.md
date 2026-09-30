@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-credentials/
 description: Focused pages that expand on Credentials.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_credentials_vs_claim_032e02
 parent_title: Credentials | UFO and antigravity

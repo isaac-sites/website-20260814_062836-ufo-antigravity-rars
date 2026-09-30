@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 20:56:48'
+last_modified_at: '2026-08-10 20:56:48'
 parent_title: When Does Gravity Research Become an Antigravity Claim? | UFO Research Deaths
 parent_permalink: /antigravity/
 parent_nav_short_title: Antigravity

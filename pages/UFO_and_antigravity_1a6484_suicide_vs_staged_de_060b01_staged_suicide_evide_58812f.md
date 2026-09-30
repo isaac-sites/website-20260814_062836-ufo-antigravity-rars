@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 18:42:53'
+last_modified_at: '2026-08-10 18:42:53'
 parent_title: What Evidence Separates Suicide From a Staged Death Claim? | UFO Research Deaths
 parent_permalink: /suicide-claims/
 parent_nav_short_title: Suicide Claims
