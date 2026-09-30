@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 16:47:17'
+last_modified_at: '2026-08-10 16:47:17'
 parent_title: Why Eugene Mallove's Murder Points Away From Suppression | UFO and antigravity
 parent_permalink: /mallove/
 parent_nav_short_title: Mallove

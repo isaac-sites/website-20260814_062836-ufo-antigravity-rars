@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 03:33:30'
+last_modified_at: '2026-08-14 03:33:30'
 parent_title: What Can an Obituary Prove in a Suspicious Death Case? | UFO and antigravity
 parent_permalink: /obituaries/
 parent_nav_short_title: Obituaries

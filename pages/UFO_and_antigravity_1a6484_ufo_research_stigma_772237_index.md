@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-ufo/
 description: Focused pages that expand on UFO Stigma.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_ufo_research_stigma_772237
 parent_title: UFO Stigma | UFO and antigravity

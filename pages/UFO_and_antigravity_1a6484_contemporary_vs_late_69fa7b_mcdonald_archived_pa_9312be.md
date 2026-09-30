@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-12 23:04:54'
+last_modified_at: '2026-08-12 23:04:54'
 parent_title: Why Early Records Matter More Than Later Retellings | UFO and antigravity
 parent_permalink: /contemporary-records/
 parent_nav_short_title: Contemporary Records
