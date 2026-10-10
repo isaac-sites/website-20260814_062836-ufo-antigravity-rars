@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 21:26:07'
+last_modified_at: '2026-08-10 21:26:07'
 parent_title: What Did Peer Review Actually Validate in Gravity Research? | UFO and antigravity
 parent_permalink: /peer-review/
 parent_nav_short_title: Peer Review

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-accidents/
 description: Focused pages that expand on Accidents.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc
 parent_title: Accidents | UFO and antigravity

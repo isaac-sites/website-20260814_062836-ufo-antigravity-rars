@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-cold-fusion/
 description: Focused pages that expand on Cold Fusion.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_cold_fusion_overlap_aedfd6
 parent_title: Cold Fusion | UFO and antigravity

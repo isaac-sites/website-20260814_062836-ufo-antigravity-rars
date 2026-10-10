@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-13 02:36:29'
+last_modified_at: '2026-08-13 02:36:29'
 parent_title: What Do Project Blue Book Records Add to Mc Donald's Story? | UFO Research Deaths
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book

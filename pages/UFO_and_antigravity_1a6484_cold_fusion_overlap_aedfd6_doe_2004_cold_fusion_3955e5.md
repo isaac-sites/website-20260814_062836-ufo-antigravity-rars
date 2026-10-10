@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 04:02:58'
+last_modified_at: '2026-08-14 04:02:58'
 parent_title: Why Cold Fusion Entered the UFO Researcher Death Story | UFO and antigravity
 parent_permalink: /cold-fusion/
 parent_nav_short_title: Cold Fusion

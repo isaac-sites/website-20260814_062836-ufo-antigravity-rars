@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 17:19:21'
+last_modified_at: '2026-08-10 17:19:21'
 parent_title: How Suppressed Scientist Death Lists Grow Over Time | UFO and antigravity
 parent_permalink: /death-lists/
 parent_nav_short_title: Death Lists

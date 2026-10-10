@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-chronology/
 description: Focused pages that expand on Timeline Test.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_chronology_test_4f29a5
 parent_title: Timeline Test | UFO and antigravity

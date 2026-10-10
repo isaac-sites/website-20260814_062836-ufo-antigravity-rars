@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-14 05:22:42'
+last_modified_at: '2026-08-14 05:22:42'
 parent_title: What Would Prove a Coordinated Campaign Against Researchers? | UFO Research Deaths
 parent_permalink: /coordination/
 parent_nav_short_title: Coordination

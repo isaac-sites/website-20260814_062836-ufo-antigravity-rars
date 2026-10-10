@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-12 20:25:42'
+last_modified_at: '2026-08-12 20:25:42'
 parent_title: Why Amy Eskridge's Death Remains the Hardest Case | UFO and antigravity
 parent_permalink: /eskridge/
 parent_nav_short_title: Eskridge

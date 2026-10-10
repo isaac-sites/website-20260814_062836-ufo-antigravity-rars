@@ -250,6 +250,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-10 15:20:50'
+last_modified_at: '2026-08-10 15:20:50'
 child_links:
 - basename: UFO_and_antigravity_1a6484_accidents_and_suppre_673fbc
   title: Accidents | UFO and antigravity

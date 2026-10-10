@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-later/
 description: Focused pages that expand on Myth Reversals.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_later_evidence_rever_c8ae43
 parent_title: Myth Reversals | UFO and antigravity

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-research/
 description: Focused pages that expand on Motive Evidence.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_research_motive_evid_6bff5d
 parent_title: Motive Evidence | UFO and antigravity

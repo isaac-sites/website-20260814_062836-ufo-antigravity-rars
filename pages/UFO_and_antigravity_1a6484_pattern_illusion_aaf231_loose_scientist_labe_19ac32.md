@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-13 08:49:31'
+last_modified_at: '2026-08-13 08:49:31'
 parent_title: Why Do Unrelated Researcher Deaths Look Like a Pattern? | UFO and antigravity
 parent_permalink: /pattern-illusion/
 parent_nav_short_title: Pattern Illusion
