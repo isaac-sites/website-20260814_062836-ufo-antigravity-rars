@@ -331,7 +331,7 @@ The project originated with Matt Trevithick, then a senior programme manager at 
 <ul>
 <li><a href="{{ '/1989-crisis/' | relative_url }}"><span class="article-branch-link-short">1989 Crisis</span><span class="article-branch-link-heading">Why Cold Fusion Collapsed After Its 1989 Debut</span></a></li>
 <li><a href="{{ '/arpa-e-return/' | relative_url }}"><span class="article-branch-link-short">ARPA E Return</span><span class="article-branch-link-heading">Why the US Government Funded LENR Again</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/brutality-and-motive/' | relative_url }}"><span class="article-branch-link-short">Brutality and Motive</span><span class="article-branch-link-heading">Does the Brutality of Mallove&#x27;s Killing Reveal Motive?</span></a></li>
 </ul>

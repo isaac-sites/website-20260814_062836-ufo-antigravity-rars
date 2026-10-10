@@ -561,7 +561,7 @@ McDonald was not merely a popular UFO writer who happened to have scientific tra
 <ul>
 <li><a href="{{ '/final-shooting/' | relative_url }}"><span class="article-branch-link-short">Final Shooting</span><span class="article-branch-link-heading">What Is Actually Known About Mc Donald&#x27;s Death?</span></a></li>
 <li><a href="{{ '/ufo-archive/' | relative_url }}"><span class="article-branch-link-short">UFO Archive</span><span class="article-branch-link-heading">What Do Mc Donald&#x27;s Surviving UFO Files Reveal?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 </ul>

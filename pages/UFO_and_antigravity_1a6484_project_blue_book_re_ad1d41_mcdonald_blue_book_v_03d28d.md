@@ -332,7 +332,7 @@ What he found did not establish that the Air Force possessed proof of extraterre
 <li><a href="{{ '/unidentified-files/' | relative_url }}"><span class="article-branch-link-short">Unidentified Files</span><span class="article-branch-link-heading">What Did Blue Book&#x27;s Unidentified Cases Really Mean?</span></a></li>
 <li><a href="{{ '/blue-book/' | relative_url }}"><span class="article-branch-link-short">Blue Book</span><span class="article-branch-link-heading">What Do Project Blue Book Records Add to Mc Donald&#x27;s Story?</span></a></li>
 <li><a href="{{ '/case-explanations/' | relative_url }}"><span class="article-branch-link-short">Case Explanations</span><span class="article-branch-link-heading">Did Blue Book Explain UFO Reports Away?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/congressional-record/' | relative_url }}"><span class="article-branch-link-short">Congressional Record</span><span class="article-branch-link-heading">Does Being Submitted to Congress Confirm a Claim?</span></a></li>
 </ul>
 </section>

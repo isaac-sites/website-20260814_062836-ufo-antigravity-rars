@@ -22,7 +22,7 @@ show_ads: true
 description: Local death and funeral records identify Li, her son and her 2021 death in Alabama, independently anchoring key parts of the family chronology.
 hero_summary: Local death and funeral records identify Li, her son and her 2021 death in Alabama, independently anchoring key parts of the family chronology.
 layout: default
-permalink: /death-records/
+permalink: /death-records-608437/
 sidebar_expanded_urls:
 - /ufo-and-antigravity/
 - /family-accounts/

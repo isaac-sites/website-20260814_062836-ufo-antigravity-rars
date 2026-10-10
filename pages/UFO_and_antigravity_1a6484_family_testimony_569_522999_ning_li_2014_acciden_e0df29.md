@@ -309,7 +309,7 @@ Ning Li’s final withdrawal from scientific life has a much more concrete expla
 <section class="related-reports-section related-reports-section-closest">
 <h3>Closest pages</h3>
 <ul>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Death Records</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Death Records</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/defense-work/' | relative_url }}"><span class="article-branch-link-short">Defense Work</span><span class="article-branch-link-heading">Did Secret Work Make Ning Li Seem Missing?</span></a></li>
 <li><a href="{{ '/rumor-cycle/' | relative_url }}"><span class="article-branch-link-short">Rumor Cycle</span><span class="article-branch-link-heading">How Ning Li&#x27;s Silence Became a Disappearance</span></a></li>
 <li><a href="{{ '/china-claim-4dbfea/' | relative_url }}"><span class="article-branch-link-short">China Claim</span><span class="article-branch-link-heading">Did Ning Li Really Return to China?</span></a></li>

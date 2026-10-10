@@ -333,7 +333,7 @@ The first task is not deciding whether a warning sounds convincing. It is establ
 <li><a href="{{ '/suicide-warning/' | relative_url }}"><span class="article-branch-link-short">Suicide Warning</span><span class="article-branch-link-heading">Does a Pre Death Suicide Denial Prove Foul Play?</span></a></li>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

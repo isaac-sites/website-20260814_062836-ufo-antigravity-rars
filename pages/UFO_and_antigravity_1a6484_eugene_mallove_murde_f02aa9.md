@@ -562,7 +562,7 @@ Mallove’s inclusion in suppressed-scientist narratives is understandable in a 
 <li><a href="{{ '/2009-breakthrough/' | relative_url }}"><span class="article-branch-link-short">2009 Breakthrough</span><span class="article-branch-link-heading">How the 2009 Witness Breakthrough Changed the Case</span></a></li>
 <li><a href="{{ '/schaffer-plea/' | relative_url }}"><span class="article-branch-link-short">Schaffer Plea</span><span class="article-branch-link-heading">What Does Schaffer&#x27;s Guilty Plea Actually Establish?</span></a></li>
 <li><a href="{{ '/2025-ruling/' | relative_url }}"><span class="article-branch-link-short">2025 Ruling</span><span class="article-branch-link-heading">Did the 2025 Court Ruling Change Mallove&#x27;s Motive?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

@@ -328,7 +328,7 @@ That progression — roughly 10, then 11, 14 and 28 — matters because the numb
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/death-lists/' | relative_url }}"><span class="article-branch-link-short">Death Lists</span><span class="article-branch-link-heading">How Suppressed Scientist Death Lists Grow Over Time</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>
 <li><a href="{{ '/intervening-years/' | relative_url }}"><span class="article-branch-link-short">Intervening Years</span><span class="article-branch-link-heading">What Happened Between the Research and the Outcome?</span></a></li>
 <li><a href="{{ '/suicide-warning/' | relative_url }}"><span class="article-branch-link-short">Suicide Warning</span><span class="article-branch-link-heading">Does a Pre Death Suicide Denial Prove Foul Play?</span></a></li>

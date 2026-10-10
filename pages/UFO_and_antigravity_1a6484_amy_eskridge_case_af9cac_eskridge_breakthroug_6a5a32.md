@@ -332,7 +332,7 @@ The slides give a clearer picture than the much stronger descriptions of her wor
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/eskridge/' | relative_url }}"><span class="article-branch-link-short">Eskridge</span><span class="article-branch-link-heading">Why Amy Eskridge&#x27;s Death Remains the Hardest Case</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/death-record/' | relative_url }}"><span class="article-branch-link-short">Death Record</span><span class="article-branch-link-heading">The Public Record That Ends Ning Li&#x27;s Mystery</span></a></li>
 <li><a href="{{ '/mixed-causes/' | relative_url }}"><span class="article-branch-link-short">Mixed Causes</span><span class="article-branch-link-heading">Can Very Different Deaths Really Prove One Cause?</span></a></li>
 <li><a href="{{ '/reid-sap-bid/' | relative_url }}"><span class="article-branch-link-short">Reid SAP Bid</span><span class="article-branch-link-heading">What Harry Reid&#x27;s Secret Program Request Actually Shows</span></a></li>

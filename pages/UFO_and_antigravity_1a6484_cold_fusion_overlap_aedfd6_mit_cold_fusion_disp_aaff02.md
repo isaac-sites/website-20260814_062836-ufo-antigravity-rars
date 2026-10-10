@@ -329,7 +329,7 @@ The MIT experiment followed the extraordinary March 1989 claim by Martin Fleisch
 <li><a href="{{ '/1989-crisis/' | relative_url }}"><span class="article-branch-link-short">1989 Crisis</span><span class="article-branch-link-heading">Why Cold Fusion Collapsed After Its 1989 Debut</span></a></li>
 <li><a href="{{ '/cold-fusion/' | relative_url }}"><span class="article-branch-link-short">Cold Fusion</span><span class="article-branch-link-heading">Why Cold Fusion Entered the UFO Researcher Death Story</span></a></li>
 <li><a href="{{ '/eviction-dispute/' | relative_url }}"><span class="article-branch-link-short">Eviction Dispute</span><span class="article-branch-link-heading">How the Eviction Dispute Led Back to Mallove</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

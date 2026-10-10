@@ -328,7 +328,7 @@ The distinction matters when Li's later absence from public research is interpre
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/credentials/' | relative_url }}"><span class="article-branch-link-short">Credentials</span><span class="article-branch-link-heading">Do Strong Scientific Credentials Make Suppression Claims Stronger?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/secret-aircraft/' | relative_url }}"><span class="article-branch-link-short">Secret Aircraft</span><span class="article-branch-link-heading">When Secret Aircraft Get Mistaken for UFOs</span></a></li>
 <li><a href="{{ '/arpa-e-return/' | relative_url }}"><span class="article-branch-link-short">ARPA E Return</span><span class="article-branch-link-heading">Why the US Government Funded LENR Again</span></a></li>
 <li><a href="{{ '/marshall-ties/' | relative_url }}"><span class="article-branch-link-short">Marshall Ties</span><span class="article-branch-link-heading">Why NASA Connections Mean Less in Huntsville</span></a></li>

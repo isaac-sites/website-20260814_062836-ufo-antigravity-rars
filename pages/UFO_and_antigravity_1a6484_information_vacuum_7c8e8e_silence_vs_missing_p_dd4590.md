@@ -324,7 +324,7 @@ A publication record can establish that somebody was scientifically active at a 
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/search-amplification/' | relative_url }}"><span class="article-branch-link-short">Search Amplification</span><span class="article-branch-link-heading">Why Search Engines Can Make a Scientist Seem Missing</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/brutality-and-motive/' | relative_url }}"><span class="article-branch-link-short">Brutality and Motive</span><span class="article-branch-link-heading">Does the Brutality of Mallove&#x27;s Killing Reveal Motive?</span></a></li>
 <li><a href="{{ '/cold-fusion-timing/' | relative_url }}"><span class="article-branch-link-short">Cold Fusion Timing</span><span class="article-branch-link-heading">Did Cold Fusion&#x27;s Revival Make Mallove a Target?</span></a></li>

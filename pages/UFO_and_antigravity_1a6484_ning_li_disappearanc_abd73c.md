@@ -564,7 +564,7 @@ Li did not enter antigravity folklore as an anonymous inventor with unverifiable
 <li><a href="{{ '/family-account-a493da/' | relative_url }}"><span class="article-branch-link-short">Family Account</span><span class="article-branch-link-heading">How Ning Li&#x27;s Family Changed the Story</span></a></li>
 <li><a href="{{ '/2014-accident-1b2413/' | relative_url }}"><span class="article-branch-link-short">2014 Accident</span><span class="article-branch-link-heading">What Really Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/china-claim/' | relative_url }}"><span class="article-branch-link-short">China Claim</span><span class="article-branch-link-heading">Where Did the Ning Li China Story Come From?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

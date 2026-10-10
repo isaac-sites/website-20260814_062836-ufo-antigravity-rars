@@ -328,7 +328,7 @@ But none of those biographical facts demonstrates that Li built a working [antig
 <li><a href="{{ '/death-record/' | relative_url }}"><span class="article-branch-link-short">Death Record</span><span class="article-branch-link-heading">The Public Record That Ends Ning Li&#x27;s Mystery</span></a></li>
 <li><a href="{{ '/defense-silence/' | relative_url }}"><span class="article-branch-link-short">Defense Silence</span><span class="article-branch-link-heading">Did Classified Work Explain Ning Li&#x27;s Silence?</span></a></li>
 <li><a href="{{ '/men-s-account/' | relative_url }}"><span class="article-branch-link-short">Men s Account</span><span class="article-branch-link-heading">What Ning Li&#x27;s Son Said Really Happened</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

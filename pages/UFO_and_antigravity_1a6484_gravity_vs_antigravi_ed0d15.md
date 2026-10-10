@@ -562,7 +562,7 @@ A useful starting point is that gravity research routinely examines effects that
 <li><a href="{{ '/equivalence-tests/' | relative_url }}"><span class="article-branch-link-short">Equivalence Tests</span><span class="article-branch-link-heading">How Much Room Is Left for Exotic Gravity?</span></a></li>
 <li><a href="{{ '/false-signals/' | relative_url }}"><span class="article-branch-link-short">False Signals</span><span class="article-branch-link-heading">When a Weight Change Is Not Gravity</span></a></li>
 <li><a href="{{ '/podkletnov/' | relative_url }}"><span class="article-branch-link-short">Podkletnov</span><span class="article-branch-link-heading">Did Podkletnov Really Detect Gravity Shielding?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

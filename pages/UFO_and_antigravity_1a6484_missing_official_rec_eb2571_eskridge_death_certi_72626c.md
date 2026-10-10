@@ -327,7 +327,7 @@ This distinction matters because Eskridge’s death has become part of wider spe
 <ul>
 <li><a href="{{ '/missing-records-8c86d7/' | relative_url }}"><span class="article-branch-link-short">Missing Records</span><span class="article-branch-link-heading">What Evidence Supports Eskridge&#x27;s Suicide Ruling?</span></a></li>
 <li><a href="{{ '/death-records-vs-obi/' | relative_url }}"><span class="article-branch-link-short">Obituary Evidence 4 A B6 A356 Death Records...</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/death-record/' | relative_url }}"><span class="article-branch-link-short">Death Record</span><span class="article-branch-link-heading">The Public Record That Ends Ning Li&#x27;s Mystery</span></a></li>
 <li><a href="{{ '/eviction-dispute/' | relative_url }}"><span class="article-branch-link-short">Eviction Dispute</span><span class="article-branch-link-heading">How the Eviction Dispute Led Back to Mallove</span></a></li>
 </ul>

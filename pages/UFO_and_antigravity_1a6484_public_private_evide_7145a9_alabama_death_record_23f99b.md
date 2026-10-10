@@ -314,7 +314,7 @@ Amy Eskridge’s death certificate is not presently available to the general pub
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/death-records-vs-obi/' | relative_url }}"><span class="article-branch-link-short">Obituary Evidence 4 A B6 A356 Death Records...</span></a></li>
 <li><a href="{{ '/autopsy-records/' | relative_url }}"><span class="article-branch-link-short">Autopsy Records</span><span class="article-branch-link-heading">What Eskridge&#x27;s Autopsy Report Could Actually Settle</span></a></li>
 <li><a href="{{ '/death-evidence/' | relative_url }}"><span class="article-branch-link-short">Death Evidence</span><span class="article-branch-link-heading">Was It a Homicide Before Motive Is Considered?</span></a></li>

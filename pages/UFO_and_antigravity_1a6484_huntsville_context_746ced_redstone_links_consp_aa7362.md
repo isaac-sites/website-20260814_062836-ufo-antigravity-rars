@@ -334,7 +334,7 @@ Redstone Arsenal did not merely attract Huntsville's aerospace industry; it larg
 <li><a href="{{ '/classified-silence/' | relative_url }}"><span class="article-branch-link-short">Classified Silence</span><span class="article-branch-link-heading">How Classified Work Can Mimic a Disappearance</span></a></li>
 <li><a href="{{ '/contractor-density/' | relative_url }}"><span class="article-branch-link-short">Contractor Density</span><span class="article-branch-link-heading">Why Aerospace Contractor Links Are So Common Here</span></a></li>
 <li><a href="{{ '/retrofit-links/' | relative_url }}"><span class="article-branch-link-short">Retrofit Links</span><span class="article-branch-link-heading">How UFO Connections Get Added After the Fact</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

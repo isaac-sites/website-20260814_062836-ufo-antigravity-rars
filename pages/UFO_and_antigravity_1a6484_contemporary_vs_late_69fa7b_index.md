@@ -6,7 +6,7 @@ title_full: Contemporary Records Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-and-antigravity-1a6484/
+permalink: /ufo-and-antigravity-1a6484-contemporary-records/
 description: Focused pages that expand on Contemporary Records.
 date: '2026'
 layout: default

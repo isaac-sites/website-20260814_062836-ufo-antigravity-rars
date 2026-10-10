@@ -325,7 +325,7 @@ The importance of the 2009 witnesses becomes clearer when compared with the posi
 <ul>
 <li><a href="{{ '/mallove/' | relative_url }}"><span class="article-branch-link-short">Mallove</span><span class="article-branch-link-heading">Why Eugene Mallove&#x27;s Murder Points Away From Suppression</span></a></li>
 <li><a href="{{ '/mallove-ac4c37/' | relative_url }}"><span class="article-branch-link-short">Mallove</span><span class="article-branch-link-heading">Mallove Was Murdered, But Was Research the Motive?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>
 <li><a href="{{ '/intervening-years/' | relative_url }}"><span class="article-branch-link-short">Intervening Years</span><span class="article-branch-link-heading">What Happened Between the Research and the Outcome?</span></a></li>
 </ul>

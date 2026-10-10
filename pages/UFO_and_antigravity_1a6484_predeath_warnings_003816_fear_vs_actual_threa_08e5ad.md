@@ -329,7 +329,7 @@ Evidence law provides a useful discipline. Both the US Federal Rules of Evidence
 <li><a href="{{ '/warnings/' | relative_url }}"><span class="article-branch-link-short">Warnings</span><span class="article-branch-link-heading">How Much Weight Should Pre Death Warnings Carry?</span></a></li>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>
 <li><a href="{{ '/suicide-warning/' | relative_url }}"><span class="article-branch-link-short">Suicide Warning</span><span class="article-branch-link-heading">Does a Pre Death Suicide Denial Prove Foul Play?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

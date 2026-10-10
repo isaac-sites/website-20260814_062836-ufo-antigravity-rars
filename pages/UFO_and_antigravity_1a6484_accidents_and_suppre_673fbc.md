@@ -551,7 +551,7 @@ The later evidence points in a less dramatic direction. Reporting based on an in
 <ul>
 <li><a href="{{ '/record-checks/' | relative_url }}"><span class="article-branch-link-short">Record Checks</span><span class="article-branch-link-heading">Which Records Can Test a Researcher Disappearance Claim?</span></a></li>
 <li><a href="{{ '/rumor-first/' | relative_url }}"><span class="article-branch-link-short">Rumor First</span><span class="article-branch-link-heading">How Earlier Rumors Change the Meaning of Accidents</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 </ul>

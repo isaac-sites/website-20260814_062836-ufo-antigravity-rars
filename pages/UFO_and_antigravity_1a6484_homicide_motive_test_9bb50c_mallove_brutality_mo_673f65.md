@@ -325,7 +325,7 @@ The strongest description comes from the medical evidence contained in investiga
 <ul>
 <li><a href="{{ '/motive-test/' | relative_url }}"><span class="article-branch-link-short">Motive Test</span><span class="article-branch-link-heading">Does a Scientist&#x27;s Murder Prove a Research Motive?</span></a></li>
 <li><a href="{{ '/proof-of-motive/' | relative_url }}"><span class="article-branch-link-short">Proof of Motive</span><span class="article-branch-link-heading">What Would Actually Prove a Research Motive?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/equivalence-tests/' | relative_url }}"><span class="article-branch-link-short">Equivalence Tests</span><span class="article-branch-link-heading">How Much Room Is Left for Exotic Gravity?</span></a></li>
 <li><a href="{{ '/cross-case-links/' | relative_url }}"><span class="article-branch-link-short">Cross Case Links</span><span class="article-branch-link-heading">What Would Actually Link Separate Researcher Deaths?</span></a></li>
 </ul>

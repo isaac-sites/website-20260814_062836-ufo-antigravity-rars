@@ -332,7 +332,7 @@ Mallove had [credentials]({{ 'credentials/' | relative_url }}) that made the lat
 <li><a href="{{ '/list-expansion/' | relative_url }}"><span class="article-branch-link-short">List Expansion</span><span class="article-branch-link-heading">Why Suppressed Scientist Lists Keep Getting Bigger</span></a></li>
 <li><a href="{{ '/merged-lineages/' | relative_url }}"><span class="article-branch-link-short">Merged Lineages</span><span class="article-branch-link-heading">How Free Energy Narratives Merge Very Different Inventors</span></a></li>
 <li><a href="{{ '/category-drift/' | relative_url }}"><span class="article-branch-link-short">Category Drift</span><span class="article-branch-link-heading">When Very Different Deaths Become One Pattern</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/search-amplification/' | relative_url }}"><span class="article-branch-link-short">Search Amplification</span><span class="article-branch-link-heading">Why Search Engines Can Make a Scientist Seem Missing</span></a></li>
 </ul>
 </section>

@@ -6,7 +6,7 @@ title_full: Field Drift Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-and-antigravity-1a6484-research/
+permalink: /ufo-and-antigravity-1a6484-research-field-drift/
 description: Focused pages that expand on Field Drift.
 date: '2026'
 layout: default

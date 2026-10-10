@@ -328,7 +328,7 @@ The story then escalated. A 2008 claim that Li had returned to China supplied a 
 <li><a href="{{ '/2014-accident-52e6a4/' | relative_url }}"><span class="article-branch-link-short">2014 Accident</span><span class="article-branch-link-heading">The Accident That Reframed Ning Li&#x27;s Disappearance</span></a></li>
 <li><a href="{{ '/myth-reversals/' | relative_url }}"><span class="article-branch-link-short">Myth Reversals</span><span class="article-branch-link-heading">When New Evidence Rewrites a Long Running UFO Mystery</span></a></li>
 <li><a href="{{ '/army-funding-bd1ab6/' | relative_url }}"><span class="article-branch-link-short">Army Funding</span><span class="article-branch-link-heading">Why Army Funding Did Not Prove Antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

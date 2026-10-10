@@ -329,7 +329,7 @@ The correct evidential question is therefore not simply whether a suppression st
 <ul>
 <li><a href="{{ '/final-months/' | relative_url }}"><span class="article-branch-link-short">Final Months</span><span class="article-branch-link-heading">What Mc Donald&#x27;s Final Months Actually Show</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/earlier-attempt/' | relative_url }}"><span class="article-branch-link-short">Earlier Attempt</span><span class="article-branch-link-heading">Why Mc Donald&#x27;s Earlier Suicide Attempt Changes the Case</span></a></li>
 </ul>

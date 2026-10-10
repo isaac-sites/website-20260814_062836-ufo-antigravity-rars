@@ -327,7 +327,7 @@ The obituary is unusually informative about Eskridge’s identity and scientific
 <li><a href="{{ '/eskridge-obituary/' | relative_url }}"><span class="article-branch-link-short">Obituary Evidence 4 A B6 A356 Eskridge...</span></a></li>
 <li><a href="{{ '/obituary-types-evide/' | relative_url }}"><span class="article-branch-link-short">Obituary Evidence 4 A B6 A356 Obituary Types...</span></a></li>
 <li><a href="{{ '/death-records-vs-obi/' | relative_url }}"><span class="article-branch-link-short">Obituary Evidence 4 A B6 A356 Death Records...</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>
