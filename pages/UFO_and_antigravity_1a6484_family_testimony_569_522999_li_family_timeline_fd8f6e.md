@@ -323,7 +323,7 @@ That account matters because the long-running mystery around Li rested heavily o
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">2014 Accident</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Death Records</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Death Records</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/china-claim-4dbfea/' | relative_url }}"><span class="article-branch-link-short">China Claim</span><span class="article-branch-link-heading">Did Ning Li Really Return to China?</span></a></li>
 <li><a href="{{ '/family-accounts/' | relative_url }}"><span class="article-branch-link-short">Family Accounts</span><span class="article-branch-link-heading">How Family Testimony Can Collapse a Disappearance Mystery</span></a></li>
 <li><a href="{{ '/defense-work/' | relative_url }}"><span class="article-branch-link-short">Defense Work</span><span class="article-branch-link-heading">Did Secret Work Make Ning Li Seem Missing?</span></a></li>

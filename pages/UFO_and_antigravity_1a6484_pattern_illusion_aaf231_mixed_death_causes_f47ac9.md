@@ -330,7 +330,7 @@ Putting all of them into one running total can therefore create an impressive nu
 <ul>
 <li><a href="{{ '/common-signatures/' | relative_url }}"><span class="article-branch-link-short">Common Signatures</span><span class="article-branch-link-heading">What Would Actually Link Separate Researcher Deaths?</span></a></li>
 <li><a href="{{ '/cluster-lists/' | relative_url }}"><span class="article-branch-link-short">Cluster Lists</span><span class="article-branch-link-heading">When a Researcher Death List Creates Its Own Pattern</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/brutality-and-motive/' | relative_url }}"><span class="article-branch-link-short">Brutality and Motive</span><span class="article-branch-link-heading">Does the Brutality of Mallove&#x27;s Killing Reveal Motive?</span></a></li>
 </ul>

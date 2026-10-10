@@ -320,7 +320,7 @@ That distinction matters. Vallée went on to build a substantial career in compu
 <ul>
 <li><a href="{{ '/condon-report/' | relative_url }}"><span class="article-branch-link-short">Condon Report</span><span class="article-branch-link-heading">How the Condon Report Raised the Cost of UFO Research</span></a></li>
 <li><a href="{{ '/mc-donald-170848/' | relative_url }}"><span class="article-branch-link-short">Mc Donald</span><span class="article-branch-link-heading">What UFO Research Cost James Mc Donald&#x27;s Reputation</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/search-amplification/' | relative_url }}"><span class="article-branch-link-short">Search Amplification</span><span class="article-branch-link-heading">Why Search Engines Can Make a Scientist Seem Missing</span></a></li>
 <li><a href="{{ '/classified-silence/' | relative_url }}"><span class="article-branch-link-short">Classified Silence</span><span class="article-branch-link-heading">How Classified Work Can Mimic a Disappearance</span></a></li>
 </ul>

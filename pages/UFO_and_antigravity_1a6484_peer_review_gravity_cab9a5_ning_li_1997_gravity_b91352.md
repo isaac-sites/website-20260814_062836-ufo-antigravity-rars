@@ -323,7 +323,7 @@ That result did not prove that every conceivable gravity–superconductor intera
 <li><a href="{{ '/peer-review-19ed71/' | relative_url }}"><span class="article-branch-link-short">Peer Review</span><span class="article-branch-link-heading">What Peer Review Did and Did Not Validate</span></a></li>
 <li><a href="{{ '/harris-challenge/' | relative_url }}"><span class="article-branch-link-short">Harris Challenge</span><span class="article-branch-link-heading">How Harris Recut the Gravitoelectric Effect Claim</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/congressional-record/' | relative_url }}"><span class="article-branch-link-short">Congressional Record</span><span class="article-branch-link-heading">Does Being Submitted to Congress Confirm a Claim?</span></a></li>
 </ul>
 </section>

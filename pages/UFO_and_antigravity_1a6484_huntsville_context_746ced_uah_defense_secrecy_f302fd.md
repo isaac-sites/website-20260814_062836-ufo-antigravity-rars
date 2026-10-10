@@ -326,7 +326,7 @@ The result is an important evidential baseline: secrecy at UAH can be completely
 <li><a href="{{ '/classified-silence/' | relative_url }}"><span class="article-branch-link-short">Classified Silence</span><span class="article-branch-link-heading">How Classified Work Can Mimic a Disappearance</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
 <li><a href="{{ '/defense-silence/' | relative_url }}"><span class="article-branch-link-short">Defense Silence</span><span class="article-branch-link-heading">Did Classified Work Explain Ning Li&#x27;s Silence?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

@@ -315,7 +315,7 @@ A statement such as “if you hear that I killed myself, I did not” is unusual
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/prior-warnings/' | relative_url }}"><span class="article-branch-link-short">Prior Warnings</span><span class="article-branch-link-heading">How Much Weight Should Eskridge&#x27;s Warnings Carry?</span></a></li>
 <li><a href="{{ '/nasa-stigma/' | relative_url }}"><span class="article-branch-link-short">NASA Stigma</span><span class="article-branch-link-heading">NASA Found UAP Stigma Without Endorsing UFO Claims</span></a></li>

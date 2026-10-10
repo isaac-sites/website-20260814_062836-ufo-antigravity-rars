@@ -333,7 +333,7 @@ The most useful first step is to separate four mechanisms that produce superfici
 <li><a href="{{ '/death-certificate/' | relative_url }}"><span class="article-branch-link-short">Death Certificate</span><span class="article-branch-link-heading">Why Amy Eskridge&#x27;s Death Certificate Is Not Public</span></a></li>
 <li><a href="{{ '/death-record/' | relative_url }}"><span class="article-branch-link-short">Death Record</span><span class="article-branch-link-heading">The Public Record That Ends Ning Li&#x27;s Mystery</span></a></li>
 <li><a href="{{ '/missing-records-8c86d7/' | relative_url }}"><span class="article-branch-link-short">Missing Records</span><span class="article-branch-link-heading">What Evidence Supports Eskridge&#x27;s Suicide Ruling?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

@@ -332,7 +332,7 @@ The distinction matters because Huntsville does contain documented cases that su
 <li><a href="{{ '/huntsville/' | relative_url }}"><span class="article-branch-link-short">Huntsville</span><span class="article-branch-link-heading">Why Huntsville Looms So Large in Antigravity Lore</span></a></li>
 <li><a href="{{ '/classified-silence/' | relative_url }}"><span class="article-branch-link-short">Classified Silence</span><span class="article-branch-link-heading">How Classified Work Can Mimic a Disappearance</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

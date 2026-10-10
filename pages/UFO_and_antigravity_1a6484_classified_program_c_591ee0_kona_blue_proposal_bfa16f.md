@@ -335,7 +335,7 @@ KONA BLUE grew out of the circle surrounding the Defense Intelligence Agency's A
 <li><a href="{{ '/secret-aircraft/' | relative_url }}"><span class="article-branch-link-short">Secret Aircraft</span><span class="article-branch-link-heading">When Secret Aircraft Get Mistaken for UFOs</span></a></li>
 <li><a href="{{ '/aawsap-papers/' | relative_url }}"><span class="article-branch-link-short">AAWSAP Papers</span><span class="article-branch-link-heading">Did AAWSAP Really Develop Exotic Propulsion?</span></a></li>
 <li><a href="{{ '/reid-sap-bid/' | relative_url }}"><span class="article-branch-link-short">Reid SAP Bid</span><span class="article-branch-link-heading">What Harry Reid&#x27;s Secret Program Request Actually Shows</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/congressional-record/' | relative_url }}"><span class="article-branch-link-short">Congressional Record</span><span class="article-branch-link-heading">Does Being Submitted to Congress Confirm a Claim?</span></a></li>
 </ul>
 </section>

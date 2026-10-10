@@ -321,7 +321,7 @@ That account matters because it supplies the mundane personal chronology that ye
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>
 <li><a href="{{ '/intervening-years/' | relative_url }}"><span class="article-branch-link-short">Intervening Years</span><span class="article-branch-link-heading">What Happened Between the Research and the Outcome?</span></a></li>
 <li><a href="{{ '/narrative-timing/' | relative_url }}"><span class="article-branch-link-short">Narrative Timing</span><span class="article-branch-link-heading">When an Accident Inherits a Disappearance Story</span></a></li>

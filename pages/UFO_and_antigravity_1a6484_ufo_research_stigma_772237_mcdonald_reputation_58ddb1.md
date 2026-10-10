@@ -333,7 +333,7 @@ McDonald's significance depends on understanding what his professional identity 
 <li><a href="{{ '/public-ridicule/' | relative_url }}"><span class="article-branch-link-short">Public Ridicule</span><span class="article-branch-link-heading">How Did Ridicule Feed the Mc Donald Murder Theory?</span></a></li>
 <li><a href="{{ '/ufo-archive/' | relative_url }}"><span class="article-branch-link-short">UFO Archive</span><span class="article-branch-link-heading">What Do Mc Donald&#x27;s Surviving UFO Files Reveal?</span></a></li>
 <li><a href="{{ '/mc-donald-f859b7/' | relative_url }}"><span class="article-branch-link-short">Mc Donald</span><span class="article-branch-link-heading">What Mc Donald&#x27;s Obituary Proves About His Death</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

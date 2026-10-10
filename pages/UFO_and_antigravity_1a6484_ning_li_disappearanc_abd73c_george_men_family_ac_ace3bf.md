@@ -326,7 +326,7 @@ The *Huntsville Business Journal* found Men through an unusually mundane clue: L
 <ul>
 <li><a href="{{ '/2003-trail/' | relative_url }}"><span class="article-branch-link-short">2003 Trail</span><span class="article-branch-link-heading">How Long Was Ning Li Publicly Active?</span></a></li>
 <li><a href="{{ '/ning-li-5efa69/' | relative_url }}"><span class="article-branch-link-short">Ning Li</span><span class="article-branch-link-heading">Did Ning Li Ever Demonstrate Gravity Shielding?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/brutality-and-motive/' | relative_url }}"><span class="article-branch-link-short">Brutality and Motive</span><span class="article-branch-link-heading">Does the Brutality of Mallove&#x27;s Killing Reveal Motive?</span></a></li>
 </ul>

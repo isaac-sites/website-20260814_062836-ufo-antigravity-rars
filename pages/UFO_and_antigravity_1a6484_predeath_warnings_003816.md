@@ -555,7 +555,7 @@ The strongest proposition supported by a genuine contemporaneous warning is usua
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/eskridge-warning/' | relative_url }}"><span class="article-branch-link-short">Eskridge Warning</span><span class="article-branch-link-heading">What Does Amy Eskridge&#x27;s Warning Actually Prove?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 <li><a href="{{ '/dying-declaration/' | relative_url }}"><span class="article-branch-link-short">Dying Declaration</span><span class="article-branch-link-heading">When Is a Warning Really a Dying Declaration?</span></a></li>

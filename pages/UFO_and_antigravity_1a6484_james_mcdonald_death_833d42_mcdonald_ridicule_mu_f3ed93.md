@@ -333,7 +333,7 @@ McDonald entered the UFO controversy with scientific [credentials]({{ 'credentia
 <li><a href="{{ '/april-attempt/' | relative_url }}"><span class="article-branch-link-short">April Attempt</span><span class="article-branch-link-heading">Why Mc Donald&#x27;s April Shooting Changes the Case</span></a></li>
 <li><a href="{{ '/motive-claim/' | relative_url }}"><span class="article-branch-link-short">Motive Claim</span><span class="article-branch-link-heading">Did Mc Donald&#x27;s UFO Battles Give Anyone a Motive?</span></a></li>
 <li><a href="{{ '/mc-donald-170848/' | relative_url }}"><span class="article-branch-link-short">Mc Donald</span><span class="article-branch-link-heading">What UFO Research Cost James Mc Donald&#x27;s Reputation</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

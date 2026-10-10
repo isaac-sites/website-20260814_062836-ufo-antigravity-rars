@@ -322,7 +322,7 @@ The public record does contain narrower facts worth investigating: James E. McDo
 <ul>
 <li><a href="{{ '/retrial-and-motive/' | relative_url }}"><span class="article-branch-link-short">Retrial and Motive</span><span class="article-branch-link-heading">Does an Unreliable Conviction Revive the Suppression Theory?</span></a></li>
 <li><a href="{{ '/common-signatures/' | relative_url }}"><span class="article-branch-link-short">Common Signatures</span><span class="article-branch-link-heading">What Would Actually Link Separate Researcher Deaths?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 <li><a href="{{ '/search-amplification/' | relative_url }}"><span class="article-branch-link-short">Search Amplification</span><span class="article-branch-link-heading">Why Search Engines Can Make a Scientist Seem Missing</span></a></li>
 </ul>

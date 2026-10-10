@@ -336,7 +336,7 @@ A [death certificate]({{ 'death-certificate/' | relative_url }}) or second-hand 
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
 <li><a href="{{ '/autopsy-records/' | relative_url }}"><span class="article-branch-link-short">Autopsy Records</span><span class="article-branch-link-heading">What Eskridge&#x27;s Autopsy Report Could Actually Settle</span></a></li>
 <li><a href="{{ '/suicide-ruling/' | relative_url }}"><span class="article-branch-link-short">Suicide Ruling</span><span class="article-branch-link-heading">How Much Weight Should Eskridge&#x27;s Suicide Ruling Carry?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

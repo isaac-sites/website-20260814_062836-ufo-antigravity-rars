@@ -328,7 +328,7 @@ That distinction separates [hostility]({{ 'hostility/' | relative_url }}) from p
 <ul>
 <li><a href="{{ '/research-stakes/' | relative_url }}"><span class="article-branch-link-short">Research Stakes</span><span class="article-branch-link-heading">Was the Research Important Enough to Threaten Anyone?</span></a></li>
 <li><a href="{{ '/motive-evidence/' | relative_url }}"><span class="article-branch-link-short">Motive Evidence</span><span class="article-branch-link-heading">What Would Actually Prove a Research Related Motive?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 <li><a href="{{ '/silence-vs-missing/' | relative_url }}"><span class="article-branch-link-short">Silence vs Missing</span><span class="article-branch-link-heading">When Did Ning Li Actually Disappear From View?</span></a></li>
 </ul>

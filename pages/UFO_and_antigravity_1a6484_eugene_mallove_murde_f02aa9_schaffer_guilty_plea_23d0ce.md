@@ -327,7 +327,7 @@ That distinction sets the proper evidential boundary. Schaffer’s plea establis
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/eviction-dispute/' | relative_url }}"><span class="article-branch-link-short">Eviction Dispute</span><span class="article-branch-link-heading">How the Eviction Dispute Led Back to Mallove</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/cross-case-links/' | relative_url }}"><span class="article-branch-link-short">Cross Case Links</span><span class="article-branch-link-heading">What Would Actually Link Separate Researcher Deaths?</span></a></li>
 <li><a href="{{ '/evidence-problem/' | relative_url }}"><span class="article-branch-link-short">Evidence Problem</span><span class="article-branch-link-heading">How Bad UFO Evidence Made Serious Research Harder</span></a></li>
 <li><a href="{{ '/gravity-coupling/' | relative_url }}"><span class="article-branch-link-short">Gravity Coupling</span><span class="article-branch-link-heading">Could Superconductors Amplify Tiny Gravity Effects?</span></a></li>

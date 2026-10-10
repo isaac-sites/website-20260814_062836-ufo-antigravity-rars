@@ -332,7 +332,7 @@ On 20 April 2026, House Oversight chairman James Comer and Economic Growth, Ener
 <ul>
 <li><a href="{{ '/list-growth/' | relative_url }}"><span class="article-branch-link-short">List Growth</span><span class="article-branch-link-heading">How One Scientist List Grew So Fast</span></a></li>
 <li><a href="{{ '/death-lists/' | relative_url }}"><span class="article-branch-link-short">Death Lists</span><span class="article-branch-link-heading">How Suppressed Scientist Death Lists Grow Over Time</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/cold-fusion-timing/' | relative_url }}"><span class="article-branch-link-short">Cold Fusion Timing</span><span class="article-branch-link-heading">Did Cold Fusion&#x27;s Revival Make Mallove a Target?</span></a></li>
 </ul>

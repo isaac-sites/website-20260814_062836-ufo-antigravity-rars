@@ -336,7 +336,7 @@ Such a result would have been revolutionary if reproducible. It would suggest an
 <li><a href="{{ '/robertson-panel/' | relative_url }}"><span class="article-branch-link-short">Robertson Panel</span><span class="article-branch-link-heading">What Did the Robertson Panel Mean by Debunking?</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
 <li><a href="{{ '/1997-test/' | relative_url }}"><span class="article-branch-link-short">1997 Test</span><span class="article-branch-link-heading">What Ning Li&#x27;s 1997 Gravity Test Actually Found</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

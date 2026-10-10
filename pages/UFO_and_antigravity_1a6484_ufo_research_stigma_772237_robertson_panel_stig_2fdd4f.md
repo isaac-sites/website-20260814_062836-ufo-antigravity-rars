@@ -329,7 +329,7 @@ The panel emerged from the extraordinary UFO-reporting environment of 1952. Repo
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/robertson-panel/' | relative_url }}"><span class="article-branch-link-short">Robertson Panel</span><span class="article-branch-link-heading">What Did the Robertson Panel Mean by Debunking?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 <li><a href="{{ '/congressional-record/' | relative_url }}"><span class="article-branch-link-short">Congressional Record</span><span class="article-branch-link-heading">Does Being Submitted to Congress Confirm a Claim?</span></a></li>
 <li><a href="{{ '/search-amplification/' | relative_url }}"><span class="article-branch-link-short">Search Amplification</span><span class="article-branch-link-heading">Why Search Engines Can Make a Scientist Seem Missing</span></a></li>

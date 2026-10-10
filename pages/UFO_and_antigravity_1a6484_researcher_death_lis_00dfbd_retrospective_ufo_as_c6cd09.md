@@ -328,7 +328,7 @@ The key step is usually **technological reinterpretation rather than evidence of
 <li><a href="{{ '/bridge-labels/' | relative_url }}"><span class="article-branch-link-short">Bridge Labels</span><span class="article-branch-link-heading">Why Unrelated Researchers Start Looking Connected</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
 <li><a href="{{ '/redstone-links/' | relative_url }}"><span class="article-branch-link-short">Redstone Links</span><span class="article-branch-link-heading">Do Redstone Connections Really Signal a Secret Program?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

@@ -332,7 +332,7 @@ That missing denominator is one of the central evidential problems with alarming
 <li><a href="{{ '/cluster-lists/' | relative_url }}"><span class="article-branch-link-short">Cluster Lists</span><span class="article-branch-link-heading">When a Researcher Death List Creates Its Own Pattern</span></a></li>
 <li><a href="{{ '/pattern-illusion/' | relative_url }}"><span class="article-branch-link-short">Pattern Illusion</span><span class="article-branch-link-heading">Why Do Unrelated Researcher Deaths Look Like a Pattern?</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

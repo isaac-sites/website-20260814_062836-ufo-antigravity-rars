@@ -564,7 +564,7 @@ This is where many research-related death theories become too abstract. Claims m
 <ul>
 <li><a href="{{ '/motive-to-access/' | relative_url }}"><span class="article-branch-link-short">Motive to Access</span><span class="article-branch-link-heading">What Connects a Suspected Actor to the Death?</span></a></li>
 <li><a href="{{ '/threat-claims/' | relative_url }}"><span class="article-branch-link-short">Threat Claims</span><span class="article-branch-link-heading">Which Threats Count as Strong Evidence?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 </ul>

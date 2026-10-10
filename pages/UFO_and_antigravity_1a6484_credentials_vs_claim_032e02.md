@@ -566,7 +566,7 @@ Scientific standing matters because it helps answer an important preliminary que
 <li><a href="{{ '/li-s-experiments/' | relative_url }}"><span class="article-branch-link-short">Li s Experiments</span><span class="article-branch-link-heading">Did Ning Li Actually Prove Antigravity?</span></a></li>
 <li><a href="{{ '/prior-attempt/' | relative_url }}"><span class="article-branch-link-short">Prior Attempt</span><span class="article-branch-link-heading">What Mc Donald&#x27;s Prior Suicide Attempt Changes</span></a></li>
 <li><a href="{{ '/peer-review-07ba46/' | relative_url }}"><span class="article-branch-link-short">Peer Review</span><span class="article-branch-link-heading">What Peer Review Did to Ning Li&#x27;s Theory</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

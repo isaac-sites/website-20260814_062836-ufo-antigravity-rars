@@ -328,7 +328,7 @@ During the 1990s, Li was not an obscure figure who left no documentary footprint
 <li><a href="{{ '/rumor-timing/' | relative_url }}"><span class="article-branch-link-short">Rumor Timing</span><span class="article-branch-link-heading">Did the Suppression Story Exist at the Time?</span></a></li>
 <li><a href="{{ '/intervening-years/' | relative_url }}"><span class="article-branch-link-short">Intervening Years</span><span class="article-branch-link-heading">What Happened Between the Research and the Outcome?</span></a></li>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 </ul>
 </section>
 </div>

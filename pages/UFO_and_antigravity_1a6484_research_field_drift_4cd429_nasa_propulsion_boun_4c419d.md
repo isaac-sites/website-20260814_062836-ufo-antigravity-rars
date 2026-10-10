@@ -333,7 +333,7 @@ NASA established the BPP programme in 1996, managed through what was then Lewis 
 <li><a href="{{ '/merged-lineages/' | relative_url }}"><span class="article-branch-link-short">Merged Lineages</span><span class="article-branch-link-heading">How Free Energy Narratives Merge Very Different Inventors</span></a></li>
 <li><a href="{{ '/list-expansion/' | relative_url }}"><span class="article-branch-link-short">List Expansion</span><span class="article-branch-link-heading">Why Suppressed Scientist Lists Keep Getting Bigger</span></a></li>
 <li><a href="{{ '/nasa-stigma/' | relative_url }}"><span class="article-branch-link-short">NASA Stigma</span><span class="article-branch-link-heading">NASA Found UAP Stigma Without Endorsing UFO Claims</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 </ul>
 </section>

@@ -327,7 +327,7 @@ The dispute is therefore a useful example of what peer review does — and does 
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/peer-review/' | relative_url }}"><span class="article-branch-link-short">Peer Review</span><span class="article-branch-link-heading">What Did Peer Review Actually Validate in Gravity Research?</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/secret-aircraft/' | relative_url }}"><span class="article-branch-link-short">Secret Aircraft</span><span class="article-branch-link-heading">When Secret Aircraft Get Mistaken for UFOs</span></a></li>
 <li><a href="{{ '/arpa-e-return/' | relative_url }}"><span class="article-branch-link-short">ARPA E Return</span><span class="article-branch-link-heading">Why the US Government Funded LENR Again</span></a></li>
 <li><a href="{{ '/marshall-ties/' | relative_url }}"><span class="article-branch-link-short">Marshall Ties</span><span class="article-branch-link-heading">Why NASA Connections Mean Less in Huntsville</span></a></li>

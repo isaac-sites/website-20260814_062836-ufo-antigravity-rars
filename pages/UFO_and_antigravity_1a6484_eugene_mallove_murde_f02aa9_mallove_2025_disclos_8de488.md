@@ -331,7 +331,7 @@ The case was *Brown v. Commissioner of Correction*, decided by the Connecticut A
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/ufo-and-antigravity/' | relative_url }}"><span class="article-branch-link-short">UFO and antigravity</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 <li><a href="{{ '/competing-explanations/' | relative_url }}"><span class="article-branch-link-short">Competing Explanations</span><span class="article-branch-link-heading">When Does a Suspicious Pattern Stop Being Evidence?</span></a></li>
 <li><a href="{{ '/congressional-record/' | relative_url }}"><span class="article-branch-link-short">Congressional Record</span><span class="article-branch-link-heading">Does Being Submitted to Congress Confirm a Claim?</span></a></li>

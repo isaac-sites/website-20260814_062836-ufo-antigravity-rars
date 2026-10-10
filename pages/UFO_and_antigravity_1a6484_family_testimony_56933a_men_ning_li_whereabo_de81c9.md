@@ -321,7 +321,7 @@ Men’s testimony matters because it supplies something the disappearance storie
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/family-accounts/' | relative_url }}"><span class="article-branch-link-short">Family Accounts</span><span class="article-branch-link-heading">How Family Testimony Can Collapse a Disappearance Mystery</span></a></li>
-<li><a href="{{ '/death-records/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
+<li><a href="{{ '/death-records-608437/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li Death...</span><span class="article-branch-link-heading">The Records That Anchor Ning Li&#x27;s Timeline</span></a></li>
 <li><a href="{{ '/2014-accident-793b5c/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Ning Li 2014...</span><span class="article-branch-link-heading">What Ended Ning Li&#x27;s Working Life?</span></a></li>
 <li><a href="{{ '/family-timeline/' | relative_url }}"><span class="article-branch-link-short">Family Testimony 569 522999 Li Family...</span><span class="article-branch-link-heading">The Six Years Ning Li Was Not Missing</span></a></li>
 <li><a href="{{ '/nasa-stigma/' | relative_url }}"><span class="article-branch-link-short">NASA Stigma</span><span class="article-branch-link-heading">NASA Found UAP Stigma Without Endorsing UFO Claims</span></a></li>
