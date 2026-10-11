@@ -929,7 +929,7 @@ That creates a paradox at the heart of suppressed-scientist narratives: **the li
 14.<a id="endnote-14"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 
 15.<a id="endnote-15"></a>
    Source: reddit.com  

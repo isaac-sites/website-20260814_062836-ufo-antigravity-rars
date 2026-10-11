@@ -955,7 +955,7 @@ That is the central lesson of Ning Li's secrecy claims. **Secrecy can explain wh
 
 30.<a id="endnote-30"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 31.<a id="endnote-31"></a>
    Source: researchgate.net  

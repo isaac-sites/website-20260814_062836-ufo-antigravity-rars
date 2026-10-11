@@ -1014,7 +1014,7 @@ For the wider history of alleged disappearances surrounding UFO and antigravity 
 
 39.<a id="endnote-39"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 40.<a id="endnote-40"></a>
    Source: researchgate.net  

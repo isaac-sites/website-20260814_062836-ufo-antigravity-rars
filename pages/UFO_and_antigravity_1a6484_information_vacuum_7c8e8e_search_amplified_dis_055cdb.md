@@ -1176,7 +1176,7 @@ For alleged disappearances connected with UFO or antigravity research, that diff
 
 74.<a id="endnote-74"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 75.<a id="endnote-75"></a>
    Source: researchgate.net  

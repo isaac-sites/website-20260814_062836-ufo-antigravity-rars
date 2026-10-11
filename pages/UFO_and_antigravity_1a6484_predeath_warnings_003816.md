@@ -1108,7 +1108,7 @@ Until those later links are demonstrated, a pre-death warning is best understood
 6.<a id="endnote-6"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022) - Huntsville, AL - AL.com (Huntsville)June 21, 2022...</p></details>
    Published: June 21, 2022  
 
@@ -1457,7 +1457,7 @@ Until those later links are demonstrated, a pre-death warning is best understood
 
 83.<a id="endnote-83"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 84.<a id="endnote-84"></a>
    Source: tribune.com.pk  

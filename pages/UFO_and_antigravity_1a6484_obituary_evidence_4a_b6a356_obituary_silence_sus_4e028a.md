@@ -1479,7 +1479,7 @@ The more defensible rule is simple: **an obituary can confirm what it actually s
 
 94.<a id="endnote-94"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 95.<a id="endnote-95"></a>
    Source: wegotthiscovered.com  

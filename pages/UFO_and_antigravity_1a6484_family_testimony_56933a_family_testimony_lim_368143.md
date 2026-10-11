@@ -1044,7 +1044,7 @@ Family testimony cannot provide those things. Its importance in Ning Li's case l
 
 51.<a id="endnote-51"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 52.<a id="endnote-52"></a>
    Source: wegotthiscovered.com  

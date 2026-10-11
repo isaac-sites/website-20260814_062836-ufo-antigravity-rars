@@ -871,7 +871,7 @@ What it does establish is that there was a severe, independently documented pers
 8.<a id="endnote-8"></a>
    Source: legacy.com  
    Title: james mcdonald obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 
 9.<a id="endnote-9"></a>
    Source: scribd.com  

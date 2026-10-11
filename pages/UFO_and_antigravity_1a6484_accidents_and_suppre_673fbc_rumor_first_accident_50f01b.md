@@ -1127,4 +1127,4 @@ Applied to Ning Li, the sequence looks substantially different from the familiar
 
 69.<a id="endnote-69"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  

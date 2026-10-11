@@ -945,7 +945,7 @@ For disputed deaths among [UFO and antigravity]({{ 'ufo-and-antigravity/' | rela
 
 23.<a id="endnote-23"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 24.<a id="endnote-24"></a>
    Source: expandingfrontiersresearch.org  

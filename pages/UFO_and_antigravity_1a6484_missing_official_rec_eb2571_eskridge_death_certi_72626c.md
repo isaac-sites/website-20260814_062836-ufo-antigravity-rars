@@ -810,7 +810,7 @@ Unless an authorised holder releases a genuine copy, a court orders disclosure, 
 1.<a id="endnote-1"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge Obituary (1987 - 2022) - Huntsville, AL - AL.com (Huntsville)...</p></details>
 
 2.<a id="endnote-2"></a>

@@ -1120,7 +1120,7 @@ When those connecting elements are absent, the responsible conclusion is narrowe
 
 71.<a id="endnote-71"></a>
    Source: nap.nationalacademies.org  
-   Link:<a href="https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=80-97&amp;record_id=1864" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=80-97&amp;record_id=1864</a>  
+   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=80-97&amp;record_id=1864  
 
 72.<a id="endnote-72"></a>
    Source: law.cornell.edu  
@@ -1223,7 +1223,7 @@ When those connecting elements are absent, the responsible conclusion is narrowe
 
 95.<a id="endnote-95"></a>
    Source: osha.gov  
-   Link:<a href="https://www.osha.gov/laws-regs/standardinterpretations/1996" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/laws-regs/standardinterpretations/1996</a>  
+   Link:https://www.osha.gov/laws-regs/standardinterpretations/1996  
 
 96.<a id="endnote-96"></a>
    Source: fbi.gov  
@@ -1231,16 +1231,16 @@ When those connecting elements are absent, the responsible conclusion is narrowe
 
 97.<a id="endnote-97"></a>
    Source: osha.gov  
-   Link:<a href="https://www.osha.gov/laws-regs/standardinterpretations/2009" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/laws-regs/standardinterpretations/2009</a>  
+   Link:https://www.osha.gov/laws-regs/standardinterpretations/2009  
 
 98.<a id="endnote-98"></a>
    Source: osha.gov  
-   Link:<a href="https://www.osha.gov/laws-regs/standardinterpretations/2024" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/laws-regs/standardinterpretations/2024</a>  
+   Link:https://www.osha.gov/laws-regs/standardinterpretations/2024  
 
 99.<a id="endnote-99"></a>
    Source: osha.gov  
-   Link:<a href="https://www.osha.gov/laws-regs/standardinterpretations/2023" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/laws-regs/standardinterpretations/2023</a>  
+   Link:https://www.osha.gov/laws-regs/standardinterpretations/2023  
 
 100.<a id="endnote-100"></a>
    Source: osha.gov  
-   Link:<a href="https://www.osha.gov/laws-regs/standardinterpretations/2016" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/laws-regs/standardinterpretations/2016</a>  
+   Link:https://www.osha.gov/laws-regs/standardinterpretations/2016  
