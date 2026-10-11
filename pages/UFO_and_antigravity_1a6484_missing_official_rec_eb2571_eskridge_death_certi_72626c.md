@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufo-and-antigravity/
 - /missing-records/
 nav_short_title: Death Certificate
-title: Why Amy Eskridge's Death Certificate Is Not Public
+title: "Why Amy Eskridge's Death Certificate Is Not Public (death certificate)"
 title_full: Why Amy Eskridge's Death Certificate Is Not Public | Missing Records
 display_title_short: Death Certificate
 display_title: Death Certificate
