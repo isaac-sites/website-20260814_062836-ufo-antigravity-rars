@@ -1009,7 +1009,6 @@ The distinction removes one of the case’s most dramatic implications without r
 
 38.<a id="endnote-38"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 39.<a id="endnote-39"></a>
    Source: wegotthiscovered.com  

@@ -926,7 +926,6 @@ Without such evidence, the fact that separate researchers died, disappeared from
 13.<a id="endnote-13"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 
 14.<a id="endnote-14"></a>
    Source: handwiki.org  
@@ -1622,7 +1621,6 @@ Without such evidence, the fact that separate researchers died, disappeared from
 
 161.<a id="endnote-161"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 162.<a id="endnote-162"></a>
    Source: wegotthiscovered.com  

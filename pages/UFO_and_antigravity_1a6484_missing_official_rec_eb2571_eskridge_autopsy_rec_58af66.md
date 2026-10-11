@@ -842,7 +842,6 @@ Until those findings can be inspected, the careful conclusion remains limited: t
 1.<a id="endnote-1"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022) - Huntsville, AL - AL.com (Huntsville)June 21, 2022...</p></details>
    Published: June 21, 2022  
 

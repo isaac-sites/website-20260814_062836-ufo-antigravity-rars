@@ -1431,7 +1431,6 @@ The clearest lesson is not that every suspicious-scientist story can be dismisse
 
 76.<a id="endnote-76"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 77.<a id="endnote-77"></a>
    Source: hindustantimes.com  

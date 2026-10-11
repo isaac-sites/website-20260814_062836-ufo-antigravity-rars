@@ -1327,7 +1327,6 @@ For the broader history of UFO and unconventional-propulsion research, that dist
 
 114.<a id="endnote-114"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 115.<a id="endnote-115"></a>
    Source: ufotransparency.com  

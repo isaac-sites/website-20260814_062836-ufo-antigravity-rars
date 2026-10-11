@@ -1173,7 +1173,6 @@ That null result is especially significant in discussions of alleged suppression
 
 76.<a id="endnote-76"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 77.<a id="endnote-77"></a>
    Source: anthrowiki.at  

@@ -879,7 +879,6 @@ The most defensible conclusion is narrower and more useful. Amy Eskridge was pur
 5.<a id="endnote-5"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022) - Huntsville, AL - AL.com (Huntsville)...</p></details>
 
 6.<a id="endnote-6"></a>

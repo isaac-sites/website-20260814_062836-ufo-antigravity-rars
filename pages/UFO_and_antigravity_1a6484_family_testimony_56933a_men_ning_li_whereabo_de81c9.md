@@ -914,7 +914,6 @@ For disappearance narratives surrounding scientists engaged in secretive or defe
 
 19.<a id="endnote-19"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 20.<a id="endnote-20"></a>
    Source: fr.scribd.com  

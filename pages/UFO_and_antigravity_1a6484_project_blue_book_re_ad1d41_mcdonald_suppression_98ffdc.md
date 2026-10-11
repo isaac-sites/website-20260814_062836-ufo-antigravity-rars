@@ -1169,7 +1169,6 @@ For assessing later claims surrounding his fate, that missing link is decisive. 
 
 74.<a id="endnote-74"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 75.<a id="endnote-75"></a>
    Source: theblackvault.com  

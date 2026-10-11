@@ -932,7 +932,6 @@ For disappearance narratives, that is a consequential correction. The unresolved
 
 29.<a id="endnote-29"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 30.<a id="endnote-30"></a>
    Source: citylifestyle.com  

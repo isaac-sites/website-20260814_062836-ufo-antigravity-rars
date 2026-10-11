@@ -897,7 +897,6 @@ The resulting paper trail therefore documents belief, advocacy and bureaucratic 
 
 22.<a id="endnote-22"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 23.<a id="endnote-23"></a>
    Source: theblackvault.com  

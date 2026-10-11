@@ -880,7 +880,6 @@ They do **not**, however, establish a documented programme of murdering antigrav
 5.<a id="endnote-5"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 
 6.<a id="endnote-6"></a>
    Source: ksl.com  

@@ -1287,7 +1287,6 @@ For claims about suspicious deaths connected with UFO or antigravity research, t
 
 99.<a id="endnote-99"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 100.<a id="endnote-100"></a>
    Source: disclosuredossier.com  

@@ -953,7 +953,6 @@ What disappeared was principally **Ning Li's research from public view**, not Ni
 
 28.<a id="endnote-28"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 29.<a id="endnote-29"></a>
    Source: researchgate.net  

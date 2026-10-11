@@ -1065,7 +1065,6 @@ That makes the Army award both the strongest factual element in this part of the
 
 54.<a id="endnote-54"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 55.<a id="endnote-55"></a>
    Source: everycrsreport.com  

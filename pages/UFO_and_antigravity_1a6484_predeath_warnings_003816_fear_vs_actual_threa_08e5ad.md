@@ -861,7 +861,6 @@ Applied to Amy Eskridge, the careful conclusion is therefore narrower, but more 
 8.<a id="endnote-8"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge Obituary (1987 - 2022) - Huntsville, AL - AL.com (Huntsville)June 21, 2022...</p></details>
    Published: June 21, 2022  
 
