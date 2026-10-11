@@ -850,7 +850,7 @@ The enduring significance of the warnings is therefore procedural rather than co
 5.<a id="endnote-5"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 
 6.<a id="endnote-6"></a>
    Source: reddit.com  

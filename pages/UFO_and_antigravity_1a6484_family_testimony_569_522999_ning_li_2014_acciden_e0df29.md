@@ -881,4 +881,4 @@ The *Huntsville Business Journal* describes Li’s final years in explicitly per
 
 22.<a id="endnote-22"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  

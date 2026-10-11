@@ -858,7 +858,7 @@ For claims about suspicious deaths among UFO or antigravity researchers, this di
 4.<a id="endnote-4"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022) - Huntsville, AL - AL.com (Huntsville)June 21, 2022...</p></details>
    Published: June 21, 2022  
 

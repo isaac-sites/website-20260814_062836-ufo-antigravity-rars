@@ -1043,7 +1043,7 @@ The recent wave of concern over missing or dead US scientists deserves the same 
 5.<a id="endnote-5"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Catherine Eskridge is currently the most consequential case for people arguing that antigravity researchers have been targeted. Her o...</p></details>
 
 6.<a id="endnote-6"></a>

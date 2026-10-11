@@ -1461,7 +1461,7 @@ The safest analytical correction is simple: temporarily remove the research subj
 
 137.<a id="endnote-137"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 138.<a id="endnote-138"></a>
    Source: wegotthiscovered.com  

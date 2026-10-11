@@ -975,7 +975,7 @@ On the currently accessible record, there are genuine overlaps worth examining, 
 
 31.<a id="endnote-31"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 32.<a id="endnote-32"></a>
    Source: facebook.com  

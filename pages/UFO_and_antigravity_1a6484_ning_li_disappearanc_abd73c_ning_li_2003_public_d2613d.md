@@ -983,4 +983,4 @@ The historically useful conclusion is narrower. **Ning Li was publicly active in
 
 39.<a id="endnote-39"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  

@@ -1288,7 +1288,7 @@ The appropriate evidential judgement can therefore remain provisional without be
 28.<a id="endnote-28"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 
 29.<a id="endnote-29"></a>
    Source: legacy.com  

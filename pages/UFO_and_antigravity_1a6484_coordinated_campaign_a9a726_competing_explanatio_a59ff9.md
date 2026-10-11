@@ -1098,7 +1098,7 @@ A coordinated-killing hypothesis would become substantially stronger if future e
 
 55.<a id="endnote-55"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 56.<a id="endnote-56"></a>
    Source: podscan.fm  

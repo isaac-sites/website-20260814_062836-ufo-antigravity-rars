@@ -804,7 +804,7 @@ This creates an important hierarchy:
 2.<a id="endnote-2"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:<a href="https://www.legacy.com/us/[obituaries" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/[obituaries</a>  
+   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022) - Huntsville, AL - AL.com (Huntsville)...</p></details>
 
 3.<a id="endnote-3"></a>
@@ -1069,7 +1069,7 @@ This creates an important hierarchy:
 
 57.<a id="endnote-57"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 58.<a id="endnote-58"></a>
    Source: btlv.fr  

@@ -1185,7 +1185,7 @@ For the wider history of controversial gravity research, this case is therefore 
 
 82.<a id="endnote-82"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 83.<a id="endnote-83"></a>
    Source: facebook.com  

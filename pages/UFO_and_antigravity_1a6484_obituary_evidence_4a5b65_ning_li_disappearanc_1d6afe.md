@@ -1007,7 +1007,7 @@ That does not make every part of Ning Li's story transparent. Her post-academic 
 
 36.<a id="endnote-36"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 37.<a id="endnote-37"></a>
    Source: wegotthiscovered.com  

@@ -1198,7 +1198,7 @@ That distinction is the main value of the timeline test. It does not require ass
 
 18.<a id="endnote-18"></a>
    Source: shinysideout.com.au  
-   Link:<a href="https://www.shinysideout.com.au/13-ning-li.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shinysideout.com.au/13-ning-li.html</a>  
+   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 19.<a id="endnote-19"></a>
    Source: concertfix.com  
