@@ -982,7 +982,6 @@ For alleged [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) s
 
 29.<a id="endnote-29"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 30.<a id="endnote-30"></a>
    Source: shmeeprints.com  

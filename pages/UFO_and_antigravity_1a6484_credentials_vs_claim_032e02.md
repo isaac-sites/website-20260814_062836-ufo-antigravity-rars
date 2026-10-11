@@ -1252,7 +1252,6 @@ That distinction is not a dismissal of anomalous research. It is what allows gen
 
 34.<a id="endnote-34"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 35.<a id="endnote-35"></a>
    Source: wegotthiscovered.com  

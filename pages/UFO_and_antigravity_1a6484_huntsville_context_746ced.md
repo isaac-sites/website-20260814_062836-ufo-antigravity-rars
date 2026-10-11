@@ -1072,7 +1072,6 @@ Huntsville therefore matters most as an explanation for why antigravity conspira
 6.<a id="endnote-6"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge’s connection to Huntsville was different but equally important to later antigravity narratives. Her obituary states that she...</p></details>
 
 7.<a id="endnote-7"></a>

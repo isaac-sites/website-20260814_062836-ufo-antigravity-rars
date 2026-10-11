@@ -1074,7 +1074,6 @@ The striking titles are therefore evidence of **what the programme was prepared 
 
 57.<a id="endnote-57"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 58.<a id="endnote-58"></a>
    Source: medium.com  

@@ -1112,7 +1112,6 @@ The most evidence-consistent interpretation is therefore not that successful sup
 
 64.<a id="endnote-64"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 65.<a id="endnote-65"></a>
    Source: independent.co.uk  

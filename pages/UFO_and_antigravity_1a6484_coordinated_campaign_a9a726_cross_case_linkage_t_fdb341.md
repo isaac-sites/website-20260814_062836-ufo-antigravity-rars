@@ -1251,7 +1251,6 @@ This is the critical distinction between a **pattern of subjects** and a **patte
 
 87.<a id="endnote-87"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 88.<a id="endnote-88"></a>
    Source: facebook.com  

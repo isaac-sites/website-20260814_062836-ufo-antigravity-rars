@@ -927,4 +927,3 @@ The result does not require treating every unresolved aspect of Li's career as s
 
 25.<a id="endnote-25"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  

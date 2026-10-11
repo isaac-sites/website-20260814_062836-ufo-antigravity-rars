@@ -893,7 +893,6 @@ Without those links, a rising body count can be visually dramatic while the caus
 11.<a id="endnote-11"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 
 12.<a id="endnote-12"></a>
    Source: disappearedblog.com  

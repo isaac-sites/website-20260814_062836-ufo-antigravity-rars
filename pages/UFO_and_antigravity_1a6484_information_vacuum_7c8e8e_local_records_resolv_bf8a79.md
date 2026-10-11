@@ -1037,7 +1037,6 @@ For researchers associated with UFOs, unconventional propulsion or classified de
 
 37.<a id="endnote-37"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 38.<a id="endnote-38"></a>
    Source: vimeo.com  

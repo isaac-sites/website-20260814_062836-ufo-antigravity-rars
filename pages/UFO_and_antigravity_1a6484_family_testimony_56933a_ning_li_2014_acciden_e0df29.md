@@ -894,7 +894,6 @@ For this narrow part of Ning Li's story, that is the principal takeaway. **2014 
 
 18.<a id="endnote-18"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 19.<a id="endnote-19"></a>
    Source: wegotthiscovered.com  

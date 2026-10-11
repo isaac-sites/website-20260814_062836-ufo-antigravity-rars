@@ -999,7 +999,6 @@ Later revelations did not make every unanswered question disappear. They did som
 
 37.<a id="endnote-37"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 38.<a id="endnote-38"></a>
    Source: wegotthiscovered.com  

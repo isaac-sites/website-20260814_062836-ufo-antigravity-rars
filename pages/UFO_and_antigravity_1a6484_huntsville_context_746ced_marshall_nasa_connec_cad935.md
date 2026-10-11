@@ -1356,7 +1356,6 @@ Marshall ties therefore deserve neither dismissal nor automatic suspicion. They 
 
 116.<a id="endnote-116"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 117.<a id="endnote-117"></a>
    Source: facebook.com  

@@ -960,7 +960,6 @@ That sequence is precisely why Ning Li is an instructive case within claims abou
 
 28.<a id="endnote-28"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 29.<a id="endnote-29"></a>
    Source: wegotthiscovered.com  

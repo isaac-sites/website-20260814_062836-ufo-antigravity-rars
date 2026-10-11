@@ -1123,7 +1123,6 @@ That separation is the key to understanding Ning Li’s public silence. There is
 
 66.<a id="endnote-66"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 67.<a id="endnote-67"></a>
    Source: archive.ph  

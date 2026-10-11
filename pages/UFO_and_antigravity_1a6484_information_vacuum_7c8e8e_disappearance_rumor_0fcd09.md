@@ -1028,7 +1028,6 @@ The broader lesson within claims of suspicious deaths and disappearances is narr
 
 49.<a id="endnote-49"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 50.<a id="endnote-50"></a>
    Source: wegotthiscovered.com  

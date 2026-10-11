@@ -948,7 +948,6 @@ The remaining mystery is therefore substantially smaller than the legend. What b
 
 25.<a id="endnote-25"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 26.<a id="endnote-26"></a>
    Source: wegotthiscovered.com  

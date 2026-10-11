@@ -919,7 +919,6 @@ What *has* unravelled is its strongest version. The evidence supports a consider
 
 22.<a id="endnote-22"></a>
    Source: shinysideout.com.au  
-   Link:https://www.shinysideout.com.au/13-ning-li.html  
 
 23.<a id="endnote-23"></a>
    Source: wegotthiscovered.com  

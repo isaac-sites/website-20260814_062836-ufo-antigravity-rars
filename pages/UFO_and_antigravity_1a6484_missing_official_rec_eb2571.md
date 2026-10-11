@@ -1083,7 +1083,6 @@ For claims about suspicious deaths in [UFO and antigravity]({{ 'ufo-and-antigrav
 1.<a id="endnote-1"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge Obituary (1987 - 2022) - Huntsville, AL - AL.com (Huntsville)June 21, 2022...</p></details>
    Published: June 21, 2022  
 

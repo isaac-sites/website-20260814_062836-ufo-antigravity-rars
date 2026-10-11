@@ -1101,7 +1101,6 @@ For readers evaluating claims that UFO or antigravity researchers were “suicid
 5.<a id="endnote-5"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link:https://www.legacy.com/us/[obituaries  
 
 6.<a id="endnote-6"></a>
    Source: yahoo.com  
