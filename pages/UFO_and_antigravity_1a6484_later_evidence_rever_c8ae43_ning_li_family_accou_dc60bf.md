@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufo-and-antigravity/
 - /myth-reversals/
 nav_short_title: Family Account
-title: What Ning Li's Son Said Really Happened
+title: "What Ning Li's Son Said Really Happened (family account)"
 title_full: What Ning Li's Son Said Really Happened | Myth Reversals
 display_title_short: Family Account
 display_title: Family Account

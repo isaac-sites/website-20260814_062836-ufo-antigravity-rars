@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufo-and-antigravity/
 - /coordination/
 nav_short_title: Cross Case Links
-title: What Would Actually Link Separate Researcher Deaths?
+title: "What Would Actually Link Separate Researcher Deaths? (cross case links)"
 title_full: What Would Actually Link Separate Researcher Deaths? | Coordination
 display_title_short: Cross Case Links
 display_title: Cross Case Links

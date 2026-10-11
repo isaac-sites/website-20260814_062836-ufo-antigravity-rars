@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufo-and-antigravity/
 - /pattern-illusion/
 nav_short_title: Common Signatures
-title: What Would Actually Link Separate Researcher Deaths?
+title: "What Would Actually Link Separate Researcher Deaths? (common signatures)"
 title_full: What Would Actually Link Separate Researcher Deaths? | Pattern Illusion
 display_title_short: Common Signatures
 display_title: Common Signatures
